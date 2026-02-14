@@ -1,0 +1,1461 @@
+No	Category	Subcategory	Description	Qty	UOM	Price/Unit (RM)	Total (RM)	Update Date	Supplier	Note
+1	Aggregates	Cement & Mortar	Cement	40	BAG	24	960	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+2	Aggregates	Cement & Mortar	Cement	384	BAG	24	9216	2025-10-08	E SHENG HARDWARE (JH) SDN BHD	
+3	Aggregates	Cement & Mortar	Cement (Bag)	2	BAG	24	48	2025-11-20		
+4	Aggregates	Cement & Mortar	Cement (Bag)	1	BAG	24	24	2026-01-20	NILAI AGRICULTURE ENTERPRISE	
+5	Aggregates	Cement & Mortar	Cement (Type Unknown)	40	BAG	24	960	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+6	Aggregates	Cement & Mortar	Cement 50kg Bag	5	BAG	22.00	110.00	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928;brand_unknown=1
+7	Aggregates	Cement & Mortar	Cement for Tembok 50kg Bag	5	BAG	22.00	110	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+8	Aggregates	Cement & Mortar	Cement Ytl R	15	BAG	24	360	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+9	Aggregates	Cement & Mortar	Cima NS Cement Green 50kg Bag	40	BAG	24	960	2025-10-16	E SHENG HARDWARE (JH) SDN BHD	
+10	Aggregates	Cement & Mortar	Flexi Simen	25	BAG	22.5	562.5	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103;combined_qty=20+5
+11	Aggregates	Cement & Mortar	Portland Cement 50kg Bag	35	BAG	24	840	2024-07-09	BILAL HARDWARE	
+12	Aggregates	Cement & Mortar	Ready Mix Concrete G20 (Per m3)	1	M3	330.00	330	2026-02-04	XIN LONG TRACTOR ENGINEERING	price per m3
+13	Aggregates	Cement & Mortar	Ready Mix Concrete G25 (Per m3)	1	M3	340	340	2026-02-04	XIN LONG TRACTOR ENGINEERING	price per m3
+14	Aggregates	Cement & Mortar	Ready Mix Concrete G30 (Per m3)	1	M3	350	350	2026-02-04	XIN LONG TRACTOR ENGINEERING	price per m3
+15	Aggregates	Cement & Mortar	YTL PCC Cement Castle 50kg Bag	40	BAG	24	960	2025-10-16	E SHENG HARDWARE (JH) SDN BHD	
+16	Aggregates	Cement & Mortar	YTL PCC Cement Castle 50kg Bag	2	BAG	24	48	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+17	Aggregates	Cement & Mortar	YTL PCC Cement Castle 50kg Bag	40	BAG	24	960	2026-02-12	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005929
+18	Aggregates	Sand & Aggregates	3/4" Aggregate (10-Wheel Truck)	1	TRIP	850	850	2025-11-04	E SHENG HARDWARE (JH) SDN BHD	Malay: Batu = Aggregate
+19	Aggregates	Sand & Aggregates	3/4" Aggregate (10-Wheel Truck)	1	TRIP	830.00	830	2026-02-04	XIN LONG TRACTOR ENGINEERING	10-wheel 17-18T +/-
+20	Aggregates	Sand & Aggregates	3/4" Aggregate (Bag)	6	BAG	5	30	2025-09-30	NILAI AGRICULTURE ENTERPRISE	Malay: Batu = Aggregate
+21	Aggregates	Sand & Aggregates	3/4" Aggregate (Scoop)	4	SCOOP	80	320	2025-09-30	NILAI AGRICULTURE ENTERPRISE	Malay: Batu = Aggregate
+22	Aggregates	Sand & Aggregates	Aggregate 3/4"	2	TRIP	850	1700	2025-11-04	E SHENG HARDWARE (JH) SDN BHD	
+23	Aggregates	Sand & Aggregates	Coarse Aggregate (10-Wheel Truck)	1	TRIP	850	850	2025-11-04	E SHENG HARDWARE (JH) SDN BHD	Malay: Batu Kasaran
+24	Aggregates	Sand & Aggregates	Coarse Sand	1	TRIP	800	800			
+25	Aggregates	Sand & Aggregates	Coarse Sand (10-Wheel Truck)	1	TRIP	860	860	2026-02-04	E SHENG HARDWARE (JH) SDN BHD	Malay: Pasir Kasar, 1 trip ~= 18T +/-
+26	Aggregates	Sand & Aggregates	Coarse Sand (10-Wheel Truck)	1	TRIP	850	850	2026-02-04	XIN LONG TRACTOR ENGINEERING	10-wheel 17-18T +/-
+27	Aggregates	Sand & Aggregates	Coarse Sand (Scoop)	1	SCOOP	70	70	2025-10-08	E SHENG HARDWARE (JH) SDN BHD	Malay: Pasir Kasar
+28	Aggregates	Sand & Aggregates	Coarse Sand 20kg Bag	1	BAG	6	6	2025-08-13		
+29	Aggregates	Sand & Aggregates	Crushed Stone 1/2in (Bag)	5	BAG	4.5	22.5	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+30	Aggregates	Sand & Aggregates	Crusher Run (10-Wheel Truck)	1	TRIP	850	850	2025-11-04	E SHENG HARDWARE (JH) SDN BHD	
+31	Aggregates	Sand & Aggregates	Crusher Run (10-Wheel Truck)	1	TRIP	830	830	2026-02-04	XIN LONG TRACTOR ENGINEERING	10-wheel 17-18T +/-
+32	Aggregates	Sand & Aggregates	Fine Sand	3	TRIP	700	2100			
+33	Aggregates	Sand & Aggregates	Fine Sand (10-Wheel Truck)	3	TRIP	900	2700	2025-09-02		Malay: Halus = Fine
+34	Aggregates	Sand & Aggregates	Fine Sand (10-Wheel Truck)	1	TRIP	1060	1060	2026-02-04	E SHENG HARDWARE (JH) SDN BHD	1 trip ~= 18T +/-
+35	Aggregates	Sand & Aggregates	Fine Sand (10-Wheel Truck)	1	TRIP	950	950	2026-02-04	XIN LONG TRACTOR ENGINEERING	10-wheel 17-18T +/-
+36	Aggregates	Sand & Aggregates	Fine Sand (Scoop)	2	SCOOP	80	160	2025-10-08	E SHENG HARDWARE (JH) SDN BHD	Malay: Pasir Halus
+37	Aggregates	Sand & Aggregates	Fine Sand 20kg/Bag	1	BAG	6	6	2025-08-13		
+38	Aggregates	Sand & Aggregates	Plaster Sand	2	BAG	3.5	7	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+39	Aggregates	Sand & Aggregates	Red Soil (Tanah Merah) (10-Wheel Truck)	1	TRIP	360	360	2026-02-04	XIN LONG TRACTOR ENGINEERING	10-wheel 17-18T +/-
+40	Aggregates	Sand & Aggregates	Soil Backfill (10-Wheel Truck)	13	TRIP	450	5850			
+41	Aggregates	Sand & Aggregates	White Sand (Pasir Putih)	2	BAG	2.5	5	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+42	Aggregates	Sand & Aggregates	White Sand (Pasir Putih)	10	BAG	3	30	2026-02-12	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005929
+43	Aluminium	ACP Panel	ACP Panel Double Side (Silver) 4ft x 8ft x 3.00mm	1	PCS	80	80	2022-06-11	YIT LOONG BUILDING MATERIALS SDN BHD	wrong_category_fixed=1;size_added=1
+44	Aluminium	ACP Panel	ACP Panel Double Side (White) 4ft x 8ft x 3.00mm	1	PCS	91	91	2024-05-17	YIT LOONG BUILDING MATERIALS SDN BHD	wrong_category_fixed=1;size_added=1
+45	Aluminium	ACP Panel	ACP Panel EACP423D Double Side (Black) 4ft x 8ft x 3.00mm	1	PCS	90	90	2022-05-30	YIT LOONG BUILDING MATERIALS SDN BHD	wrong_category_fixed=1;size_added=1
+46	Aluminium	ACP Panel	Vitally ACP Panel 4ft x 8ft x 3.00mm (Double Side) Silver	1	PCS	80	80	2022-06-11	YIT LOONG BUILDING MATERIALS SDN BHD	
+47	Aluminium	ACP Panel	Vitally ACP Panel 4ft x 8ft x 3.00mm (Double Side) White	1	PCS	91.00	91	2024-05-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+48	Aluminium	ACP Panel	Vitally ACP Panel EACP423D 4ft x 8ft x 3.00mm (Double Side) Black	1	PCS	90.00	90	2022-05-30	YIT LOONG BUILDING MATERIALS SDN BHD	
+49	Aluminium	Aluminium Profile	Aluminium Angle 1/2" x 1/2" x 6.00m	1	PCS	0.8	0.8	2025-08-13		
+50	Aluminium	Aluminium Profile	Aluminium Angle/L-trim 10.00mm	12	M	8.5	102			
+51	Aluminium	Aluminium Profile	IS303 Insert Screen NA	1	PCS	16.9	16.9	2024-03-25	YIT LOONG BUILDING MATERIALS SDN BHD	
+52	Aluminium	Aluminium Profile	IS410 Insert Screen Bottom NA	1	PCS	18.9	18.9	2024-03-25	YIT LOONG BUILDING MATERIALS SDN BHD	
+53	Aluminium	Aluminium Profile	IS411 Insert Screen Top NA	1	PCS	14.6	14.6	2024-03-25	YIT LOONG BUILDING MATERIALS SDN BHD	
+54	Aluminium	Aluminium Profile	SC403 Showcase Profile SC9901 Top E Section	1	PCS	29.1	29.1	2024-07-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+55	Aluminium	Aluminium Profile	SC405 Showcase Profile SC9705 A Section	1	PCS	34.7	34.7	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+56	Aluminium	Aluminium Profile	SC406 Showcase Profile SC9706 Bottom B Section	1	PCS	20	20	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+57	Aluminium	Aluminium Profile	SF002 WH Shopfront Glazing Bead	1	PCS	146.4	146.4	2022-01-25	DRAGON CITY CONSTRUCTION SDN BHD	Malay: cermin mata
+58	Aluminium	Aluminium Profile	SH007 Sliding Door Outer Bottom Track WH	1	PCS	66.4	66.4	2023-01-17	Wintech Building Materials Sdn Bhd	src=2023-01-17 CS64959PCH - WINTECH POLY INDUSTRIES SDN BHD.pdf;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+59	Aluminium	Aluminium Profile	SH008 Sliding Door 3-Way Side Jamb NA 14ft	3	PCS	40.7	122.1	2024-01-15	Wintech Building Materials Sdn Bhd	src=2024-01-15 CS82543PCH - WINTECH POLY INDUSTRIES SDN BHD.pdf;verify_needed=1;normalized_case=1
+60	Aluminium	Aluminium Profile	Stair Nosing Aluminium Anti-slip	20	M	25.00	500			
+61	Aluminium	Aluminium Profile	SWD304 Aluminium Profile 4.34m 6063-T5 NA	4	PCS	57.00	228	2021-04-21	Superb Aluminium Industries Sdn Bhd	src=2021-04-21 ID2104-0698 - SUPERB ALUMINIUM INDUSTRIES SDN BHD.pdf;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+62	Aluminium	Aluminium Profile	SWD307 Aluminium Profile 6.10m 6063-T5 NA	8	PCS	14.24	113.92	2021-04-21	Superb Aluminium Industries Sdn Bhd	src=2021-04-21 ID2104-0698 - SUPERB ALUMINIUM INDUSTRIES SDN BHD.pdf;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+63	Aluminium	Aluminium Profile	UC0606 U Channel 6/8" NA	1	PCS	18.8	18.8	2021-03-03	YIT LOONG BUILDING MATERIALS SDN BHD	
+64	Aluminium	Aluminium Profile	UC0808 U Channel 1" NA	1	PCS	25	25	2021-03-26	YIT LOONG BUILDING MATERIALS SDN BHD	
+65	Aluminium	Aluminium Profile	WN0408 Hollow 1/2" x 1" NA	1	PCS	22.3	22.3	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+66	Aluminium	Aluminium Strip Ceiling System	GI Bracing (P/Coated) 2440.00mm	1	PCS	7.5	7.5			
+67	Aluminium	Aluminium Strip Ceiling System	GI Bracing 2440.00mm	1	PCS	3.80	3.8			
+68	Aluminium	Aluminium Strip Ceiling System	GI Carrier Rail (MF) 4880.00mm	1	PCS	20	20			
+69	Aluminium	Aluminium Strip Ceiling System	GI Panel Joint (100.00mm)	1	PCS	0.7	0.7			
+70	Aluminium	Aluminium Strip Ceiling System	GI Panel Joint (150.00mm)	1	PCS	0.8	0.8			
+71	Aluminium	Aluminium Strip Ceiling System	GI Panel Joint (200.00mm)	1	PCS	1	1			
+72	Aluminium	Door & Window Accessories	161 PVC Interlock Cover	1	PCS	1.5	1.5	2024-03-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+73	Aluminium	Door & Window Accessories	Adhesive Tape 2051 153m	2	ROLL	60.5	121	2021-05-21	Wintech Poly Industries Sdn Bhd	src=2021-05-21 WTP2105-072 - WINTECH POLY INDUSTRIES SDN BHD.pdf;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+74	Aluminium	Door & Window Accessories	Adhesive Tape 2215A 153m	1	ROLL	50	50	2024-07-09	WINTECH POLY INDUSTRIES SDN BHD	src=2024-07-09 4951 - WINTECH POLY INDUSTRIES SDN BHD.pdf;verify_needed=1;price_per_roll=1;charge_not_material=1;excluded_charge=SST 10% RM5.00
+75	Aluminium	Door & Window Accessories	Adhesive Tape MV3320A 153m	2	ROLL	52.8	105.6	2021-05-21	Wintech Poly Industries Sdn Bhd	src=2021-05-21 WTP2105-072 - WINTECH POLY INDUSTRIES SDN BHD.pdf;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+76	Aluminium	Door & Window Accessories	Adhesive Tape MV3320S 153m	2	ROLL	36.3	72.6	2021-05-21	Wintech Poly Industries Sdn Bhd	src=2021-05-21 WTP2105-072 - WINTECH POLY INDUSTRIES SDN BHD.pdf;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+77	Aluminium	Door & Window Accessories	AFG1002-Nylon Floor Guide For SD 790	1	PCS	20	20	2022-07-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+78	Aluminium	Door & Window Accessories	AFG1002-Nylon Floor Guide For SD 790 - BK	1	PCS	15	15	2023-08-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+79	Aluminium	Door & Window Accessories	AFG1002-Nylon Floor Guide For SD 790 - WH	1	PCS	15	15	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+80	Aluminium	Door & Window Accessories	Aluminium Handle 12.00" Black	1	PAIR	18	18	2024-03-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+81	Aluminium	Door & Window Accessories	Aluminium Handle 12.00" NA Star	1	PAIR	15	15	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+82	Aluminium	Door & Window Accessories	Aluminium Handle 12.00" WH	1	PAIR	18	18	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+83	Aluminium	Door & Window Accessories	Aluminium Handle 9.00" NA	1	PAIR	18	18	2021-11-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+84	Aluminium	Door & Window Accessories	Big Crescent Lock CL310 BL (L)	1	PCS	5.5	5.5	2022-05-19	YIT LOONG BUILDING MATERIALS SDN BHD	
+85	Aluminium	Door & Window Accessories	Big Crescent Lock CL310 BL (R)	1	PCS	5.5	5.5	2022-05-19	YIT LOONG BUILDING MATERIALS SDN BHD	
+86	Aluminium	Door & Window Accessories	Big Crescent Lock CL310 NA (L)	1	PCS	5.5	5.5	2022-05-19	YIT LOONG BUILDING MATERIALS SDN BHD	
+87	Aluminium	Door & Window Accessories	Big Crescent Lock CL310 NA (R)	1	PCS	5.5	5.5	2022-05-19	YIT LOONG BUILDING MATERIALS SDN BHD	
+88	Aluminium	Door & Window Accessories	Black Tape 1" Teca	1	CTN	270.00	270	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+89	Aluminium	Door & Window Accessories	Black Tape 1" Teca	1	ROLL	5.63	5.63	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+90	Aluminium	Door & Window Accessories	Black Tape 2 1/2"	1	ROLL	14.06	14.06	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+91	Aluminium	Door & Window Accessories	Black Tape 2 1/2" Teca	1	ROLL	14.06	14.06	2024-05-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+92	Aluminium	Door & Window Accessories	Black Tape 2"	1	ROLL	11.25	11.25	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+93	Aluminium	Door & Window Accessories	Black Tape 2" Teca	1	ROLL	11.25	11.25	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+94	Aluminium	Door & Window Accessories	Black Tape 3"	1	ROLL	16.88	16.88	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+95	Aluminium	Door & Window Accessories	Black Tape 3" Teca	1	ROLL	16.88	16.88	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+96	Aluminium	Door & Window Accessories	Black Tape 4"	1	ROLL	20.8	20.8	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+97	Aluminium	Door & Window Accessories	Black Tape 4" Teca	1	ROLL	20.8	20.8	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+98	Aluminium	Door & Window Accessories	Black Tape 6"	1	ROLL	43	43	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+99	Aluminium	Door & Window Accessories	Black Tape 6/8" (19mm)	1	PKT	4.4	4.4	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+100	Aluminium	Door & Window Accessories	Black Tape 6/8" Teca	1	ROLL	5.63	5.63	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+101	Aluminium	Door & Window Accessories	Black Tape Nikee 70y	1	CTN	270	270	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+102	Aluminium	Door & Window Accessories	Black Tape Teca	1	CTN	270	270	2023-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+103	Aluminium	Door & Window Accessories	Bracket 911A 30.00mm	1	PCS	1.5	1.5	2021-05-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+104	Aluminium	Door & Window Accessories	Bracket 911C	1	PCS	2	2	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+105	Aluminium	Door & Window Accessories	Bracket 911C	1	PKT	130	130	2023-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+106	Aluminium	Door & Window Accessories	Bracket 911C 31.00mm	1	PCS	2	2	2024-03-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+107	Aluminium	Door & Window Accessories	Bracket 911C 37.50mm	1	PKT	130	130	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+108	Aluminium	Door & Window Accessories	Bracket 911C Cover	1	PCS	0.8	0.8	2024-03-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+109	Aluminium	Door & Window Accessories	Casement Handle CW-608 BK L	1	PCS	1.3	1.3	2021-10-02	YIT LOONG BUILDING MATERIALS SDN BHD	
+110	Aluminium	Door & Window Accessories	Casement Handle CW-608 BK R	1	PCS	1.3	1.3	2021-10-02	YIT LOONG BUILDING MATERIALS SDN BHD	
+111	Aluminium	Door & Window Accessories	Casement Handle CW-608 NA L	1	PCS	1.6	1.6	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+112	Aluminium	Door & Window Accessories	Casement Handle CW-608 NA R	1	PCS	1.4	1.4	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+113	Aluminium	Door & Window Accessories	Casement Handle CW-608 WH L	1	PCS	1.4	1.4	2021-12-16	YIT LOONG BUILDING MATERIALS SDN BHD	
+114	Aluminium	Door & Window Accessories	Casement Handle CW-708LH Black	1	PCS	3	3	2024-07-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+115	Aluminium	Door & Window Accessories	Casement Handle CW-708RH Black	1	PCS	3	3	2024-07-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+116	Aluminium	Door & Window Accessories	Casement Handle CW-M3 (L) Black	1	PCS	5	5	2022-06-10	YIT LOONG BUILDING MATERIALS SDN BHD	
+117	Aluminium	Door & Window Accessories	Casement Handle CW-M3 (R) Black	1	PCS	5	5	2024-07-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+118	Aluminium	Door & Window Accessories	Casement Handle CW-M7(R) Black	1	PCS	5.00	5	2024-07-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+119	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 18S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+120	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 19S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+121	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 20S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+122	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 21S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+123	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 22S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+124	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 23S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+125	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 24S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+126	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 25S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+127	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 26S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+128	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 27S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+129	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 28S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+130	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 29S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+131	Aluminium	Door & Window Accessories	Conceal Folding Door Acc. Pivot Set 30S	1	SET	45	45	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+132	Aluminium	Door & Window Accessories	Door Hinges 3/8" x 1-1/4" x 2"	6	PCS	0.85	5.1	2023-03-15		
+133	Aluminium	Door & Window Accessories	DS0034 Dust Socket	1	PCS	9	9	2022-05-30	YIT LOONG BUILDING MATERIALS SDN BHD	
+134	Aluminium	Door & Window Accessories	EVA Foam S/S (Black) 6mm x 12mm x 1m	1	PCS	1.1	1.1	2023-03-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+135	Aluminium	Door & Window Accessories	EVA Foam S/S (Black) 6mm x 25mm x 1m	1	PCS	1.8	1.8	2023-03-02	YIT LOONG BUILDING MATERIALS SDN BHD	
+136	Aluminium	Door & Window Accessories	Flush Bolt T301 NA	1	PAIR	15	15	2024-06-29	YIT LOONG BUILDING MATERIALS SDN BHD	
+137	Aluminium	Door & Window Accessories	Flush Bolt TC78 Black	1	PAIR	12	12	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+138	Aluminium	Door & Window Accessories	Flush Bolt TC78BL Black	1	PAIR	11.50	11.5	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+139	Aluminium	Door & Window Accessories	Flush Bolt TC78WH White	1	PAIR	11.50	11.5	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+140	Aluminium	Door & Window Accessories	Flyscreen Wheel 3in	10	PCS	1	10	2026-02-12	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022628
+141	Aluminium	Door & Window Accessories	Folding Door 89A(L) Bottom Guide	1	PCS	28.00	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+142	Aluminium	Door & Window Accessories	Folding Door 89A(R) Bottom Guide	1	PCS	28	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+143	Aluminium	Door & Window Accessories	Folding Door 89AG(L) Bottom Guide	1	PCS	28.00	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+144	Aluminium	Door & Window Accessories	Folding Door 89AG(R) Bottom Guide	1	PCS	28.00	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+145	Aluminium	Door & Window Accessories	Folding Door 89B(L) Bottom Guide	1	PCS	28.00	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+146	Aluminium	Door & Window Accessories	Folding Door 89B(R) Bottom Guide	1	PCS	28.00	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+147	Aluminium	Door & Window Accessories	Folding Door 89BG(L) (Black) Bottom Guide	1	PCS	28.00	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+148	Aluminium	Door & Window Accessories	Folding Door 89BG(L) Bottom Guide	1	PCS	28.00	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+149	Aluminium	Door & Window Accessories	Folding Door 89BG(L)(Black) Bottom Guide	1	PCS	28	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+150	Aluminium	Door & Window Accessories	Folding Door 89BG(R) (Black) Bottom Guide	1	PCS	28	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+151	Aluminium	Door & Window Accessories	Folding Door 89BG(R) Bottom Guide	1	PCS	28	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+152	Aluminium	Door & Window Accessories	Folding Door 89BG(R)(Black) Bottom Guide	1	PCS	28	28	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+153	Aluminium	Door & Window Accessories	Folding Door 89C(L) Bottom Guide	1	PCS	28	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+154	Aluminium	Door & Window Accessories	Folding Door 89C(R) Bottom Guide	1	PCS	28.00	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+155	Aluminium	Door & Window Accessories	Folding Door 89CG(L) Bottom Guide	1	PCS	28	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+156	Aluminium	Door & Window Accessories	Folding Door 89CG(R) Bottom Guide	1	PCS	28	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+157	Aluminium	Door & Window Accessories	Folding Door 89D(L) Bottom Guide	1	PCS	28	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+158	Aluminium	Door & Window Accessories	Folding Door 89D(R) Bottom Guide	1	PCS	28	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+159	Aluminium	Door & Window Accessories	Folding Door 89DG(L) Bottom Guide	1	PCS	28	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+160	Aluminium	Door & Window Accessories	Folding Door 89DG(R) Bottom Guide	1	PCS	28.00	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+161	Aluminium	Door & Window Accessories	Folding Door 89E(L) Bottom Guide	1	PCS	28.00	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+162	Aluminium	Door & Window Accessories	Folding Door 89E(R) Bottom Guide	1	PCS	28.00	28	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+163	Aluminium	Door & Window Accessories	Folding Door 89EG(L) Bottom Guide	1	PCS	28.00	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+164	Aluminium	Door & Window Accessories	Folding Door 89EG(R) Bottom Guide	1	PCS	28.00	28	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+165	Aluminium	Door & Window Accessories	Folding Door Acc. ET78 Black	1	PAIR	7.8	7.8	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+166	Aluminium	Door & Window Accessories	Folding Door Acc. ET78 White	1	PAIR	7.8	7.8	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+167	Aluminium	Door & Window Accessories	Folding Door Acc. T28 Black	1	PCS	12.5	12.5	2022-01-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+168	Aluminium	Door & Window Accessories	Folding Door Acc. T28 Silver	1	PCS	12.5	12.5	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+169	Aluminium	Door & Window Accessories	Folding Door Acc. T29 Black	1	PCS	12.5	12.5	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+170	Aluminium	Door & Window Accessories	Folding Door Acc. T29 Silver	1	PCS	12.5	12.5	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+171	Aluminium	Door & Window Accessories	Folding Door Bearing Roller	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+172	Aluminium	Door & Window Accessories	Folding Door Bearing Roller Cover	1	PCS	6.5	6.5	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+173	Aluminium	Door & Window Accessories	Folding Door Drop Bolt CKS-FD895	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+174	Aluminium	Door & Window Accessories	Folding Door Drop Bolt FD893 Black	1	PCS	14.5	14.5	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+175	Aluminium	Door & Window Accessories	Folding Door Drop Bolt FD893 Silver	1	PCS	14	14	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+176	Aluminium	Door & Window Accessories	Folding Door Drop Bolt FD894 Black	1	PCS	14.5	14.5	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+177	Aluminium	Door & Window Accessories	Folding Door Drop Bolt FD894 Silver	1	PCS	14	14	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+178	Aluminium	Door & Window Accessories	Folding Door Floor Guide (Plastic)	1	PCS	1.5	1.5	2021-10-25	YIT LOONG BUILDING MATERIALS SDN BHD	
+179	Aluminium	Door & Window Accessories	Folding Door Flush Bolt 2" Black	1	PCS	2.5	2.5	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+180	Aluminium	Door & Window Accessories	Folding Door Flush Bolt 2" Silver	1	PCS	2.5	2.5	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+181	Aluminium	Door & Window Accessories	Folding Door Flush Bolt 4" Black	1	PCS	3.5	3.5	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+182	Aluminium	Door & Window Accessories	Folding Door Flush Bolt 4" Silver	1	PCS	3.5	3.5	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+183	Aluminium	Door & Window Accessories	Folding Door Flush Bolt 6" Black	1	PCS	4.5	4.5	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+184	Aluminium	Door & Window Accessories	Folding Door Flush Bolt 6" Silver	1	PCS	4.5	4.5	2022-11-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+185	Aluminium	Door & Window Accessories	Folding Door Gasket	1	PCS	1	1	2023-10-10	YIT LOONG BUILDING MATERIALS SDN BHD	
+186	Aluminium	Door & Window Accessories	Folding Door Hinge 89A Black	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+187	Aluminium	Door & Window Accessories	Folding Door Hinge 89A Silver	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+188	Aluminium	Door & Window Accessories	Folding Door Hinge 89B Black	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+189	Aluminium	Door & Window Accessories	Folding Door Hinge 89B Silver	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+190	Aluminium	Door & Window Accessories	Folding Door Hinge 89C Black	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+191	Aluminium	Door & Window Accessories	Folding Door Hinge 89C Silver	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+192	Aluminium	Door & Window Accessories	Folding Door Hinge 89D Black	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+193	Aluminium	Door & Window Accessories	Folding Door Hinge 89D Silver	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+194	Aluminium	Door & Window Accessories	Folding Door Hinge 89E Black	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+195	Aluminium	Door & Window Accessories	Folding Door Hinge 89E Silver	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+196	Aluminium	Door & Window Accessories	Folding Door Hinge 89F Black	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+197	Aluminium	Door & Window Accessories	Folding Door Hinge 89F Silver	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+198	Aluminium	Door & Window Accessories	Folding Door Hinge 89G Black	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+199	Aluminium	Door & Window Accessories	Folding Door Hinge 89G Silver	1	PCS	18	18	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+200	Aluminium	Door & Window Accessories	Friction Stay SS304 3-12"	1	PAIR	15.5	15.5	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+201	Aluminium	Door & Window Accessories	Friction Stay SS304 3-12" (Grade 202)	1	PAIR	13.5	13.5	2023-06-19	YIT LOONG BUILDING MATERIALS SDN BHD	
+202	Aluminium	Door & Window Accessories	Friction Stay SS304 4-16" (Grade 202)	1	PAIR	10.5	10.5	2024-06-29	YIT LOONG BUILDING MATERIALS SDN BHD	
+203	Aluminium	Door & Window Accessories	Friction Stay SS304 4-24" (Grade 202)	1	PAIR	26	26	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+204	Aluminium	Door & Window Accessories	Friction Stay SS304 5-20" (Grade 202)	1	PAIR	20	20	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+205	Aluminium	Door & Window Accessories	Friction Stay SS430 4-12" (BB)	1	PAIR	3.6	3.6	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+206	Aluminium	Door & Window Accessories	Friction Stay SS430 4-16"	1	PAIR	9.5	9.5	2023-02-02	YIT LOONG BUILDING MATERIALS SDN BHD	
+207	Aluminium	Door & Window Accessories	Friction Stay SS430 4-8" (BB)	1	PAIR	4	4	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+208	Aluminium	Door & Window Accessories	Gasket 1048	1	ROLL	151.7	151.7	2023-08-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+209	Aluminium	Door & Window Accessories	Gasket 1058	1	ROLL	117.6	117.6	2022-01-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+210	Aluminium	Door & Window Accessories	Gasket 1065	1	ROLL	170	170	2022-12-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+211	Aluminium	Door & Window Accessories	Gasket 1407	1	ROLL	87.3	87.3	2023-05-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+212	Aluminium	Door & Window Accessories	Gasket 1600 Mosquito Netting	1	ROLL	82	82	2024-03-23	YIT LOONG BUILDING MATERIALS SDN BHD	
+213	Aluminium	Door & Window Accessories	Gasket 2152	1	ROLL	59	59	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+214	Aluminium	Door & Window Accessories	Gasket 2566	1	ROLL	110.6	110.6	2022-05-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+215	Aluminium	Door & Window Accessories	Gasket 2566 153m	3	ROLL	84	252	2022-06-10	Wintech Poly Industries Sdn Bhd	src=2022-05-16 WTP2205-079 - WINTECH POLY INDUSTRIES SDN BHD.pdf;invoice=WTP2206-081;normalized_case=1
+216	Aluminium	Door & Window Accessories	Gasket 3320	1	ROLL	107.6	107.6	2023-05-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+217	Aluminium	Door & Window Accessories	Gasket 494	1	ROLL	45	45	2024-11-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+218	Aluminium	Door & Window Accessories	Gasket 6154	1	ROLL	152	152	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+219	Aluminium	Door & Window Accessories	Gasket 6154 153m	3	ROLL	137	411	2022-06-10	Wintech Poly Industries Sdn Bhd	src=2022-05-16 WTP2205-079 - WINTECH POLY INDUSTRIES SDN BHD.pdf;invoice=WTP2206-081;normalized_case=1
+220	Aluminium	Door & Window Accessories	Gasket 6154 Casement Fixed Panel	1	ROLL	152	152	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+221	Aluminium	Door & Window Accessories	Gasket 6154L	1	ROLL	67.6	67.6	2024-04-25	YIT LOONG BUILDING MATERIALS SDN BHD	
+222	Aluminium	Door & Window Accessories	Gasket 6154L 153m	1	ROLL	180	180	2022-06-10	Wintech Poly Industries Sdn Bhd	src=2022-05-16 WTP2205-079 - WINTECH POLY INDUSTRIES SDN BHD.pdf;invoice=WTP2206-081;normalized_case=1
+223	Aluminium	Door & Window Accessories	Gasket 6980	1	ROLL	107.6	107.6	2023-05-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+224	Aluminium	Door & Window Accessories	Gasket F18	1	ROLL	28	28	2025-02-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+225	Aluminium	Door & Window Accessories	Gasket F18S 153m	3	ROLL	29.25	87.75	2021-09-06	Wintech Poly Industries Sdn Bhd	src=2021-09-06 WTP2109-056 - WINTECH POLY INDUSTRIES SDN BHD.pdf;normalized_case=1
+226	Aluminium	Door & Window Accessories	Gasket GW-1	1	ROLL	71.2	71.2	2023-05-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+227	Aluminium	Door & Window Accessories	Glass Clip GC08 12mm	1	PCS	12	12	2021-02-17		
+228	Aluminium	Door & Window Accessories	GW Telescopic Set 2+1	1	PCS	3	3	2023-09-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+229	Aluminium	Door & Window Accessories	Hanging Door Track FD9906 NA	1	PCS	54.1	54.1	2021-09-18	DRAGON CITY CONSTRUCTION SDN BHD	
+230	Aluminium	Door & Window Accessories	HOPE NA Window Lock	10	PCS	7.00	70.00	2026-02-10	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022557
+231	Aluminium	Door & Window Accessories	Lower Track 3in	10	PCS	3.90	39.00	2026-02-12	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022628
+232	Aluminium	Door & Window Accessories	Masking Tape 1"	1	ROLL	8.44	8.44	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+233	Aluminium	Door & Window Accessories	Masking Tape 1"	1	PKT	12	12	2022-09-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+234	Aluminium	Door & Window Accessories	Masking Tape 6/8"	1	ROLL	5.63	5.63	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+235	Aluminium	Door & Window Accessories	Masking Tape 6/8"	1	PKT	5.9	5.9	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+236	Aluminium	Door & Window Accessories	Metal Plate - Steel Strip 1" x 12"	1	PKT	12	12	2022-09-15	YIT LOONG BUILDING MATERIALS SDN BHD	For Aluminium/Glass Fitting
+237	Aluminium	Door & Window Accessories	Multipoint Catches 6mm MP804	1	PCS	0.9	0.9	2023-08-11	YIT LOONG BUILDING MATERIALS SDN BHD	
+238	Aluminium	Door & Window Accessories	Multipoint Push Rod MP808 30mm	1	PCS	1.3	1.3	2023-08-11	YIT LOONG BUILDING MATERIALS SDN BHD	
+239	Aluminium	Door & Window Accessories	Multipoint PVC Latch Bolt Big MP923B	1	PAIR	3.8	3.8	2023-08-09	YIT LOONG BUILDING MATERIALS SDN BHD	
+240	Aluminium	Door & Window Accessories	Multipoint PVC Latch Keeper MP921 White	1	PCS	0.7	0.7	2024-03-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+241	Aluminium	Door & Window Accessories	Multipoint Side Stopper MP924	1	PCS	1	1	2023-08-11	YIT LOONG BUILDING MATERIALS SDN BHD	
+242	Aluminium	Door & Window Accessories	Multipoint Top Stopper MP925	1	PCS	1	1	2023-08-11	YIT LOONG BUILDING MATERIALS SDN BHD	
+243	Aluminium	Door & Window Accessories	Nylon Floor Guide AFG1002 (SD 790)	1	PCS	20	20	2021-02-08		
+244	Aluminium	Door & Window Accessories	Offset Pivot Hinge 36-450	1	PCS	65.00	65	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+245	Aluminium	Door & Window Accessories	Offset Pivot Hinge 6" 911A	1	PCS	30	30	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+246	Aluminium	Door & Window Accessories	Offset Pivot Hinge 6" 911A BK	1	PCS	30	30	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+247	Aluminium	Door & Window Accessories	Offset Pivot Hinge 6" 911A WH	1	PCS	30	30	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+248	Aluminium	Door & Window Accessories	OFP0030 Sliding Door Pull	1	PAIR	22	22	2022-01-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+249	Aluminium	Door & Window Accessories	OFP0030 Sliding Door Pull MB	1	PAIR	22	22	2021-09-20	YIT LOONG BUILDING MATERIALS SDN BHD	
+250	Aluminium	Door & Window Accessories	Patio Handle 5" BK	1	PCS	4	4	2022-08-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+251	Aluminium	Door & Window Accessories	Patio Handle 5" WH	1	PCS	4	4	2022-08-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+252	Aluminium	Door & Window Accessories	Pivot Hinge 5" 36-450	1	PCS	25	25	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+253	Aluminium	Door & Window Accessories	Pivot Hinge 5" 911A	1	PCS	25	25	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+254	Aluminium	Door & Window Accessories	Pivot Hinge 5" 911A BK	1	PCS	25	25	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+255	Aluminium	Door & Window Accessories	Pivot Hinge 5" 911A WH	1	PCS	25	25	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+256	Aluminium	Door & Window Accessories	Pivot Hinge 6" 36-450	1	PCS	30	30	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+257	Aluminium	Door & Window Accessories	Pivot Hinge 6" 911A	1	PCS	30	30	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+258	Aluminium	Door & Window Accessories	Pivot Hinge 6" 911A BK	1	PCS	30	30	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+259	Aluminium	Door & Window Accessories	Pivot Hinge 6" 911A WH	1	PCS	30	30	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+260	Aluminium	Door & Window Accessories	PVC Sealing Strip WS01	2	PCS	1.2	2.4	2025-08-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+261	Aluminium	Door & Window Accessories	PVC Sealing Strip WS03	2	PCS	1.20	2.4	2025-08-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+262	Aluminium	Door & Window Accessories	PVC Sealing Strip WS05	2	PCS	1.2	2.4	2025-08-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+263	Aluminium	Door & Window Accessories	PVC Slider 162 5mm x 6mm	1	PCS	0.8	0.8	2021-05-06	YIT LOONG BUILDING MATERIALS SDN BHD	
+264	Aluminium	Door & Window Accessories	Restriction Arm 12" (Grade 202)	1	PAIR	9	9	2025-01-25	YIT LOONG BUILDING MATERIALS SDN BHD	
+265	Aluminium	Door & Window Accessories	Restriction Arm 12" (Grade 304)	1	PAIR	12	12	2025-01-25	YIT LOONG BUILDING MATERIALS SDN BHD	
+266	Aluminium	Door & Window Accessories	Roller 1" (PVC)	1	PCS	1.5	1.5	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+267	Aluminium	Door & Window Accessories	Roller 1-1/2" (PVC)	1	PCS	1.5	1.5	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+268	Aluminium	Door & Window Accessories	Roller 1-1/2" (SS)	1	PCS	2.2	2.2	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+269	Aluminium	Door & Window Accessories	Roller 1-1/4" (PVC)	1	PCS	1.5	1.5	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+270	Aluminium	Door & Window Accessories	Roller Set 3in	10	PCS	6.00	60	2026-02-12	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022628
+271	Aluminium	Door & Window Accessories	Sandpaper P180 5" 5pcs/Set	1	SET	7	7	2024-03-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+272	Aluminium	Door & Window Accessories	Sandpaper P240 5" 5pcs/Set	1	SET	7	7	2024-03-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+273	Aluminium	Door & Window Accessories	Sandpaper P400 5" 5pcs/Set	1	SET	7	7	2024-03-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+274	Aluminium	Door & Window Accessories	Sandpaper P60 5" 5pcs/Set	1	SET	7	7	2024-03-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+275	Aluminium	Door & Window Accessories	Sandpaper P80 5" 5pcs/Set	1	SET	7	7	2024-03-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+276	Aluminium	Door & Window Accessories	Scotch Brite 4" x 6"	1	PCS	2	2	2024-03-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+277	Aluminium	Door & Window Accessories	Setting Block 06mm x 12mm	1	PKT	4.5	4.5	2025-09-02		
+278	Aluminium	Door & Window Accessories	Setting Block 12mm x 12mm	1	PKT	4.5	4.5	2025-09-02		
+279	Aluminium	Door & Window Accessories	Setting Block 12mm x 15mm	1	PKT	4.5	4.5	2025-09-02		
+280	Aluminium	Door & Window Accessories	Setting Block 12mm x 20mm	1	PKT	4.5	4.5	2025-09-02		
+281	Aluminium	Door & Window Accessories	Setting Block 19mm x 19mm	1	PKT	4.5	4.5	2025-09-02		
+282	Aluminium	Door & Window Accessories	Setting Block 9mm x 12mm	1	PKT	4.5	4.5	2025-09-02		
+283	Aluminium	Door & Window Accessories	Showcase Roller 002	1	PCS	2.5	2.5	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+284	Aluminium	Door & Window Accessories	Showcase Roller 003	1	PCS	2.5	2.5	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+285	Aluminium	Door & Window Accessories	Shower Acc. ALU Semi Circle Header 12'	1	PCS	42	42	2024-03-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+286	Aluminium	Door & Window Accessories	Shower Acc. S/S Tube 19mm x 1.2mm	1	PCS	38	38	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+287	Aluminium	Door & Window Accessories	Shower Aluminium U Channel 6/8" (19.00mm)	1	PCS	8.5	8.5	2022-05-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+288	Aluminium	Door & Window Accessories	Shower Glass Handle 712-S	1	PAIR	16	16	2021-09-20	YIT LOONG BUILDING MATERIALS SDN BHD	
+289	Aluminium	Door & Window Accessories	Shower Glass Handle 712-S	1	PCS	22	22	2024-01-19		
+290	Aluminium	Door & Window Accessories	Shower Glass Handle 712-S Black	1	PAIR	16	16	2021-09-20	YIT LOONG BUILDING MATERIALS SDN BHD	
+291	Aluminium	Door & Window Accessories	Shower Hinge SH03 Glass/Glass 180D	1	PCS	72	72	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+292	Aluminium	Door & Window Accessories	Shower Hinge SH04 Wall/Glass (Centre)	1	PCS	72	72	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+293	Aluminium	Door & Window Accessories	Shower Hinge SH04 Wall/Glass (Centre)	1	PCS	25.00	25	2025-01-15		
+294	Aluminium	Door & Window Accessories	Shower Stabilizer SS901	1	PCS	22	22	2021-09-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+295	Aluminium	Door & Window Accessories	Shower Stabilizer SS903	1	PCS	22	22	2021-09-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+296	Aluminium	Door & Window Accessories	Shower Stabilizer SS906	1	PCS	22	22	2021-09-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+297	Aluminium	Door & Window Accessories	SL40 Shower Door	1	PCS	130	130	2022-02-23	YIT LOONG BUILDING MATERIALS SDN BHD	
+298	Aluminium	Door & Window Accessories	SL40 Shower Door Set	1	SET	180	180	2022-02-23	YIT LOONG BUILDING MATERIALS SDN BHD	
+299	Aluminium	Door & Window Accessories	Sliding Door Roller Eco MR004N	1	PCS	5.5	5.5	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+300	Aluminium	Door & Window Accessories	Sliding Top Roller MR007N	1	PCS	12.50	12.5	2023-08-11	YIT LOONG BUILDING MATERIALS SDN BHD	
+301	Aluminium	Door & Window Accessories	Sliding Top Roller MR007N	1	SET	25	25	2021-02-08		
+302	Aluminium	Door & Window Accessories	Sliding Top Roller MR007N (Set)	1	SET	25	25	2024-05-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+303	Aluminium	Door & Window Accessories	Sliding Top Roller MR007N 80kg (Set)	1	SET	25	25	2024-05-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+304	Aluminium	Door & Window Accessories	Sliding Window Roller LB 25kg MR13	1	PCS	5.5	5.5	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+305	Aluminium	Door & Window Accessories	Sliding Window Roller MR002N	1	PCS	5.50	5.5	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+306	Aluminium	Door & Window Accessories	Stainless Steel H Handle 2"	1	PKT	12	12	2022-09-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+307	Aluminium	Door & Window Accessories	Stainless Steel H Handle 2" Black	1	PKT	12	12	2022-09-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+308	Aluminium	Door & Window Accessories	Stainless Steel H Handle 2" Square	1	PKT	12	12	2022-09-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+309	Aluminium	Door & Window Accessories	Stainless Steel U Channel (Size)	1	PCS	30	30	2022-03-09	YIT LOONG BUILDING MATERIALS SDN BHD	
+310	Aluminium	Door & Window Accessories	SU100 Glass Door Patch Fitting Bottom	1	PCS	38	38	2022-04-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+311	Aluminium	Door & Window Accessories	Supporting Arm 8" (Grade 304)	1	PAIR	5	5	2024-03-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+312	Aluminium	Door & Window Accessories	SW001 NA 6.5mm Top Roller Set (Large)	50	PCS	2.5	125	2026-02-10	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022557
+313	Aluminium	Door & Window Accessories	SW004 WH 6.5mm Hinged Set	10	PCS	0.65	6.5	2026-02-10	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022557
+314	Aluminium	Door & Window Accessories	SW005 WH 6.5mm Hinged Set	20	PCS	0.65	13	2026-02-10	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022557
+315	Aluminium	Door & Window Accessories	SW006 WH 1.5in Window Track	15	PCS	6	90	2026-02-10	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022557
+316	Aluminium	Door & Window Accessories	Top Hung 202 12" (Grade 202)	1	PAIR	4.20	4.2	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+317	Aluminium	Door & Window Accessories	Top Hung 202 16" (Grade 202)	1	PAIR	4.5	4.5	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+318	Aluminium	Door & Window Accessories	Top Hung 304 4-24" (Grade 304)	1	PAIR	15	15	2024-11-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+319	Aluminium	Door & Window Accessories	TP-DS Double Sided Foam Tape 10mm x 10m	1	ROLL	8	8	2023-03-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+320	Aluminium	Door & Window Accessories	TP-DS Double Sided Foam Tape 10mm x 8m	1	ROLL	6.00	6	2023-03-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+321	Aluminium	Door & Window Accessories	Weather Seal 5 x 5 (0.48 x 5) VSP	1	ROLL	52	52	2025-05-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+322	Aluminium	Door & Window Accessories	Weather Seal 7 x 8 305m	1	ROLL	68	68	2025-05-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+323	Aluminium	Door & Window Accessories	Window Track 3in	5	PCS	5	25	2026-02-12	DRAGON CITY CONSTRUCTION SDN BHD	src=QT-022628
+324	Aluminium	Door & Window Accessories	Wool Pile 5mm x 5mm 305m Grey	1	ROLL	140	140	2021-05-21	Wintech Poly Industries Sdn Bhd	src=2021-05-21 WTP2105-072 - WINTECH POLY INDUSTRIES SDN BHD.pdf;normalized_case=1
+325	Aluminium	Door & Window Accessories	Wool Pile 5mm x 7mm 305m Grey	1	ROLL	140	140	2021-05-21	Wintech Poly Industries Sdn Bhd	src=2021-05-21 WTP2105-072 - WINTECH POLY INDUSTRIES SDN BHD.pdf;normalized_case=1
+326	Board	Fibre Cement Board	Primaflex Fibre Cement Board 4.00ft x 4.00ft	1	SHEET	13	13	2025-08-13		
+327	Board	Fire Rated Board	Knauf Firestop Board 1220mm x 2440mm x 16mm TEFR (Partition)	1	PCS	102.00	102			
+328	Board	Gypsum Board	Gyproc Gypsum Board 4.00ft x 6.00ft x 9.00mm	38	SHEET	25	950	2025-09-02		
+329	Board	Gypsum Board	Gypsum Board 4ft x 6ft x 9mm	4	PCS	13	52	2026-02-13	KAM CITY TRADING SB	src=IV-2602445;brand=GYPROC
+330	Board	Gypsum Board	Gypsum Board 4ft x 6ft x 9mm (Super 9)	2	PCS	14.8	29.6	2026-02-13	KIM YAN PLASTERCEIL SDN BHD	src=CS2602246
+331	Board	Gypsum Board	Knauf Mini 9 TE 4.00ft x 6.00ft x 9.00mm	10	PCS	15	150	2026-01-14		
+332	Board	Gypsum Board	Plasterboard 4.00ft x 6.00ft (Top-Up)	38	SHEET	22	836			
+333	Board	Partition Board	Knauf Partition Board 4.00ft x 8.00ft x 12.00mm TE (Basic)	1	PCS	26.8	26.8			
+334	Board	Plywood	Plywood 4ft x 8ft x 9mm	1	PCS	30	30	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+335	Board	Plywood	Plywood B2 Waterproof 12.00mm (4.00ft x 8.00ft)	1	SHEET	42.00	42			
+336	Board	Plywood	Tego Plywood Waterproof 12.00mm (4.00ft x 8.00ft) 7-Ply	1	SHEET	55	55			
+337	Category	Subcategory	Description	Qty	UOM	Price/Unit (RM)	Total (RM)	Update Date	Supplier	Note
+338	Ceiling	Aluminium Strip Ceiling Accessories	GI Bracing (P/Coated) 2440mm	1	LTH	0.7	0.7	2026-01-31	MY STEEL HARDWARE SDN BHD	
+339	Ceiling	Aluminium Strip Ceiling Accessories	GI Bracing 2440mm	1	LTH	3.5	3.5	2026-01-31	MY STEEL HARDWARE SDN BHD	
+340	Ceiling	Aluminium Strip Ceiling Accessories	GI Carrier Rail (MF) 4880mm	1	LTH	20	20	2026-01-31	MY STEEL HARDWARE SDN BHD	
+341	Ceiling	Aluminium Strip Ceiling Accessories	GI Panel Joint (100mm)	1	LTH	0.8	0.8	2026-01-31	MY STEEL HARDWARE SDN BHD	
+342	Ceiling	Aluminium Strip Ceiling Accessories	GI Panel Joint (150mm)	1	LTH	1	1	2026-01-31	MY STEEL HARDWARE SDN BHD	
+343	Ceiling	Aluminium Strip Ceiling Accessories	GI Panel Joint (200mm)	1	LTH	1	1	2026-01-31	MY STEEL HARDWARE SDN BHD	
+344	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 305/305h- (a) 50mm Standard Colour	1	LTH	6.1	6.1	2026-01-31	MY STEEL HARDWARE SDN BHD	
+345	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 305/305h- (a) 50mm Woodgrain	1	LTH	7.2	7.2	2026-01-31	MY STEEL HARDWARE SDN BHD	
+346	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 305/305h- (a) 50mm Woodgrain (T)	1	LTH	7.4	7.4	2026-01-31	MY STEEL HARDWARE SDN BHD	
+347	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 310/310h- (a) 100mm Standard Colour	1	LTH	6.3	6.3	2026-01-31	MY STEEL HARDWARE SDN BHD	
+348	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 310/310h- (a) 100mm Woodgrain	1	LTH	7.2	7.2	2026-01-31	MY STEEL HARDWARE SDN BHD	
+349	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 310/310h- (a) 100mm Woodgrain (T)	1	LTH	7.8	7.8	2026-01-31	MY STEEL HARDWARE SDN BHD	
+350	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 315/315h- (a) 150mm Standard Colour	1	LTH	9.1	9.1	2026-01-31	MY STEEL HARDWARE SDN BHD	
+351	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 315/315h- (a) 150mm Woodgrain	1	LTH	11.4	11.4	2026-01-31	MY STEEL HARDWARE SDN BHD	
+352	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 315/315h- (a) 150mm Woodgrain (T)	1	LTH	11.6	11.6	2026-01-31	MY STEEL HARDWARE SDN BHD	
+353	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 320/320h- (a) 200mm Standard Colour	1	LTH	11.6	11.6	2026-01-31	MY STEEL HARDWARE SDN BHD	
+354	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 320/320h- (a) 200mm Woodgrain	1	LTH	13.9	13.9	2026-01-31	MY STEEL HARDWARE SDN BHD	
+355	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Ceiling Strip 320/320h- (a) 200mm Woodgrain (T)	1	LTH	14.2	14.2	2026-01-31	MY STEEL HARDWARE SDN BHD	
+356	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 305/305h- (a) 50mm Standard Colour)	1	MR	6.1	6.1			
+357	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 305/305h- (a) 50mm Woodgrain (T)	1	MR	7.4	7.4			
+358	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 305/305h- (a) 50mm Woodgrain)	1	MR	7.20	7.2			
+359	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 310/310h- (a) 100mm Standard Colour)	1	MR	6.3	6.3			
+360	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 310/310h- (a) 100mm Woodgrain (T)	1	MR	7.8	7.8			
+361	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 310/310h- (a) 100mm Woodgrain)	1	MR	7.5	7.5			
+362	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 315/315h- (a) 150mm Standard Colour)	1	MR	9.1	9.1			
+363	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 315/315h- (a) 150mm Woodgrain (T)	1	MR	11.6	11.6			
+364	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 315/315h- (a) 150mm Woodgrain)	1	MR	11.4	11.4			
+365	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 320/320h- (a) 200mm Standard Colour)	1	MR	11.60	11.6			
+366	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 320/320h- (a) 200mm Woodgrain (T)	1	MR	14.2	14.2			
+367	Ceiling	Aluminium Strip Ceiling Panel	Aluminium Strip Ceiling Panel 0.55mm 320/320h- (a) 200mm Woodgrain)	1	MR	13.9	13.9			
+368	Ceiling	Ceiling & Partition	A Plus Stopping Compound 20kg	3	BAG	16.5	49.5	2026-01-18	E SHENG HARDWARE (JH) SDN BHD	
+369	Ceiling	Ceiling & Partition	A Plus Stopping Compound 20kg	2	BAG	22	44	2025-09-02		
+370	Ceiling	Ceiling & Partition	ASG Stopping Compound 18kg	2	BAG	22	44			
+371	Ceiling	Ceiling & Partition	Drywall Fibre Joint Tape 50mm x 50m	1	PCS	3	3	2025-08-13		
+372	Ceiling	Ceiling & Partition	Fiberglass Tape 4" x 45m Hitz	1	PCS	5	5	2025-08-13		
+373	Ceiling	Ceiling & Partition	Plaster Manhole 18in	1	PCS	11	11	2026-02-13	KAM CITY TRADING SB	src=IV-2602445
+374	Ceiling	Ceiling & Partition	Zinc Bar 30mm x 10mm x 0.30mm x 10ft	10	PCS	3	30	2026-02-13	KAM CITY TRADING SB	src=IV-2602445
+375	Ceiling	Ceiling Trim	Aluminium Ceiling Trim (STD) 3660mm	1	PCS	8.5	8.5			
+376	Ceiling	Ceiling Trim	Aluminium Ceiling Trim (STD) 3660mm	1	LTH	8.5	8.5	2026-01-31	MY STEEL HARDWARE SDN BHD	
+377	Ceiling	Ceiling Trim	Aluminium Ceiling Trim (Woodgrain) 3660mm	1	PCS	11.5	11.5			
+378	Ceiling	Ceiling Trim	Aluminium Ceiling Trim (Woodgrain) 3660mm	1	LTH	12	12	2026-01-31	MY STEEL HARDWARE SDN BHD	
+379	Chemical	Bonding Agent	Worpro Latex 228 Cement Bonding Latex 18L	1	PCS	185	185	2025-11-20	NILAI AGRICULTURE ENTERPRISE	Susu cement
+380	Chemical	Bonding Agent	Worpro Latex 228 Cement Bonding Latex 18L	1	PCS	145.00	145	2025-07-31	NILAI AGRICULTURE ENTERPRISE	Susu cement
+381	Chemical	Cementitious Compound	Pentens T-200H 20kg Grey	1	BAG	255	255	2025-12-15	NILAI AGRICULTURE ENTERPRISE	
+382	Chemical	Cleaner & Degreaser	3R Rust Remover 500ml	1	BTL	24.90	24.9	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;brand=3R;mapped_from=Consumables/Cleaning Chemicals
+383	Construction Chemical	Bonding Agent	Sika Latex 118 18L	1	PCS	68	68	2025-11-17	E SHENG HARDWARE (JH) SDN BHD	
+384	Construction Chemical	Bonding Agent	Worpro Latex 228 18L (Cement Slurry)	1	PCS	123	123	2025-11-20	NILAI AGRICULTURE ENTERPRISE	Malay: Susu Cement
+385	Construction Chemical	Cementitious Compound	Mapei Mapefill 318 - Pumpable Multi-Purpose Shrinkage-Compensated Cementitious Grout 25kg	1	BAG	35	35	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+386	Construction Chemical	Cementitious Compound	Mapei Mapegrout Patch 218 - General Purpose Shrinkage-Controlled Fibre-Reinforced Patch Repair Mortar 25kg (Grey)	1	BAG	33	33	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+387	Construction Chemical	Cementitious Compound	Sika 215 25kg	2	BAG	28	56	2025-09-02		
+388	Construction Chemical	Cementitious Compound	Sikaceram-450H Quick-drying Anti-cracking Self-Levelling Floor Screed 20kg	1	BAG	70	70			
+389	Construction Chemical	Cementitious Compound	SikaGrout 215 - Pumpable Shrinkage-Compensated Cementitious Grout 25kg	1	BAG	28	28	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+390	Construction Chemical	Cementitious Compound	Sikagrout Pumpable Shrinkage Compensated Cementitious Grout	3	BAG	80	240	2025-10-01	E SHENG HARDWARE (JH) SDN BHD	
+391	Construction Chemical	Cementitious Compound	Sikagrout Pumpable Shrinkage Compensated Cementitious Grout	1	BAG	82	82			
+392	Construction Chemical	Cementitious Compound	Sikagrout Pumpable Shrinkage Compensated Cementitious Grout	1	BAG	25	25	2025-06-18	E SHENG HARDWARE (JH) SDN BHD	
+393	Cutting	Cutting & Abrasives	Bosch Grinding Disc 7"	10	PCS	9.5	95	2025-05-21		
+394	Cutting	Cutting & Abrasives	Coolman C88 Diamond Blade	1	PCS	20	20	2026-01-27	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	
+395	Cutting	Cutting & Abrasives	Coolman U88 Diamond Blade	1	PCS	28	28	2026-01-27	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	
+396	Cutting	Cutting & Abrasives	Cutting Disc (Thailand) 105mm x 1.2mm x 16mm	50	PCS	0.9	45	2023-01-12		
+397	Cutting	Cutting & Abrasives	Deecut Cutting Disc 105mm x 1.2mm x 16mm	100	PCS	0.8	80	2023-03-15		
+398	Cutting	Cutting & Abrasives	Flap Disc 4" Grit 80	20	PCS	3.2	64	2025-05-21		
+399	Cutting	Cutting & Abrasives	Glass Cutter	1	PCS	25	25	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+400	Cutting	Cutting & Abrasives	HS6181 20mm Hole Saw	1	PCS	8.5	8.5	2021-03-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+401	Cutting	Cutting & Abrasives	HS6181 22mm Hole Saw	1	PCS	8.5	8.5	2021-03-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+402	Cutting	Cutting & Abrasives	HS6181 25mm Hole Saw	1	PCS	14.4	14.4	2021-03-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+403	Cutting	Cutting & Abrasives	HS6181-M Marksman II 54mm Hole Saw	1	PCS	30	30	2021-03-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+404	Cutting	Cutting & Abrasives	Tiger Flat Blade Cutter K-909	1	PCS	12	12	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+405	Cutting	Cutting & Abrasives	Toyo Glass Cutter TC30	1	PCS	48	48	2021-02-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+406	Electrical	Back Box	PVC Back Box Concealed Black 3" x 3" (Jointable)	1	PCS	0.4	0.4	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+407	Electrical	Back Box	PVC Back Box Concealed White 3" x 3"	1	PCS	0.5	0.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+408	Electrical	Back Box	PVC Back Box Concealed White 3" x 7" Double (Separate)	1	PCS	1.5	1.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+409	Electrical	Back Box	PVC Back Box Surface White 3" x 10" Triple	1	PCS	2.5	2.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+410	Electrical	Back Box	PVC Back Box Surface White 3" x 13" 4-Way	1	PCS	3.5	3.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+411	Electrical	Back Box	PVC Back Box Surface White 3" x 3" Single	1	PCS	0.6	0.6	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+412	Electrical	Back Box	PVC Back Box Surface White 3" x 6" Double (Ganged)	1	PCS	1.5	1.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Malay: sekali
+413	Electrical	Back Box	PVC Back Box Surface White 3" x 7" Double (Separate)	1	PCS	1.2	1.2	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+414	Electrical	Back Box	PVC Concealed Box 1 Gang	30	UNIT	0.35	10.5			
+415	Electrical	Cable Lug	Sino Cable Lug 1.5mm2 M5	1	PCS	0.3	0.3	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+416	Electrical	Cable Lug	Sino Cable Lug 10mm2 M8	1	PCS	0.6	0.6	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+417	Electrical	Cable Lug	Sino Cable Lug 16mm2 M8/M10	1	PCS	0.7	0.7	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+418	Electrical	Cable Lug	Sino Cable Lug 2.5mm2 M5	1	PCS	0.3	0.3	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+419	Electrical	Cable Lug	Sino Cable Lug 25mm2 M8/M10	1	PCS	0.8	0.8	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+420	Electrical	Cable Lug	Sino Cable Lug 4.0mm2 M5	1	PCS	0.4	0.4	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+421	Electrical	Cable Lug	Sino Cable Lug 4mm2 M5	1	PCS	0.4	0.4	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+422	Electrical	Cable Lug	Sino Cable Lug 6.0mm2 M6	1	PCS	0.5	0.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+423	Electrical	Cable Tie	Cable Tie 200mm (Black)	10	PACK	3.5	35	2025-02-17		
+424	Electrical	Cable Tie	OK-IN Cable Tie 10" x 4.8mm x 100PCS Black	1	PKT	12	12	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+425	Electrical	Cable Tie	OK-IN Cable Tie 12" x 4.8mm x 100PCS Black	1	PKT	13	13	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+426	Electrical	Cable Tie	OK-IN Cable Tie 8" x 3.6mm x 100PCS Black	1	PKT	7	7	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+427	Electrical	Cable Trunking	PVC Casing 2" x 4"	10	PCS	45	450	2025-08-13		
+428	Electrical	Cable Trunking	PVC Trunking (3/4"/1"/1-1/2" x 3/4"/1" x 2"/2"/2" x 4")	1	SET	1315	1315			
+429	Electrical	Ceiling Fan	Ceiling Fan KDK (Remote, 56")	9	UNIT	665	5985			Malay: Kipas siling
+430	Electrical	Ceiling Fan	Ceiling Fan KDK (Remote, 56in DC)	12	SET	356	4272	2026-02-13	CHUAH ELECTRICAL & HARDWARE SUPPLIES	src=N0179657
+431	Electrical	Ceiling Fan	KDK K14PH 5 Blade 56" Remote Control Ceiling Fan DC Motor 5 Speed (PBR) 1 Unit RM360.00	1	SET	360	360	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+432	Electrical	Ceiling Fan	KDK K15VO Ceiling Fan 60" 3 Blade 5 Speed (Dark Brown)	1	SET	190	190	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+433	Electrical	Ceiling Fan	KDK K15VO Ceiling Fan 60" 3 Blade 5 Speed (White)	1	SET	170	170	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+434	Electrical	Ceiling Fan	KDK K15VO Ceiling Fan Regulator Type 3 Blade 60" 5 Speed (Dark Brown)	1	SET	190	190	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+435	Electrical	Ceiling Fan	Khind CF618 Ceiling Fan 60" 3 Blade 5 Speed (White/Black)	1	SET	125	125	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+436	Electrical	Conduit & Fittings	15A PVC Connector	1	BUNDL	18.00	18	2026-01-08		
+437	Electrical	Conduit & Fittings	PVC Conduit 25mm (2.8m/Length)	143	UNIT	2.80	400.4			Malay: batang
+438	Electrical	Conduit & Fittings	PVC Reducer Socket 32mm -> 25mm	6	UNIT	2.00	12	2025-08-13		
+439	Electrical	Conduit & Trunking	PVC Conduit Pipe 100mm (10ft)	1	LTH	91.30	91.3	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+440	Electrical	Conduit & Trunking	PVC Conduit Pipe 100mm (Box)	1	PCS	85.50	85.5	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	verify_uom=1
+441	Electrical	Conduit & Trunking	PVC Conduit Pipe 100mm 10ft + 90 Degree Elbow	1	UNIT	124	124			
+442	Electrical	Conduit & Trunking	PVC Conduit Pipe 20mm (10ft)	1	LTH	6.8	6.8	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+443	Electrical	Conduit & Trunking	PVC Conduit Pipe 20mm (10ft) + G.I. U Clip 1pcs + PVC Elbow 90 Degree 1pcs		UNIT	10	0			
+444	Electrical	Conduit & Trunking	PVC Conduit Pipe 20mm 10ft + 90 Degree Elbow		UNIT	9	0			
+445	Electrical	Conduit & Trunking	PVC Conduit Pipe 25mm (10ft)	1	LTH	10.2	10.2	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+446	Electrical	Conduit & Trunking	PVC Conduit Pipe 25mm (10ft) + G.I. U Clip 1pcs + PVC Elbow 90 Degree 1pcs		UNIT	13	0			
+447	Electrical	Conduit & Trunking	PVC Conduit Pipe 25mm (Box)	1	PCS	7.65	7.65	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	verify_uom=1
+448	Electrical	Conduit & Trunking	PVC Conduit Pipe 25mm 10ft + 90 Degree Elbow		UNIT	14	0			
+449	Electrical	Conduit & Trunking	PVC Conduit Pipe 32mm (10ft)	1	LTH	14.6	14.6	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+450	Electrical	Conduit & Trunking	PVC Conduit Pipe 32mm (Box)	1	PCS	11.3	11.3	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	verify_uom=1
+451	Electrical	Conduit & Trunking	PVC Conduit Pipe 32mm 10ft + 90 Degree Elbow		UNIT	18	0			
+452	Electrical	Conduit & Trunking	PVC Conduit Pipe 38mm (10ft)	1	LTH	17.4	17.4	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+453	Electrical	Conduit & Trunking	PVC Conduit Pipe 38mm (Box)	1	PCS	13	13	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	verify_uom=1
+454	Electrical	Conduit & Trunking	PVC Conduit Pipe 38mm 10ft + 90 Degree Elbow		UNIT	22	0			
+455	Electrical	Conduit & Trunking	PVC Conduit Pipe 50mm (10ft)	1	LTH	22.3	22.3	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+456	Electrical	Conduit & Trunking	PVC Conduit Pipe 50mm (Box)	1	PCS	19.8	19.8	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	verify_uom=1
+457	Electrical	Conduit & Trunking	PVC Conduit Pipe 50mm 10ft + 90 Degree Elbow		UNIT	37	0			
+458	Electrical	Conduit & Trunking	PVC Conduit Pipe 65mm (10ft)	1	LTH	40.2	40.2	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+459	Electrical	Conduit & Trunking	PVC Conduit Pipe 65mm (Box)	1	PCS	37.8	37.8	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	verify_uom=1
+460	Electrical	Conduit & Trunking	PVC Conduit Pipe 65mm 10ft + 90 Degree Elbow		UNIT	57	0			
+461	Electrical	Conduit & Trunking	PVC Conduit Pipe 80mm (10ft)	1	LTH	65.7	65.7	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+462	Electrical	Conduit & Trunking	PVC Conduit Pipe 80mm (Box)	1	PCS	59.4	59.4	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	verify_uom=1
+463	Electrical	Conduit & Trunking	PVC Conduit Pipe 80mm 10ft + 90 Degree Elbow		UNIT	93	0			
+464	Electrical	Conduit & Trunking	PVC Elbow 90 Degree 20mm	1	PKT	1.36	1.36	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+465	Electrical	Conduit & Trunking	PVC Elbow 90 Degree 25mm	1	PKT	1.36	1.36	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+466	Electrical	Conduit & Trunking	PVC End Cap 100mm	1	PKT	11	11	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+467	Electrical	Conduit & Trunking	PVC End Cap 25mm	1	PKT	1.46	1.46	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+468	Electrical	Conduit & Trunking	PVC End Cap 32mm	1	PKT	3.20	3.2	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+469	Electrical	Distribution Board	Consumer DB Box 12 Way	1	UNIT	185	185	2025-02-06		
+470	Electrical	Distribution Board	DB Box 3-Phase 45-Way (Full Set)	1	UNIT	450	450			
+471	Electrical	Distribution Board	EPS Metal DB EM3 3 Row x 15 Ways	1	PCS	300	300	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+472	Electrical	Distribution Board	EPS Metal DB EM4M2N 3 Row x 15 Ways + 1 x MCCB Slot + 2 x RCCB Slot	1	PCS	395	395	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+473	Electrical	Distribution Board	EPS Metal DB EM4M2N 3 Row x 18 Ways + 1 x MCCB Slot + 2 x RCCB Slot	1	PCS	450	450	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+474	Electrical	Distribution Board	GEB Metal DB GT314 3 Row x 14 Ways	1	PCS	160	160	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+475	Electrical	Distribution Board	GEB Metal DB GT414 4 Row x 14 Ways	1	PCS	195	195	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+476	Electrical	Distribution Board	Olson PVC DB 2 Row x 14 Ways	1	PCS	45	45	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+477	Electrical	Distribution Board	Olson PVC DB 3 Row x 15 Ways	1	PCS	55	55	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+478	Electrical	Earthing System	Copper Cable Clamp (Heavy Duty)	1	PCS	6.5	6.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+479	Electrical	Earthing System	Copper Cable Clamp (Light Duty)	1	PCS	2.5	2.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+480	Electrical	Earthing System	Copper Rod 12.7mm x 5ft (Local, No SIRIM)	1	LTH	15	15	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+481	Electrical	Earthing System	Copper Rod 13.7mm x 5ft (Local, No SIRIM)	1	LTH	17	17	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+482	Electrical	Earthing System	Copper Rod Joint For 12.7mm	1	PCS	4.5	4.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+483	Electrical	Earthing System	Copper Rod Joint For 13.7mm Heavy Duty	1	PCS	13	13	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+484	Electrical	Earthing System	Copper Rod Joint For 13.7mm Light Duty	1	PCS	6.5	6.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+485	Electrical	Earthing System	Earthing Rod 16mm x 0.5m	4	PCS	100.00	400			
+486	Electrical	Earthing System	PVC-Link Earth Chamber 6" x 6" PVC	1	PCS	3	3	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+487	Electrical	Earthing System	SACT Earth Chamber 10" x 10" Concrete (No SIRIM)	1	PCS	38	38	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+488	Electrical	Earthing System	Taipoly Copper Rod 13.7mm x 5ft (SIRIM JKR)	1	LTH	48	48	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+489	Electrical	Electric Cable	Earth Cable 16mm2 G/Y (Estimate 15m)	15	M	10.50	157.5			
+490	Electrical	Electric Cable	Electrical Cable 2.5mm2 (Black)	20	M	1	20	2025-08-13		
+491	Electrical	Electric Cable	Mega Cable 1.5mm2 100m/Roll	6	ROLL	85	510			
+492	Electrical	Electric Cable	Mega Cable 2.5mm2 100m/Roll	5	ROLL	128	640			
+493	Electrical	Electric Cable	Mega PVC Cable 1.5mm2 (Black, SIRIM)	1	ROLL	92.00	92	2026-01-08		
+494	Electrical	Electric Cable	Mega PVC Cable 1.5mm2 (Black, SIRIM)	2	ROLL	92	184	2026-01-08		
+495	Electrical	Electric Cable	Mega PVC Cable 1.5mm2 (Green, SIRIM)	1	ROLL	92	92	2026-01-08		
+496	Electrical	Electric Cable	Mega PVC Cable 1.5mm2 (Green, SIRIM)	2	ROLL	92	184	2026-01-08		
+497	Electrical	Electric Cable	Mega PVC Cable 1.5mm2 (Red, SIRIM)	1	ROLL	92	92	2026-01-08		
+498	Electrical	Electric Cable	Mega PVC Cable 1.5mm2 (Red, SIRIM)	2	ROLL	92	184	2026-01-08		
+499	Electrical	Electric Cable	Mega PVC Cable 10mm2 (Black, SIRIM)	1	ROLL	350	350	2026-01-08		
+500	Electrical	Electric Cable	Mega PVC Cable 2.5mm2 (Black, SIRIM)	1	ROLL	146	146	2026-01-08		
+501	Electrical	Electric Cable	Mega PVC Cable 2.5mm2 (Green, SIRIM)	1	ROLL	146	146	2026-01-08		
+502	Electrical	Electric Cable	Mega PVC Cable 2.5mm2 (Red, SIRIM)	1	ROLL	146.00	146	2026-01-08		
+503	Electrical	Electric Cable	Mega PVC Cable 4mm2 (Green, SIRIM)	1	ROLL	243	243	2026-01-12	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+504	Electrical	Electrical Parts	PVC Insulation Tape 18mm x 6yd	10	PCS	0.5	5	2026-01-08		
+505	Electrical	Electrical Parts	Schneider TeSys K Contactor LC1K1610U7 3P 16A Coil 230-240VAC	30	PCS	135	4050	2022-04-06	KVC Industrial Supplies Sdn Bhd	src=2022-04-07 SO1100906266 - KVC Industrial Supplies Sdn Bhd.pdf;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+506	Electrical	Electrical Parts	Solder (Timah) 1kg	1	KG	10	10	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+507	Electrical	Emergency Light	Econlite LE115 Emergency Light (BOMBA SIRIM Approved)	1	SET	73	73	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+508	Electrical	Emergency Light	Kelip-Kelip BE1ST 12L44P(B) Emergency Light (BOMBA SIRIM Approved)	1	SET	53	53	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+509	Electrical	Enclosure Box	TC PVC Enclosure Box Grey 10" x 12" x 6"	1	PCS	30	30	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+510	Electrical	Enclosure Box	TC PVC Enclosure Box Grey 4" x 4" x 2"	1	PCS	3.5	3.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+511	Electrical	Enclosure Box	TC PVC Enclosure Box Grey 4" x 4" x 4"	1	PCS	8	8	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+512	Electrical	Enclosure Box	TC PVC Enclosure Box Grey 4" x 6" x 3"	1	PCS	7	7	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+513	Electrical	Enclosure Box	TC PVC Enclosure Box Grey 4" x 6" x 4"	1	PCS	11	11	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+514	Electrical	Enclosure Box	TC PVC Enclosure Box Grey 6" x 8" x 3"	1	PCS	10	10	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+515	Electrical	Enclosure Box	TC PVC Enclosure Box Grey 6" x 8" x 4"	1	PCS	12	12	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+516	Electrical	Enclosure Box	TC PVC Enclosure Box Grey 8" x 10" x 4"	1	PCS	15	15	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+517	Electrical	Exit Sign	Econlite LE908 SL Exit Sign (BOMBA SIRIM Approved)	1	SET	105	105	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+518	Electrical	Exit Sign	Kelip-Kelip BE1ST 101B Exit Sign (BOMBA SIRIM Approved)	1	SET	75	75	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+519	Electrical	Heat Shrink Tube	Heat Shrink Tube Black 10mm	7	M	3.5	24.5	2025-05-06		
+520	Electrical	Heat Shrink Tube	Heat Shrink Tube Black 16mm	7	M	4.5	31.5	2025-05-06		
+521	Electrical	Heat Shrink Tube	Heat Shrink Tube Black 25mm	7	M	6	42	2025-05-06		
+522	Electrical	Heat Shrink Tube	Heat Shrink Tube Black 4mm	7	M	2	14	2025-05-06		
+523	Electrical	Heat Shrink Tube	Heat Shrink Tube Black 6mm	7	M	2.5	17.5	2025-05-06		
+524	Electrical	Industrial Plug & Socket	Industrial Connector Socket/Wall Socket IP44 16A 4P	1	PCS	13	13	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+525	Electrical	Industrial Plug & Socket	Industrial Connector Socket/Wall Socket IP44 16A 5P	1	PCS	15	15	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+526	Electrical	Industrial Plug & Socket	Industrial Connector Socket/Wall Socket IP44 32A 3P	1	PCS	11	11	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+527	Electrical	Industrial Plug & Socket	Industrial Connector Socket/Wall Socket IP44 32A 4P	1	PCS	13	13	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+528	Electrical	Industrial Plug & Socket	Industrial Connector Socket/Wall Socket IP44 32A 5P	1	PCS	15	15	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+529	Electrical	Industrial Plug & Socket	Industrial Plug IP44 16A 3P	1	PCS	9	9	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+530	Electrical	Industrial Plug & Socket	Industrial Plug IP44 16A 4P	1	PCS	11	11	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+531	Electrical	Industrial Plug & Socket	Industrial Plug IP44 16A 5P	1	PCS	14	14	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+532	Electrical	Industrial Plug & Socket	Industrial Plug IP44 32A 3P	1	PCS	9	9	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+533	Electrical	Industrial Plug & Socket	Industrial Plug IP44 32A 4P	1	PCS	11	11	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+534	Electrical	Industrial Plug & Socket	Industrial Plug IP44 32A 5P	1	PCS	14	14	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	Generic China brand
+535	Electrical	Isolator Switch	Schneider Weatherproof Isolator Switch 35A 3P WHT35	1	PCS	88	88	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+536	Electrical	Isolator Switch	Weatherproof Isolator Switch 35A 3P SBE	1	PCS	30	30	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+537	Electrical	kWh Submeter	Henly Digital kWh Submeter 240V 60A (No SIRIM)	1	PCS	68	68	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+538	Electrical	kWh Submeter	Henly Digital kWh Submeter 415V 100A (No SIRIM)	1	PCS	230	230	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+539	Electrical	LED Batten	Newton LED Batten 2ft Single Fitting C/W Minlite LED Tube 18W 6500K (SIRIM)	1	SET	17	17	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+540	Electrical	LED Batten	Newton LED Batten 2ft Single Fitting C/W SBE LED Tube 10W 6500K (SIRIM)	1	SET	13	13	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+541	Electrical	LED Batten	Newton LED Batten 4ft Double Fitting C/W SBE LED Tube 22W 6500K	1	SET	25	25	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+542	Electrical	LED Batten	Newton LED Batten 4ft Double Fitting C/W SBE LED Tube 32W 6500K	1	SET	30	30	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+543	Electrical	LED Batten	Newton LED Batten 4ft Single Fitting C/W SBE LED Tube 22W 6500K	1	SET	13	13	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+544	Electrical	LED Batten	Newton LED Batten 4ft Single Fitting C/W SBE LED Tube 32W 6500K	1	SET	17	17	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+545	Electrical	LED Downlight	LED Downlight 4in 12W	12	PCS	9.9	118.8	2026-02-13	CHUAH ELECTRICAL & HARDWARE SUPPLIES	src=N0179658
+546	Electrical	LED Downlight	Wurui LED Downlight 4" 12W 6500K (Square/Round) SIRIM	1	SET	9	9	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+547	Electrical	LED Downlight	Wurui LED Downlight 6" 20W 6500K (Square/Round) SIRIM	1	SET	10	10	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+548	Electrical	Lighting	LED Bulb 12W Warm White	10	PCS	5.5	55	2023-12-28		
+549	Electrical	Lighting	Outdoor Wall Light IP65 (Motion Sensor)	3	UNIT	90	270			
+550	Electrical	Lighting	Philips LED Downlight 4" 12W	30	SET	23.9	717			
+551	Electrical	Lighting	White Fighter Downlight 4" 12W Round (PVC)	30	SET	10	300	2025-09-02		
+552	Electrical	MCB	EPS MCB 1P (6A/10A/16A/20A/32A)	1	PCS	4.6	4.6	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+553	Electrical	MCB	EPS MCB 2P (40A/63A)	1	PCS	22	22	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+554	Electrical	MCB	EPS MCB 3P (10A/16A/20A/32A)	1	PCS	25	25	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+555	Electrical	MCB	EPS MCB 3P (40A/63A)	1	PCS	30	30	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+556	Electrical	MCB	Schneider MCB 20A	5	PCS	22	110	2024-03-18		
+557	Electrical	PVC Cable	Mega PVC Cable 1.50mm2 Black SIRIM	1	ROLL	92	92	2026-01-12	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+558	Electrical	PVC Cable	Mega PVC Cable 1.50mm2 Green SIRIM	1	ROLL	92	92	2026-01-12	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+559	Electrical	PVC Cable	Mega PVC Cable 1.50mm2 Red SIRIM	1	ROLL	92	92	2026-01-12	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+560	Electrical	PVC Cable	Mega PVC Cable 10.00mm2 Black SIRIM	1	ROLL	620	620	2026-01-12	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+561	Electrical	PVC Cable	Mega PVC Cable 16.00mm2 100.00m/Roll (Red/Yellow/Blue/Black/Green)	1	ROLL	1020	1020	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+562	Electrical	PVC Cable	Mega PVC Cable 25.00mm2 100.00m/Roll (Red/Yellow/Blue/Black/Green)	1	ROLL	1600	1600	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+563	Electrical	PVC Cable	Mega PVC Cable 4.00mm2 Green SIRIM	1	ROLL	243	243	2026-01-12	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+564	Electrical	PVC Cable	Mega PVC Cable 6.00mm2 100.00m/Roll (Red/Yellow/Blue/Black/Green)	1	ROLL	375	375	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+565	Electrical	PVC Casing	Feema PVC Casing 50.00mm x 75.00mm 6.00ft White	1	LTH	16	16	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+566	Electrical	PVC Casing	Wireman PVC Casing (Separate) 100mm x 50mm 6.00ft White	1	LTH	36	36	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+567	Electrical	PVC Casing	Wireman PVC Casing (Separate) 100mm x 75mm 6.00ft White	1	LTH	42	42	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+568	Electrical	PVC Casing	Wireman PVC Casing (Separate) 20mm x 10mm 6.00ft White	1	LTH	2.2	2.2	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+569	Electrical	PVC Casing	Wireman PVC Casing (Separate) 27mm x 13mm 6.00ft White	1	LTH	2.5	2.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+570	Electrical	PVC Casing	Wireman PVC Casing (Separate) 40mm x 16mm 6.00ft White	1	LTH	5.00	5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+571	Electrical	PVC Casing	Wireman PVC Casing (Separate) 50mm x 16mm 6.00ft White	1	LTH	6.5	6.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+572	Electrical	PVC Casing	Wireman PVC Casing (Separate) 50mm x 32mm 6.00ft White	1	LTH	8.5	8.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+573	Electrical	PVC Casing	Wireman PVC Casing (Separate) 50mm x 50mm 6.00ft White	1	LTH	10	10	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+574	Electrical	PVC Casing	Wireman PVC Casing (Separate) 75mm x 50mm 6.00ft White	1	LTH	20	20	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+575	Electrical	PVC Casing	Wireman PVC Casing 10.00mm x 20.00mm 6.00ft White	1	LTH	2.2	2.2	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+576	Electrical	PVC Casing	Wireman PVC Casing 13.00mm x 27.00mm 6.00ft White	1	LTH	2.5	2.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+577	Electrical	PVC Casing	Wireman PVC Casing 16.00mm x 40.00mm 6.00ft White	1	LTH	5	5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+578	Electrical	PVC Casing	Wireman PVC Casing 50.00mm x 100.00mm 6.00ft White	1	LTH	36	36	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+579	Electrical	PVC Casing	Wireman PVC Casing 50mm x 16mm 6.00ft White	1	LTH	6.5	6.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+580	Electrical	PVC Casing	Wireman PVC Casing 50mm x 32mm 6.00ft White	1	LTH	8.5	8.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+581	Electrical	PVC Casing	Wireman PVC Casing 50mm x 50mm 6.00ft White	1	LTH	10	10	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+582	Electrical	PVC Casing	Wireman PVC Casing 75.00mm x 100.00mm 6.00ft White	1	LTH	42	42	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+583	Electrical	PVC Casing	Wireman PVC Casing 75mm x 50mm 6.00ft White	1	LTH	20	20	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+584	Electrical	PVC Conduit	Hero PVC Conduit 20mm 9.50ft White	1	LTH	1.6	1.6	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+585	Electrical	PVC Conduit	Hero PVC Conduit 25mm 9.50ft White	1	LTH	2.7	2.7	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+586	Electrical	PVC Conduit Accessories	Pipe Clip PVC Kontiup 20mm (3/4")	1	UNIT	0.3	0.3	2025-08-13		
+587	Electrical	PVC Conduit Accessories	Pipe Clip PVC Kontiup 25mm (1")	1	UNIT	0.4	0.4	2025-08-13		
+588	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 20mm (1-Way/Angle/2-Way/3-Way/4-Way/Tee/Elbow/Long Bend)	1	PCS	0.5	0.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+589	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 20mm Female Adaptor	1	PCS	0.4	0.4	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+590	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 20mm Reducer	1	PCS	0.3	0.3	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+591	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 20mm Round Box Cover (Round)	1	PCS	0.2	0.2	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+592	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 20mm Socket	1	PCS	0.20	0.2	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+593	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 20mm U-Clips	1	PCS	0.1	0.1	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+594	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 25mm (1-Way/Angle/2-Way/3-Way/4-Way/Tee/Elbow/Long Bend)	1	PCS	0.6	0.6	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+595	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 25mm Female Adaptor	1	PCS	0.5	0.5	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+596	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 25mm Socket	1	PCS	0.2	0.2	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+597	Electrical	PVC Conduit Accessories	PVC Conduit Accessory 25mm U-Clips	1	PCS	0.2	0.2	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+598	Electrical	RCCB	EPS RCCB Single Phase 40A 2P 100mA	1	PCS	40	40	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+599	Electrical	RCCB	EPS RCCB Single Phase 40A 2P 30mA	1	PCS	59	59	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+600	Electrical	RCCB	EPS RCCB Single Phase 63A 2P 100mA	1	PCS	48	48	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+601	Electrical	RCCB	EPS RCCB Single Phase 63A 2P 30mA	1	PCS	60	60	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+602	Electrical	RCCB	EPS RCCB Three Phase 40A 4P 100mA	1	PCS	70	70	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+603	Electrical	RCCB	EPS RCCB Three Phase 40A 4P 300mA	1	PCS	65	65	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+604	Electrical	RCCB	EPS RCCB Three Phase 40A 4P 30mA	1	PCS	85	85	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+605	Electrical	RCCB	EPS RCCB Three Phase 63A 4P 100mA	1	PCS	75	75	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+606	Electrical	RCCB	EPS RCCB Three Phase 63A 4P 300mA	1	PCS	70	70	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+607	Electrical	RCCB	EPS RCCB Three Phase 63A 4P 30mA	1	PCS	88	88	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+608	Electrical	SPD	EPS SPD Single Phase 1P+N 20/40kA	1	PCS	165	165	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+609	Electrical	SPD	EPS SPD Three Phase 3P+N 20/40kA	1	PCS	330	330	2026-01-27	CHUAH ELECTRICAL & HARDWARE SUPPLIES	
+610	Electrical	Switch & Socket	Schneider Dimmer	3	UNIT	85.8	257.4			
+611	Electrical	Switch & Socket	Schneider Socket 13A	10	PCS	9.2	92	2025-02-14		
+612	Electrical	Switch & Socket	Schneider Socket 13A (Single)	10	UNIT	8.50	85			Malay: Soket
+613	Electrical	Switch & Socket	Schneider Switch 1 Gang	20	PCS	6.8	136	2025-01-15		
+614	Electrical	Switch & Socket	Schneider Switch 1 Gang	20	UNIT	5.9	118			
+615	Electrical	Switch & Socket	Single Switch Socket 13A Schneider A3G15WE	10	UNIT	7	70	2025-09-02		
+616	Electrical	Switch & Socket	UMS Cosimo V301 Light Switch	2	UNIT	6	12	2025-08-13		
+617	Fasteners	Blind Rivet	Blind Rivet 1/8" x 2/8" MB (1000pcs/box)	3	BOX	19	57	2026-02-10	WINTECH BUILDING MATERIALS SDN BHD	src=CS-02452
+618	Fasteners	Blind Rivet	Blind Rivet 1/8" x 2/8" NA	1	BOX	20.8	20.8	2023-07-23	YIT LOONG BUILDING MATERIALS SDN BHD	
+619	Fasteners	Blind Rivet	Blind Rivet 1/8" x 3/8" Black	1	BOX	24	24	2024-07-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+620	Fasteners	Blind Rivet	Blind Rivet 1/8" x 3/8" MB (1000pcs/box)	1	BOX	20	20	2026-02-10	WINTECH BUILDING MATERIALS SDN BHD	src=CS-02452
+621	Fasteners	Blind Rivet	Blind Rivet 1/8" x 3/8" NA	1	BOX	24.3	24.3	2024-07-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+622	Fasteners	Blind Rivet	Blind Rivet 5/32" x 3/8" NA	1	BOX	25.50	25.5	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+623	Fasteners	Chemical Anchor	Chemical Anchor (SS Railing + Roman Tiang Starter)	1	PCS	55	55	2024-06-25		
+624	Fasteners	Drywall Screw	Drywall Screw #6 x 1" (Z/P)	1	BOX	34.00	34	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	verify_na=1; source_had_na=1
+625	Fasteners	Drywall Screw	Drywall Screw 6 x 1" (1000 PCS)	1	BOX	15	15	2022-11-16		
+626	Fasteners	Drywall Screw	Drywall Screw 6 x 1" MKG-625 (1000 PCS)	1	BOX	15	15	2022-11-16		
+627	Fasteners	Drywall Screw	Drywall Screw 6 x 1" MKZ-625 ZP (1000PCS)	1	BOX	16.5	16.5	2022-11-16		
+628	Fasteners	Fasteners	Self Tapping Screw CSK HD #6 x 2	1	PKT	4.00	4	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+629	Fasteners	Fasteners & Anchors	1-1/2" x 12kg GI Nail (CTN)	1	CTN	60	60	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	
+630	Fasteners	Fasteners & Anchors	2" GI Nail (CTN)	1	CTN	65	65	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	
+631	Fasteners	Fasteners & Anchors	2-1/2" GI Nail (kg)	2	KG	6.5	13	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	
+632	Fasteners	Fasteners & Anchors	2-1/2" x 10kg GI Nail	1	BOX	55	55	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	
+633	Fasteners	Fasteners & Anchors	Anchor 8mm (Box)	2	BOX	25	50	2026-02-12	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005929
+634	Fasteners	Fasteners & Anchors	Binding Wire 1.6mm	1	PCS	5	5	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090103;orig=wayer 16mm
+635	Fasteners	Fasteners & Anchors	Concrete Nail 2" (Box)	1	BOX	8.5	8.5	2025-10-16	E SHENG HARDWARE (JH) SDN BHD	
+636	Fasteners	Fasteners & Anchors	Concrete Nail Jaguar 3" (1kg Box)	1	BOX	8.3	8.3	2025-10-16	E SHENG HARDWARE (JH) SDN BHD	
+637	Fasteners	Fasteners & Anchors	CSK HD Phillips S/T Screws (N/P)	1	BOX	34	34	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+638	Fasteners	Fasteners & Anchors	CSK HD Phillips S/T Screws (N/P) CW3	1	BOX	68	68	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+639	Fasteners	Fasteners & Anchors	DS438FH #8 x 1 1/2" Self-Drilling Screw	1	BOX	26	26	2022-11-16		
+640	Fasteners	Fasteners & Anchors	DS-HW 625 12 x 1" SD Screw (400 PCS)	1	BOX	65.00	65	2025-09-02		
+641	Fasteners	Fasteners & Anchors	Earth Clamp U-Bolt UC301	1	PCS	74.1	74.1			
+642	Fasteners	Fasteners & Anchors	Galvanised Steel Nails 20 x 2.0	1	BOX	6.50	6.5	2023-05-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+643	Fasteners	Fasteners & Anchors	GI Nail 2"	200	PCS	3	600	2025-07-31	NILAI AGRICULTURE ENTERPRISE	source_text: 2. NAIL 2" 12KG KG 3. GI WIRE SWG 20# 1.5KG (IKAT/10RLLS)
+644	Fasteners	Fasteners & Anchors	GI Wire 20#	8	ROLL	14	112	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+645	Fasteners	Fasteners & Anchors	GI Wire SWG 20# 1.5kg (IKAT/10RLLS)	5	IKAT	9	45	2025-09-30	NILAI AGRICULTURE ENTERPRISE	
+646	Fasteners	Fasteners & Anchors	Grade 8.8 HDG Fully Threaded Stud Rod M16 x 2m	1	LTH	30	30			
+647	Fasteners	Fasteners & Anchors	Grade 8.8 HDG Fully Threaded Stud Rod M24 x 2m	1	LTH	60	60			
+648	Fasteners	Fasteners & Anchors	Grade 8.8 HDG Hex Nut M16	1	PCS	0.3	0.3			
+649	Fasteners	Fasteners & Anchors	Grade 8.8 HDG Hex Nut M24	1	PCS	1.10	1.1			
+650	Fasteners	Fasteners & Anchors	Hanger Rod + Fastener (6ft/Set, Screw + Washer Included)	80	SET	6.5	520			Malay: Siap Skru+Washer
+651	Fasteners	Fasteners & Anchors	Hex Self-Drilling Screw DS525HW 10# x 1"	200	PCS	0.13	26	2022-12-16		
+652	Fasteners	Fasteners & Anchors	Jaguar 2-1/2" 1kg Concrete Nail	1	BOX	9.50	9.5	2025-12-03	E SHENG HARDWARE (JH) SDN BHD	
+653	Fasteners	Fasteners & Anchors	Jaguar 3" 1kg Concrete Nail (Box)	2	BOX	9.5	19	2025-10-01	E SHENG HARDWARE (JH) SDN BHD	
+654	Fasteners	Fasteners & Anchors	Mild Steel HDG Flat Washer M16	1	PCS	0.12	0.12			
+655	Fasteners	Fasteners & Anchors	Mild Steel HDG Flat Washer M24	1	PCS	0.5	0.5			
+656	Fasteners	Fasteners & Anchors	MS Stud Bolts (Z/P) 5/16 x 6ft	1	SET	5	5	2022-04-21	YIT LOONG BUILDING MATERIALS SDN BHD	
+657	Fasteners	Fasteners & Anchors	Nail 2" 12kg	1	BOX	8	8	2025-06-12	NILAI AGRICULTURE ENTERPRISE	
+658	Fasteners	Fasteners & Anchors	Nail 2.5" (12kg)	3	BAG	8.00	24	2025-09-02		
+659	Fasteners	Fasteners & Anchors	Nail 3" (12kg)	3	BAG	8	24	2025-09-02		
+660	Fasteners	Fasteners & Anchors	Nails 2" - Formwork	3	KG	8	24			
+661	Fasteners	Fasteners & Anchors	Nails 3" - Formwork	3	KG	8	24			
+662	Fasteners	Fasteners & Anchors	PTA-110 Patta Screwdriver Bit	1	PCS	4.5	4.5	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+663	Fasteners	Fasteners & Anchors	Roofing Screw + Washer	4	BOX	68.00	272			
+664	Fasteners	Fasteners & Anchors	Screw #6 x 1 (WM)	3	BOX	17.2	51.6	2026-01-12	KIM YAN PLASTERCEIL SDN. BHD.	
+665	Fasteners	Fasteners & Anchors	Screw (U) #6 x 1"	1	BOX	15.5	15.5	2026-01-14		
+666	Fasteners	Fasteners & Anchors	Self-Drilling Screw FH #8 x 1 (Z/P)	1	BOX	18	18	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+667	Fasteners	Fasteners & Anchors	Self-Drilling Screw FH #8 x 3/4 (Z/P)	1	BOX	17	17	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+668	Fasteners	Fasteners & Anchors	Self-Drilling Screw Hex HD #10 x 1 (R/P)	1	BOX	26	26	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+669	Fasteners	Fasteners & Anchors	Self-Drilling Screw PH #6 x 1/2 (Z/P)	1	BOX	12.4	12.4	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+670	Fasteners	Fasteners & Anchors	Self-Drilling Screw PH #6 x 3/8 (Z/P)	1	BOX	11.4	11.4	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+671	Fasteners	Fasteners & Anchors	Self-Drilling Screw PH #8 x 1/2 (Z/P)	1	BOX	14.7	14.7	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+672	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #6 x 1 1/2 (N/P)	1	BOX	35.7	35.7	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+673	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #6 x 1 2/8 (N/P)	1	BOX	29.30	29.3	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+674	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 1 (N/P)	1	BOX	20	20	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+675	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 1 1/2 (N/P)	1	BOX	26	26	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+676	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 1 1/4 (N/P)	1	BOX	23.5	23.5	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+677	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 1/2 (N/P)	1	BOX	14.30	14.3	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+678	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 2 (N/P)	1	BOX	33.8	33.8	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+679	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 2 1/2 (N/P)	1	BOX	42.5	42.5	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+680	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 3 (N/P)	1	BOX	49.8	49.8	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+681	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 3/4 (N/P)	1	BOX	16.3	16.3	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+682	Fasteners	Fasteners & Anchors	Self-Tapping Screw FH #8 x 3/8 (N/P)	1	BOX	13.8	13.8	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+683	Fasteners	Fasteners & Anchors	Stainless Screws #8 x 1" (100 PCS/Box)	1	BOX	12	12			
+684	Fasteners	Fasteners & Anchors	Steel Expansion Bolt M10 x 100	50	PCS	1.8	90	2025-04-09		
+685	Fasteners	Fasteners & Anchors	Thread Rod 1/2in x 10ft	2	PCS	12.00	24	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+686	Fasteners	Fasteners & Anchors	Thread Rod 1/2in x 10ft (Metro)	1	PCS	12	12	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+687	Fasteners	Fasteners & Anchors	U-Bolt 1/2in	1	PCS	2.5	2.5	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+688	Fasteners	Fasteners & Anchors	U-Bolt 1/2in	2	PCS	2.50	5	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+689	Fasteners	Fasteners & Anchors	Wall Plug 501 Grey	1	PKT	12	12	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+690	Fasteners	Fasteners & Anchors	Wall Plug SYW 12mm 3/8" x 3"	2	BOX	64	128	2022-10-21		
+691	Fasteners	Fasteners & Anchors	Wedge Anchor M12 x 150mm	30	PCS	2.2	66	2022-12-16		
+692	Fence	Fence System & Accessories	Anti-Climb Fence Panel 6 x 8 Mesh 1" x 3" 3.5mm	1	PCS	160	160	2026-01-31	MY STEEL HARDWARE SDN BHD	
+693	Fence	Fence System & Accessories	Anti-Climb Fence Panel 6 x 8 Mesh 1/2" x 3" 3.5mm	1	PCS	200	200	2026-01-31	MY STEEL HARDWARE SDN BHD	
+694	Fence	Fence System & Accessories	PVC Link Fence	1	ROLL	145	145	2026-01-31	MY STEEL HARDWARE SDN BHD	
+695	Finishing	Ceiling Works	Metal Furring 10mm x 30mm x 12.00ft	18	PCS	5.8	104.4	2025-08-13		
+696	Finishing	Ceiling Works	Metal Furring 10mm x 30mm x 12.00ft	60	LTH	3.5	210	2025-09-02		
+697	Finishing	Ceiling Works	Metal Furring 30mm x 0.30mm x 12.00ft	100	PCS	2.3	230	2026-01-12	KIM YAN PLASTERCEIL SDN. BHD.	
+698	Finishing	Paint & Coating	203263 Gox7 Texture Paint (5L) - Black	1	PCS	195	195	2025-04-16	MR. PAINT SHOP SDN BHD	
+699	Finishing	Paint & Coating	Black Gloss Paint 5L	1	TIN	78	78	2023-03-21		
+700	Finishing	Paint & Coating	Black Oxide Paint 18L	1	SET	65	65	2026-01-31	MY STEEL HARDWARE SDN BHD	
+701	Finishing	Paint & Coating	Colourland Weatherflex Base A 18L White	2	TIN	120	240	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+702	Finishing	Paint & Coating	Nippon Acrylic 5170 Wall Sealer 1L	1	UNIT	34	34	2026-02-04	Shopee	price from listing (1L)
+703	Finishing	Paint & Coating	Nippon Multi Purpose Floor Coating 15L	1	PACK	460	460			packMark=p
+704	Finishing	Paint & Coating	Nippon Odourlite Soft Matt 5L Base P 1144	1	PCS	167	167	2025-02-05	NILAI AGRICULTURE ENTERPRISE	
+705	Finishing	Paint & Coating	Nippon Paint 5400 Wall Sealer 18L (Interior/Exterior)	1	UNIT	180	180	2026-02-04	Shopee	price from listing (18L)
+706	Finishing	Paint & Coating	Nippon Paint 5400 Wall Sealer 5L (Interior/Exterior)	1	UNIT	67	67		CHENGHUATGROUP.COM.MY	src=chenghuatgroup.com.my;date_assumed_from_batch=2026-03
+707	Finishing	Paint & Coating	Nippon Paint 5400 Wall Sealer 5L (Interior/Exterior)	1	UNIT	77	77	2026-02-04	Shopee	price from listing (5L)
+708	Finishing	Paint & Coating	Nippon Super Matex Ceiling Paint 18L	1	TIN	85	85			Malay: Cat Siling
+709	Finishing	Paint & Coating	Nippon Timber Finish Clear 3L	1	TIN	86	86	2023-03-21		
+710	Finishing	Paint & Coating	Paint Brush 2"	1	PCS	1.25	1.25	2023-02-22		
+711	Finishing	Paint & Coating	Paint Brush 2in	1	PCS	1.3	1.3	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+712	Finishing	Paint & Coating	Paint Brush 3"	1	PCS	1.88	1.88	2023-02-22		
+713	Finishing	Paint & Coating	Paint Brush 3in	1	PCS	1.3	1.3	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+714	Finishing	Paint & Coating	Paint Brush 4"	1	PCS	2.50	2.5	2023-02-22		
+715	Finishing	Paint & Coating	Paint Roller 7"	1	PCS	12.5	12.5	2023-03-21		
+716	Finishing	Paint & Coating	Paint Roller 7in	2	PCS	9.9	19.8	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+717	Finishing	Paint & Coating	Paint Tray	1	PCS	3.10	3.1	2023-02-22		
+718	Finishing	Paint & Coating	Plastic Sheet Roll 12ft x 250ft	1	ROLL	105.00	105	2023-03-21		
+719	Finishing	Paint & Coating	Plumb Bob 12oz	1	PCS	12	12	2023-03-21		
+720	Finishing	Paint & Coating	Powder Coating + Sandblast (Door/Window)	1	SQFT	3	3	2026-01-31	MY STEEL HARDWARE SDN BHD	
+721	Finishing	Paint & Coating	Powder Coating + Sandblast (Gate)	1	SQFT	4.00	4	2026-01-31	MY STEEL HARDWARE SDN BHD	
+722	Finishing	Paint & Coating	Powder Coating Service	1	SQFT	2.65	2.65	2026-01-31	MY STEEL HARDWARE SDN BHD	
+723	Finishing	Paint & Coating	Primer Sealer 18L	1	TIN	95	95		Hesin Hardware Trading Sdn. Bhd.	
+724	Finishing	Paint & Coating	Putty Knife 3"	1	PCS	4.5	4.5	2023-03-21		
+725	Finishing	Paint & Coating	Putty Knife 4"	1	PCS	6.5	6.5	2023-03-21		
+726	Finishing	Paint & Coating	Sanding Paper 1000G	1	PCS	0.5	0.5	2023-02-22		
+727	Finishing	Paint & Coating	Sanding Paper 120G	1	PCS	0.30	0.3	2023-02-22		
+728	Finishing	Paint & Coating	Sanding Paper 240G	1	PCS	0.30	0.3	2023-02-22		
+729	Finishing	Paint & Coating	Sanding Paper 400G	1	PCS	0.30	0.3	2023-02-22		
+730	Finishing	Paint & Coating	Smart Paint 5400 Wall Sealer Exterior & Interior Wall Undercoat 18L 	1	PAIL	160	160	2026-02-05		
+731	Finishing	Paint & Coating	Tape Red	3	PCS	3	9	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+732	Finishing	Paint & Coating	White Gloss Paint 5L	1	TIN	94	94	2023-01-12		
+733	Finishing	Painting & Coating	Colourland Super White 9102 Colourlite 18L Emulsion Paint	1	PAIL	80	80	2026-02-04	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	AAC Block
+734	Finishing	Tiling & Adhesives	Bostik DryTile Grout Cementitious Colour Grout 20kg (Grey/White)	1	BAG	46.2	46.2	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+735	Finishing	Tiling & Adhesives	Bostik Flowfill Grout GP - Ready To Use Pre-Mixed (Add Water) 25kg	1	BAG	27.2	27.2	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+736	Finishing	Tiling & Adhesives	Mapei Fuga Fresca 160g - Cementitious Grout Joint Colour Reviver (White/Jasmine/Cement Grey/Silver Grey)	1	PCS	19.8	19.8	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+737	Finishing	Tiling & Adhesives	Mapei Ultracolor Plus Cementitious Grout 5kg	1	PACK	75	75	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+738	Finishing	Tiling & Adhesives	PVC Tile Spacer 2mm	1	PACK	1	1	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	
+739	Finishing	Tiling & Adhesives	SCP Scin-Flextile Grout 750g (White) - Ready Use	1	PCS	12.9	12.9	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+740	Finishing	Tiling & Adhesives	Sika Tile Adhesive 88 25kg	6	BAG	13.00	78	2025-11-17	E SHENG HARDWARE (JH) SDN BHD	
+741	Finishing	Tiling & Adhesives	Tile 300mm x 300mm	1	PCS	4.5	4.5	2026-01-31	PERNIAGAAN MOZEK JAYA	1st grade
+742	Finishing	Tiling & Adhesives	Tile 300mm x 600mm	1	PCS	6.5	6.5	2026-01-31	PERNIAGAAN MOZEK JAYA	1st grade
+743	Finishing	Tiling & Adhesives	Tile 400mm x 400mm	1	PCS	5.5	5.5	2026-01-31	PERNIAGAAN MOZEK JAYA	1st grade
+744	Finishing	Tiling & Adhesives	Tile 600mm x 1200mm	1	PCS	95	95	2026-01-31	PERNIAGAAN MOZEK JAYA	1st grade
+745	Finishing	Tiling & Adhesives	Tile 600mm x 600mm	1	PCS	15	15	2026-01-31	PERNIAGAAN MOZEK JAYA	1st grade
+746	Finishing	Tiling & Adhesives	Tile 800mm x 800mm	1	PCS	45	45	2026-01-31	PERNIAGAAN MOZEK JAYA	1st grade
+747	Finishing	Tiling & Adhesives	Tile Adhesive Weber 99	2	BAG	25	50	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+748	Finishing	Tiling & Adhesives	Tile Adhesive Worpro 99/98 25kg	4	BAG	18	72	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+749	Finishing	Tiling & Adhesives	Weber Weberfill Fine Grout Coloured Grout For Narrow Tile Joint (3.5kg)	1	BAG	18	18	2026-01-31	PERNIAGAAN MOZEK JAYA	
+750	Finishing	Tiling & Adhesives	Weberfill Epoxy Grout 1kg	1	PACK	88.00	88	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;brand=Weber Saint Gobain;variant=1kg
+751	Finishing	Tiling & Adhesives	Weberfill Epoxy Grout 5kg	1	PACK	380	380	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;brand=Weber Saint Gobain;variant=5kg
+752	Finishing	Tiling & Adhesives	Worpro 99/98 Tile Adhesive 25kg (Tile 333)	1	BAG	25	25	2025-07-31	NILAI AGRICULTURE ENTERPRISE	
+753	Finishing	Tiling & Adhesives	Worpro Tile Adhesive 25kg	1	BAG	13.5	13.5	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	
+754	Finishing	Wall Preparation (Putty/Skim/Sealer)	A Plus Stopping Compound 20kg	2	BAG	22	44	2025-09-02		
+755	Finishing	Wall Preparation (Putty/Skim/Sealer)	Sika Wall 191 Coarse (White) 25kg	3	BAG	17.5	52.5			Malay: Kasar=Coarse
+756	Finishing	Wall Preparation (Putty/Skim/Sealer)	Sika Wall 192 Fine (White) 25kg	5	BAG	17.5	87.5			Malay: Halus=Fine
+757	Finishing	Wall Preparation (Putty/Skim/Sealer)	Skim Coat Coarse Sika Wall 191 (White) 25kg	5	BAG	19	95	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+758	Finishing	Wall Preparation (Putty/Skim/Sealer)	Skim Coat Fine 25kg	1	BAG	16.00	16	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	Malay: Halus=Fine
+759	Finishing	Wall Preparation (Putty/Skim/Sealer)	Skim Coat Fine Sika Wall 192 (White) 25kg	3	BAG	22	66	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+760	Glass	Glass Hardware	CKS840 15Mn Floor Hinge (light)	1	SET	190	190	2021-05-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+761	Glass	Glass Hardware	CKS-SL897 Soft Close Sliding Door System	1	SET	650.00	650	2022-04-23	YIT LOONG BUILDING MATERIALS SDN BHD	
+762	Glass	Glass Hardware	CKS-SL899 Glass Connector For Track	1	PCS	15	15	2022-04-23	YIT LOONG BUILDING MATERIALS SDN BHD	
+763	Glass	Glass Sheet	12mm Clear Tempered Glass / Door C - 1096mm x 2650mm	1	PCS	465.2	465.2	2022-01-20	DRAGON CITY GLASS SUPPLY SDN BHD	
+764	Glass	Glass Sheet	12mm Clear Tempered Glass / Door D - 971mm x 2645mm	1	PCS	412.3	412.3	2022-01-20	DRAGON CITY GLASS SUPPLY SDN BHD	
+765	Glass	Glass Sheet	12mm Clear Tempered Glass / Door E - 941mm x 2650mm	1	PCS	401.8	401.8	2022-01-20	DRAGON CITY GLASS SUPPLY SDN BHD	
+766	Glass	Glass Sheet	12mm Clear Tempered Glass / Door G - 926mm x 2640mm	1	PCS	387.5	387.5	2022-01-20	DRAGON CITY GLASS SUPPLY SDN BHD	
+767	Glass	Glass Sheet	12mm Clear Tempered Glass / Door H - 998mm x 2645mm	1	PCS	422.9	422.9	2022-01-20	DRAGON CITY GLASS SUPPLY SDN BHD	
+768	Glass	Glass Sheet	12mm Clear Tempered Glass / Door I - 1114mm x 2645mm	1	PCS	465.2	465.2	2022-01-20	DRAGON CITY GLASS SUPPLY SDN BHD	
+769	Glass	Glass Sheet	3mm Plain Glass 48in x 72in	3	PCS	40	120	2026-02-12	DRAGON CITY GLASS SUPPLY SDN BHD	src=QT-006619
+770	Glass	Glass Sheet	4mm Karatachi 48in x 72in	2	SHEET	38	76	2025-08-14	NILAI AGRICULTURE ENTERPRISE	
+771	Glass	Glass Sheet	4mm Naco 48in x 72in	3	SHEET	42	126	2025-09-30	NILAI AGRICULTURE ENTERPRISE	
+772	Glass	Glass Sheet	4mm Naco Glass 48" x 72"	8	PCS	64.8	518.4	2022-12-13	DRAGON CITY GLASS SUPPLY SDN BHD	
+773	Glass	Glass Sheet	4mm NACO Glass 48in x 72in	2	PCS	57.6	115.2	2026-02-12	DRAGON CITY GLASS SUPPLY SDN BHD	src=QT-006621
+774	Glass	Glass Sheet	5mm Clear Float Glass 36" x 84"	3	PCS	54.6	163.8	2022-12-13	DRAGON CITY GLASS SUPPLY SDN BHD	
+775	Glass	Glass Sheet	5mm Clear Float Glass 48" x 84"	4	PCS	81.2	324.8	2022-04-11	DRAGON CITY GLASS SUPPLY SDN BHD	
+776	Glass	Glass Sheet	5mm Clear Float Glass 48" x 96"	3	PCS	83.2	249.6	2022-12-13	DRAGON CITY GLASS SUPPLY SDN BHD	
+777	Glass	Glass Sheet	5mm Clear Float Glass 60" x 84"	1	PCS	101.50	101.5	2022-05-18	DRAGON CITY GLASS SUPPLY SDN BHD	
+778	Glass	Glass Sheet	5mm Clear Float Glass 72" x 96"	1	PCS	110.4	110.4	2021-05-06	DRAGON CITY GLASS SUPPLY SDN BHD	
+779	Glass	Glass Sheet	5mm Clear Float Glass 72" x 96" / Cut To: 3 x 8 - 6 PCS	3	PCS	120	360	2021-05-10	DRAGON CITY GLASS SUPPLY SDN BHD	
+780	Glass	Glass Sheet	5mm Dark Grey Float 36" x 84"	5	PCS	86.1	430.5	2022-05-27	DRAGON CITY GLASS SUPPLY SDN BHD	
+781	Glass	Glass Sheet	5mm Dark Grey Float 48" x 84"	6	PCS	109.2	655.2	2022-03-31	DRAGON CITY GLASS SUPPLY SDN BHD	
+782	Glass	Glass Sheet	5mm Dark Grey Float 48" x 96"	2	PCS	131.2	262.4	2022-05-27	DRAGON CITY GLASS SUPPLY SDN BHD	
+783	Glass	Glass Sheet	5mm Dark Grey Float 60" x 84"	2	PCS	143.50	287	2022-05-27	DRAGON CITY GLASS SUPPLY SDN BHD	
+784	Glass	Glass Sheet	5mm Dark Grey Float Glass 45" x 96"	6	PCS	117	702	2022-12-13	DRAGON CITY GLASS SUPPLY SDN BHD	
+785	Glass	Glass Sheet	5mm MSG Light Green Glass 48" x 96"	5	PCS	124.8	624	2022-12-13	DRAGON CITY GLASS SUPPLY SDN BHD	
+786	Glass	Glass Sheet	5mm MSG Light Green Glass 72" x 96"	1	PCS	187.2	187.2	2022-12-13	DRAGON CITY GLASS SUPPLY SDN BHD	
+787	Glass	Glass Sheet	5mm NACO Glass 48in x 84in	20	PCS	58.8	1176	2026-02-10	DRAGON CITY GLASS SUPPLY SDN BHD	src=QT-006563
+788	Glass	Glass Sheet	6mm Clear Float Glass 48" x 84"	22	PCS	92.4	2032.8	2022-01-20	DRAGON CITY GLASS SUPPLY SDN BHD	
+789	Glass	Glass Sheet	6mm Clear Float Glass 60" x 84"	4	PCS	119	476	2022-01-22	DRAGON CITY GLASS SUPPLY SDN BHD	
+790	Glass	Glass Sheet	6mm Clear Float Glass 72" x 96"	1	PCS	163.20	163.2	2022-01-22	DRAGON CITY GLASS SUPPLY SDN BHD	
+791	Gutter	Gutter Systems	0.47mm TCT Gutter Pre-Painted 18" Girth x 8ft		LTH	45				
+792	Gutter	Gutter Systems	25mm x 4.5mm THK External Bracket		PCS	7.5				
+793	Gutter	Gutter Systems	4" Dia Outlet		PCS	10.00				
+794	Gutter	Gutter Systems	Arensi Gutter (F300) Chrome Bracket		PCS	3.5				
+795	Gutter	Gutter Systems	Arensi Gutter (Grey F300) 5.8m		LTH	95				
+796	Gutter	Gutter Systems	Arensi Gutter (Grey F300) Corner In		PCS	29.00				
+797	Gutter	Gutter Systems	Arensi Gutter (Grey F300) Corner Out		PCS	29				
+798	Gutter	Gutter Systems	Arensi Gutter (Grey F300) End Cap		PCS	12				
+799	Gutter	Gutter Systems	Arensi Gutter (Grey F300) PVC Bracket		PCS	4.50				
+800	Gutter	Gutter Systems	Arensi Gutter (Grey F300) Spouthead 4"		PCS	19				
+801	Gutter	Gutter Systems	Downpipe 100mm x 50mm x 5.8m	7	LGTH	80	560	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M1-RWDP-2-4-6;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+802	Gutter	Gutter Systems	Downpipe 110/100mm x 5.8m	1	LTH	59.00	59			
+803	Gutter	Gutter Systems	Downpipe Adaptor Socket 4"	7	PCS	6.2	43.4	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-AS;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+804	Gutter	Gutter Systems	Downpipe Elbow 105deg	7	PCS	5.6	39.2	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-27 IV-09679 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-E105;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+805	Gutter	Gutter Systems	Downpipe Elbow 135deg	7	PCS	5.6	39.2	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-27 IV-09679 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-E135;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+806	Gutter	Gutter Systems	Downpipe Elbow 95deg	21	PCS	5.6	117.6	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-E95;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+807	Gutter	Gutter Systems	Downpipe Pipe Clip	35	PCS	3	105	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-PC;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+808	Gutter	Gutter Systems	Downpipe Reverse Elbow 105deg	10	PCS	6.3	63	2025-05-15	Middy Industries Sdn Bhd	src=2025-05-20 IV-09971 MIDDY INDUSTRIES SDN BHD.pdf;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+809	Gutter	Gutter Systems	Downpipe Socket	7	PCS	3.8	26.6	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-S;verify_needed=1;wrong_category_fixed=1;normalized_case=1
+810	Gutter	Gutter Systems	End Cap L/R		PCS	15				
+811	Gutter	Gutter Systems	Gutter Accessories (Bracket 14 + Outlet 1 + Stop-End 2)	17	UNIT	4	68			Malay: Aksesori Gutter
+812	Gutter	Gutter Systems	Main Rain Gutter 8ft	5	PCS	45	225			Malay: Gutter Mendung Utama; 8ft each; 5 lengths = 40ft
+813	Gutter	Gutter Systems	Pre-Painted Gutter (Seni Bali) G26 0.47mm 14" Girth GT	9.7536	M	14.1486	137.999785	2025-04-08	THUNG HING METAL INDUSTRY SDN BHD	src=2025-04-08 SO 360336 THUNG HUNG METAL INDUSTRY SDN BHD.pdf;verify_needed=1;new_supplier_pending_standard=1;charge_not_material=1;excluded_charge=Transport RM80.00
+814	Gutter	Gutter Systems	Pre-Painted Gutter (Seni Bali) G26 0.47mm 457mm Girth GT	4.8768	M	14.1486	68.99989248	2025-03-22	THUNG HING METAL INDUSTRY SDN BHD	src=2025-03-22 SO 359148 THUNG HUNG METAL INDUSTRY SDN BHD.pdf;verify_needed=1;new_supplier_pending_standard=1;packing=8ft x 2pcs
+815	Gutter	Gutter Systems	Pre-Painted Gutter Seni Bali G28 0.35mm x 762mm (PU Foam)	32.6	M	28.5447	930.55722	2025-04-08	Thung Hing Metal Industry Sdn Bhd	src=2025-04-08 SO 360336 THUNG HUNG METAL INDUSTRY SDN BHD.pdf;verify_needed=1;mapped_from=packing_sum_24.6+8.0;new_supplier_pending_standard=1
+816	Gutter	Gutter Systems	RWDP Adaptor Socket 4in	7	PCS	6.2	43.4	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-AS;verify_needed=1
+817	Gutter	Gutter Systems	RWDP Elbow 105deg	7	PCS	5.6	39.2	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-27 IV-09679 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-E105;verify_needed=1
+818	Gutter	Gutter Systems	RWDP Elbow 135deg	7	PCS	5.6	39.2	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-27 IV-09679 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-E135;verify_needed=1
+819	Gutter	Gutter Systems	RWDP Elbow 95deg	21	PCS	5.6	117.6	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-E95;verify_needed=1
+820	Gutter	Gutter Systems	RWDP Pipe Clip	35	PCS	3	105	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-PC;verify_needed=1
+821	Gutter	Gutter Systems	RWDP Rectangular Downpipe 100mm x 50mm x 5.8m	7	LGTH	80	560	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M1-RWDP-2-4-6;verify_needed=1
+822	Gutter	Gutter Systems	RWDP Reverse Elbow 105deg	10	PCS	6.3	63	2025-05-15	Middy Industries Sdn Bhd	src=2025-05-20 IV-09971 MIDDY INDUSTRIES SDN BHD.pdf;verify_needed=1
+823	Gutter	Gutter Systems	RWDP Socket	7	PCS	3.8	26.6	2025-03-24	Middy Industries Sdn Bhd	src=2025-03-24 IV-09678 MIDDY INDUSTRIES SDN BHD.pdf;code=M2-MD-S;verify_needed=1
+824	Gutter	Gutter Systems	Strap/Clip Downpipe	3	PCS	3.00	9			
+825	Hardware	Door Frame	Metal Door Frame 0.8mm x 130mm - 34"W x 84"H	1	PCS	100	100	2026-02-04		
+826	Hardware	Door Frame	Metal Door Frame 0.8mm x 130mm - 34"W x 96"H	1	PCS	180	180	2026-02-04		
+827	Hardware	Door Frame	Metal Door Frame 0.8mm x 130mm - 48"W x 84"H	1	PCS	120	120	2026-02-04		
+828	Hardware	Door Frame	Metal Door Frame 0.8mm x 130mm - 48"W x 96"H	1	PCS	220	220	2026-02-04		
+829	Hardware	Door Frame	Metal Door Frame 0.8mm x 130mm - 54"W x 84"H	1	PCS	140	140	2026-02-04		
+830	Hardware	Door Frame	Metal Door Frame 0.8mm x 130mm - 60"W x 84"H	1	PCS	145	145	2026-02-04		
+831	Hardware	Door Frame	Metal Door Frame 0.8mm x 130mm - 68"W x 84"H	1	PCS	150	150	2026-02-04		
+832	Hardware	Door Hinges	4" Heavy Duty Stainless Steel Bearing Door Hinges (Pair)	1	PAIR	9	9	2026-02-04		
+833	Hardware	Door Lock & Cylinder	Aman Deadbolt Lock 7301MB Single Cylinder	1	SET	33	33	2022-10-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+834	Hardware	Door Lock & Cylinder	Armor 8300 Tubular Lever Handle (0600)	1	PCS	39	39	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+835	Hardware	Door Lock & Cylinder	Armor 8310 Tubular Lever Handle Lock	1	PCS	39	39	2022-04-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+836	Hardware	Door Lock & Cylinder	Armor ATL-R1506 Tubular Lever Lock	1	PCS	65	65	2024-03-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+837	Hardware	Door Lock & Cylinder	Conceal Folding Door Acc Lock Case T27	1	PCS	25	25	2021-12-30	YIT LOONG BUILDING MATERIALS SDN BHD	
+838	Hardware	Door Lock & Cylinder	Conceal Folding Door Acc. Lockcase T29	1	PCS	13	13	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+839	Hardware	Door Lock & Cylinder	Folding Door Acc. Lockcase T29 Black	1	PCS	11	11	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+840	Hardware	Door Lock & Cylinder	Folding Door Acc. ML1616 Black (F.SET)	1	SET	90	90	2024-01-20	YIT LOONG BUILDING MATERIALS SDN BHD	
+841	Hardware	Door Lock & Cylinder	Folding Door Acc. ML1616 Black F99C	1	PCS	22	22	2024-01-20	YIT LOONG BUILDING MATERIALS SDN BHD	
+842	Hardware	Door Lock & Cylinder	Folding Door Acc. ML1616 White	1	PCS	19.50	19.5	2024-01-20	YIT LOONG BUILDING MATERIALS SDN BHD	
+843	Hardware	Door Lock & Cylinder	Grill Door Handle Lever	1	PCS	76	76	2026-01-31	MY STEEL HARDWARE SDN BHD	
+844	Hardware	Door Lock & Cylinder	Grille Door Handle Lever	1	PCS	76	76			
+845	Hardware	Door Lock & Cylinder	ML7025-SS Armor Lever Mortise	1	SET	60.00	60	2021-05-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+846	Hardware	Door Lock & Cylinder	Multipoint Lock Can MP807 12mm	1	PCS	1.8	1.8	2023-08-11	YIT LOONG BUILDING MATERIALS SDN BHD	
+847	Hardware	Door Lock & Cylinder	NM2015/D60 SN Armor	1	PAIR	75	75	2024-03-26	YIT LOONG BUILDING MATERIALS SDN BHD	
+848	Hardware	Door Lock & Cylinder	Profile Cylinder 70mm (Single)	1	PCS	25	25	2024-09-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+849	Hardware	Door Lock & Cylinder	SGLHR-2504 Guchi Hollow Lever (SS Satin)	1	SET	78	78	2023-02-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+850	Hardware	Door Lock & Cylinder	SGML 854000/SS ST Guchi Mortise	1	PCS	35	35	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+851	Hardware	Door Lock & Cylinder	SGML FB8550 ST Guchi 50mm x 85mm	1	PCS	45	45	2024-06-14	YIT LOONG BUILDING MATERIALS SDN BHD	
+852	Hardware	Door Lock & Cylinder	Sliding Door Lock (Generic)	1	PCS	22	22	2026-01-31	MY STEEL HARDWARE SDN BHD	
+853	Hardware	Door Lock & Cylinder	Sliding Door Lock (Generic)	1	PCS	22	22			
+854	Hardware	Door Lock & Cylinder	Sliding Door Lock (Generic)	1	PCS	22	22			
+855	Hardware	Door Lock & Cylinder	Sliding Door Lock A5-25mm NA	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+856	Hardware	Door Lock & Cylinder	Sliding Door Lock A6-32mm NA	1	PCS	8.00	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+857	Hardware	Door Lock & Cylinder	Sliding Door Lock Double With Key SD4 BL	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+858	Hardware	Door Lock & Cylinder	Sliding Door Lock HE6D 32mm BL	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+859	Hardware	Door Lock & Cylinder	Sliding Door Lock J6 (Black)	1	PCS	22.5	22.5	2021-02-17		
+860	Hardware	Door Lock & Cylinder	Sliding Door Lock J6 (White)	1	PCS	23	23	2021-02-08		
+861	Hardware	Door Lock & Cylinder	Sliding Door Lock J6 BK	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+862	Hardware	Door Lock & Cylinder	Sliding Door Lock J6 WH	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+863	Hardware	Door Lock & Cylinder	Sliding Door Lock Teca A10 40mm BK	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+864	Hardware	Door Lock & Cylinder	Sliding Door Lock Teca A10 40mm WH	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+865	Hardware	Door Lock & Cylinder	Sliding Door Lock Teca A6-25mm BK	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+866	Hardware	Door Lock & Cylinder	Sliding Door Lock Teca A6-25mm NA	1	PCS	8	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+867	Hardware	Door Lock & Cylinder	Sliding Door Lock Teca A6-25mm WH	1	PCS	8.00	8	2024-01-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+868	Hardware	Door Lock & Cylinder	Stainless Steel Door Lock Body	2	SET	48.00	96	2025-05-21		
+869	Hardware	Door Lock & Cylinder	SUC65 Floor Hinges SUHCCO Hold Open	1	PCS	110.00	110	2022-04-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+870	Hardware	Door Lock & Cylinder	SUC65 Floor Hinges SUHCCO Hold Open BK	1	PCS	110	110	2022-04-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+871	Hardware	Door Lock & Cylinder	Swing Door Lock 41054	1	PCS	55	55	2022-02-23	YIT LOONG BUILDING MATERIALS SDN BHD	
+872	Hardware	Door Lock & Cylinder	VSP 605 Noble Door Lock With Single	1	SET	15	15	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+873	Hardware	Door Lock & Cylinder	VSP 606 Noble Door Lock With Dummy Handle	1	SET	15.00	15	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+874	Hardware	Door Lock & Cylinder	VSP DC-052 Door Closer (Non Hold) Silver	1	PCS	40.00	40	2024-04-01	YIT LOONG BUILDING MATERIALS SDN BHD	
+875	Hardware	Door Lock & Cylinder	VSP V84-EN3 Floor Spring (SS)	1	PCS	180.00	180	2025-02-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+876	Hardware	Door Lock & Cylinder	Window Crescent Lock ML817 BL	1	PCS	2.8	2.8	2022-08-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+877	Hardware	Multipoint Lock & Accessories	Avio F60L Door Magnet Plate (White)	1	PCS	1	1	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+878	Masonry	Bricks & Blocks	Cement Bricks	1800	PCS	0.27	486	2025-11-24	HMT TRADING SDN BHD	
+879	Masonry	Bricks & Blocks	Cement Bricks (Sand Bricks) H4" x L8 1/2"	20	PCS	0.61	12.2	2026-01-10		Batu pasir
+880	Masonry	Bricks & Blocks	Cement Bricks 4" x 81/2"	2250	PCS	0.28	630	2025-10-08	E SHENG HARDWARE (JH) SDN BHD	
+881	Masonry	Bricks & Blocks	Precast U-Drain 300 x 300 x 1m	7	M	65	455			
+882	Masonry	Bricks & Blocks	Roman Column RP11 (10" x 8)	10	PCS	110	1100	2025-11-20	NILAI AGRICULTURE ENTERPRISE	Malay: Tiang Roman
+883	Masonry	Bricks & Blocks	Sand Brick (520pcs/Pallet)	1	PALLET	150	150	2025-10-20	E SHENG HARDWARE (JH) SDN BHD	
+884	Masonry	Bricks & Blocks	Starken AAC Light Weight Block 100mm x 200mm x 600mm	1	PCS	4.5	4.5	2026-02-04	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	AAC Block
+885	Masonry	Bricks & Blocks	Starken AAC Thin Bed Adhesive 40kg (Bag)	1	BAG	38	38	2026-02-04	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	AAC Block
+886	Masonry	Bricks & Blocks	U-Drain Cover/Grating (Per 1m)	7	M	70.00	490			Malay: Untuk = For
+887	Masonry	Render & Plaster	A1 Plaster Lime 10kg	15	BAG	9	135	2025-11-20	NILAI AGRICULTURE ENTERPRISE	Malay: Kapur Air
+888	Masonry	Render & Plaster	Hydrated Lime (Plaster Lime) 10kg	3	BAG	26.5	79.5	2025-07-31	NILAI AGRICULTURE ENTERPRISE	Kapur air
+889	Masonry	Render & Plaster	PVC Corner Bead HYP A3 (100 PCS/Box)	1	BOX	40	40	2025-12-15	NILAI AGRICULTURE ENTERPRISE	Original line also mentioned "kapur air 10kg"
+890	Masonry	Render & Plaster	PYE 921 Render 25kg	87.5	PCS	17.5	1531.25	2025-12-15	NILAI AGRICULTURE ENTERPRISE	Verify qty/price/total (data shifted)
+891	Plumbing	Pipes & Fittings	Black Rubber Hose 1/2" x 100ft	1	ROLL	75.00	75	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+892	Plumbing	Pipes & Fittings	Black Rubber Hose 1/2" x 50ft	1	ROLL	40	40	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+893	Plumbing	Pipes & Fittings	Black Rubber Hose 3/4" x 100ft	1	ROLL	135	135	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+894	Plumbing	Pipes & Fittings	Brass Fitting 1/2in	1	PCS	2.5	2.5	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+895	Plumbing	Pipes & Fittings	Brass Fitting 1/2in	1	PCS	2.50	2.5	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+896	Plumbing	Pipes & Fittings	Long Bend 4"	1	PKT	8.4	8.4	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+897	Plumbing	Pipes & Fittings	MD Big PVC Cement Pail (Blue)	6	PCS	17	102	2025-11-20	NILAI AGRICULTURE ENTERPRISE	
+898	Plumbing	Pipes & Fittings	No.70 PVC Pipe Glue (Solvent Cement) 500g	1	TIN	10	10	2025-10-07	E SHENG HARDWARE (JH) SDN BHD	
+899	Plumbing	Pipes & Fittings	Poly Equal Socket 25mm x 25mm	1	PCS	6	6	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1
+900	Plumbing	Pipes & Fittings	Poly RDC Tee 32mm x 25mm	1	PCS	4.5	4.5	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1
+901	Plumbing	Pipes & Fittings	PVC Elbow 90deg Dia32.00mm	6	UNIT	1.5	9	2025-08-13		
+902	Plumbing	Pipes & Fittings	PVC Fitting Double End Socket 100mm (4")	1	PCS	9.5	9.5	2026-03-11	CHENG HUAT HARDWARE SDN BHD	variant=100mm (4");src=2026-03_0011;img=E7Kwd8AsjG.png;type=PRICE_LIST;verify_needed=1
+903	Plumbing	Pipes & Fittings	PVC Fitting Double End Socket 32mm (1-1/4")	1	PCS	1.43	1.43		CHENG HUAT HARDWARE ENTERPRISE	
+904	Plumbing	Pipes & Fittings	PVC Fitting Double End Socket 50mm (2")	1	PCS	4.3	4.3	2026-03-11	CHENG HUAT HARDWARE SDN BHD	variant=50mm (2");src=2026-03_0011;img=E7Kwd8AsjG.png;type=PRICE_LIST;verify_needed=1
+905	Plumbing	Pipes & Fittings	PVC Fitting Elbow Socket 25mm (1")	1	PCS	1.21	1.21		CHENG HUAT HARDWARE ENTERPRISE	
+906	Plumbing	Pipes & Fittings	PVC Fitting End Cap 100mm (4")	1	PCS	13.2	13.2			src=chenghuatgroup.com.my;src=pdf.pdf;page=114;verify_needed=1
+907	Plumbing	Pipes & Fittings	PVC Fitting End Cap 15mm (1/2")	1	PCS	0.4	0.4			src=chenghuatgroup.com.my;src=pdf.pdf;page=109;verify_needed=1
+908	Plumbing	Pipes & Fittings	PVC Fitting End Cap 20mm (3/4")	1	PCS	0.45	0.45		CHENGHUATGROUP.COM.MY	src=chenghuatgroup.com.my;date_assumed_from_batch=2026-03
+909	Plumbing	Pipes & Fittings	PVC Fitting End Cap 25mm (1")	1	PCS	0.55	0.55		CHENGHUATGROUP.COM.MY	src=chenghuatgroup.com.my;date_assumed_from_batch=2026-03
+910	Plumbing	Pipes & Fittings	PVC Fitting End Cap 32mm (1-1/4")	1	PCS	1.32	1.32		CHENG HUAT HARDWARE ENTERPRISE	
+911	Plumbing	Pipes & Fittings	PVC Fitting Equal Elbow 25mm (1")	1	PCS	1.37	1.37		CHENG HUAT HARDWARE ENTERPRISE	
+912	Plumbing	Pipes & Fittings	PVC Fitting Equal Elbow 32mm (1-1/4")	1	PCS	2.20	2.2	2026-03-11	CHENG HUAT HARDWARE SDN BHD	variant=32mm (1-1/4");src=2026-03_0011;img=E7Kwd8AsjG.png;type=PRICE_LIST;verify_needed=1
+913	Plumbing	Pipes & Fittings	PVC Fitting Equal Elbow 50mm (2")	1	PCS	6.05	6.05			src=chenghuatgroup.com.my;src=pdf.pdf;page=117;verify_needed=1
+914	Plumbing	Pipes & Fittings	PVC Fitting Equal Tee 20mm (3/4")	1	PCS	1.21	1.21		CHENG HUAT HARDWARE ENTERPRISE	
+915	Plumbing	Pipes & Fittings	PVC Fitting Faucet (P/T) Elbow [1/2"-2"]	1	PCS	2.9	2.9		CHENGHUATGROUP.COM.MY	src=chenghuatgroup.com.my;date_assumed_from_batch=2026-03
+916	Plumbing	Pipes & Fittings	PVC Fitting Faucet (P/T) Elbow 40mm (1-1/2")	1	PCS	2.9	2.9	2026-03-11	CHENG HUAT HARDWARE SDN BHD	variant=40mm (1-1/2");src=2026-03_0011;img=E7Kwd8AsjG.png;type=PRICE_LIST;verify_needed=1
+917	Plumbing	Pipes & Fittings	PVC Fitting Faucet (P/T) Socket [1/2"-2"]	1	PCS	2.9	2.9		CHENGHUATGROUP.COM.MY	src=chenghuatgroup.com.my;date_assumed_from_batch=2026-03
+918	Plumbing	Pipes & Fittings	PVC Fitting Faucet (P/T) Socket 25mm (1")	1	PCS	1.50	1.5		CHENGHUATGROUP.COM.MY	src=chenghuatgroup.com.my;date_assumed_from_batch=2026-03
+919	Plumbing	Pipes & Fittings	PVC Fitting Faucet (P/T) Socket 40mm (1-1/2")	1	PCS	2.9	2.9	2026-03-11	CHENG HUAT HARDWARE SDN BHD	variant=40mm (1-1/2");src=2026-03_0011;img=E7Kwd8AsjG.png;type=PRICE_LIST;verify_needed=1
+920	Plumbing	Pipes & Fittings	PVC Fitting Plug 4"	1	PCS	10.45	10.45			src=chenghuatgroup.com.my;src=pdf.pdf;page=114;verify_needed=1
+921	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 25mm x 15mm (1" x 1/2")	1	PCS	0.7	0.7			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p063.png;type=PRICE_LIST;verify_needed=1
+922	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 25mm x 20mm (1" x 3/4")	1	PCS	0.8	0.8			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p062.png;type=PRICE_LIST;verify_needed=1
+923	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 32mm x 20mm (1-1/4" x 3/4")	1	PCS	0.9	0.9			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p062.png;type=PRICE_LIST;verify_needed=1
+924	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 32mm x 25mm (1-1/4" x 1")	1	PCS	1.1	1.1			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p061.png;type=PRICE_LIST;verify_needed=1
+925	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 40mm x 20mm (1-1/2" x 3/4")	1	PCS	1	1			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p062.png;type=PRICE_LIST;verify_needed=1
+926	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 40mm x 25mm (1-1/2" x 1")	1	PCS	1.2	1.2			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p061.png;type=PRICE_LIST;verify_needed=1
+927	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 40mm x 32mm (1-1/2" x 1-1/4")	1	PCS	1.2	1.2			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p062.png;type=PRICE_LIST;verify_needed=1
+928	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 50mm x 15mm (2" x 1/2")	1	PCS	1.1	1.1			src=chenghuatgroup.com.my;src=pdf.pdf;page=117;verify_needed=1
+929	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 50mm x 20mm (2" x 3/4")	1	PCS	1.3	1.3			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p062.png;type=PRICE_LIST;verify_needed=1
+930	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 50mm x 25mm (2" x 1")	1	PCS	1.6	1.6			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p061.png;type=PRICE_LIST;verify_needed=1
+931	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 50mm x 32mm (2" x 1-1/4")	1	PCS	1.60	1.6			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p062.png;type=PRICE_LIST;verify_needed=1
+932	Plumbing	Pipes & Fittings	PVC Fitting Reducer Socket 50mm x 40mm (2" x 1-1/2")	1	PCS	1.80	1.8			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p061.png;type=PRICE_LIST;verify_needed=1
+933	Plumbing	Pipes & Fittings	PVC Fitting Reducer Tee 40mm x 20mm (1-1/2" x 3/4")	1	PCS	4.25	4.25			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p063.png;type=PRICE_LIST;verify_needed=1
+934	Plumbing	Pipes & Fittings	PVC Fitting Reducing Elbow 25mm x 15mm (1" x 1/2")	1	PCS	1.2	1.2			src=chenghuatgroup.com.my;src=pdf.pdf;page=110;verify_needed=1
+935	Plumbing	Pipes & Fittings	PVC Fitting Reducing Tee 40mm x 32mm (1-1/2" x 1-1/4")	1	PCS	4.25	4.25			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p063.png;type=PRICE_LIST;verify_needed=1
+936	Plumbing	Pipes & Fittings	PVC Fitting Reducing Tee 50mm x 25mm (2" x 1")	1	PCS	6.6	6.6		CHENGHUATGROUP.COM.MY	src=chenghuatgroup.com.my;date_assumed_from_batch=2026-03
+937	Plumbing	Pipes & Fittings	PVC Fitting Reducing Tee 50mm x 40mm (2" x 1-1/2")	1	PCS	6.6	6.6			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p063.png;type=PRICE_LIST;verify_needed=1
+938	Plumbing	Pipes & Fittings	PVC Fitting Tank Connector 25mm (1")	1	PCS	1.2	1.2		CHENG HUAT HARDWARE ENTERPRISE	
+939	Plumbing	Pipes & Fittings	PVC Fitting Tank Connector 40mm (1-1/2")	1	PCS	2.2	2.2		CHENG HUAT HARDWARE ENTERPRISE	
+940	Plumbing	Pipes & Fittings	PVC Fitting Tank Connector 50mm (2")	1	PCS	3.3	3.3		CHENG HUAT HARDWARE ENTERPRISE	
+941	Plumbing	Pipes & Fittings	PVC Fitting Union Socket 25mm (1")	1	PCS	2.10	2.1			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p060.png;type=PRICE_LIST;verify_needed=1
+942	Plumbing	Pipes & Fittings	PVC Fitting Union Socket 32mm (1-1/4")	1	PCS	2.6	2.6			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p060.png;type=PRICE_LIST;verify_needed=1
+943	Plumbing	Pipes & Fittings	PVC Fitting Union Socket 40mm (1-1/2")	1	PCS	3.30	3.3			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p060.png;type=PRICE_LIST;verify_needed=1
+944	Plumbing	Pipes & Fittings	PVC Fitting Union Socket 50mm (2")	1	PCS	4.2	4.2			src=chenghuatgroup.com.my;snap=2026-03_0011;img=p060.png;type=PRICE_LIST;verify_needed=1
+945	Plumbing	Pipes & Fittings	PVC Fitting Valve Socket 32mm (1-1/4")	1	PCS	1.5	1.5		CHENG HUAT HARDWARE ENTERPRISE	
+946	Plumbing	Pipes & Fittings	PVC Fitting Valve Socket 40mm (1-1/2")	1	PCS	2.1	2.1		CHENG HUAT HARDWARE ENTERPRISE	
+947	Plumbing	Pipes & Fittings	PVC Fitting Valve Socket 80mm (3")	1	PCS	7.5	7.5			src=chenghuatgroup.com.my;src=pdf.pdf;page=113;verify_needed=1
+948	Plumbing	Pipes & Fittings	PVC Fitting V-Tank Connector 2"	1	PCS	6.66	6.66		CHENGHUATGROUP.COM.MY	src=chenghuatgroup.com.my;date_assumed_from_batch=2026-03
+949	Plumbing	Pipes & Fittings	PVC P/T Socket 1/2" (Brass Thread)	5	PCS	3.5	17.5			
+950	Plumbing	Pipes & Fittings	PVC P/T Socket Brass Thread 1/2"	5	PCS	3.00	15	2025-09-02		
+951	Plumbing	Pipes & Fittings	PVC Pipe 15mm (1/2") x 5.8m Class 6	1	PCS	10.00	10	2025-11-20	NILAI AGRICULTURE ENTERPRISE	Verify: "Pipe 6" in source
+952	Plumbing	Pipes & Fittings	PVC Pipe 50mm (2")	1	PCS	7.50	7.5	2025-09-30	NILAI AGRICULTURE ENTERPRISE	
+953	Plumbing	Pipes & Fittings	PVC Pipe Class 6 1/2" x 5.80m/Length	2	LTH	10.00	20			
+954	Plumbing	Pipes & Fittings	PVC Pipe Class 6 Dia15.00mm (1/2") x 5.80m/Length	1	LTH	12.60	12.6	2025-06-12	NILAI AGRICULTURE ENTERPRISE	
+955	Plumbing	Pipes & Fittings	PVC Pipe Dia15.00mm (1/2") x 5.80m/Length	2	LTH	12.60	25.2	2025-09-02		
+956	Plumbing	Pipes & Fittings	PVC Pipe Dia32.00mm	4	M	18.2	72.8	2025-08-13		
+957	Plumbing	Pipes & Fittings	PVC Pipe Dia50.00mm (2") x 5.80m/Length	1	LTH	42.00	42	2025-06-12	NILAI AGRICULTURE ENTERPRISE	
+958	Plumbing	Pipes & Fittings	PVC Solvent Cement Glue 500g (Arrow, Orange)	3.6	PCS	1	3.6	2025-07-31	NILAI AGRICULTURE ENTERPRISE	descPrefixRemoved=PCS 8.; Mixed line also mentioned: UPVC Elbow 90deg 110mm (4"); Verify qty/total split from receipt
+959	Plumbing	Pipes & Fittings	PVC Tee 1"	30	PCS	0.8	24	2023-12-28		
+960	Plumbing	Pipes & Fittings	PVC Tee 1/2"	5	PCS	0.8	4	2022-03-01		
+961	Plumbing	Pipes & Fittings	PVC Tee 1/2in	1	PCS	0.5	0.5	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+962	Plumbing	Pipes & Fittings	PVC Tee 1/2in	1	PCS	0.5	0.5	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+963	Plumbing	Pipes & Fittings	PVC Tee Dia15.00mm (1/2")	5	PCS	0.8	4	2022-03-01		
+964	Plumbing	Pipes & Fittings	PVC Tee Dia32.00mm	6	UNIT	0.85	5.1	2025-08-13		
+965	Plumbing	Pipes & Fittings	Stopcock DLM 1/2in	1	PCS	9.50	9.5	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+966	Plumbing	Pipes & Fittings	Stopcock DLM 1/2in	1	PCS	9.5	9.5	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+967	Plumbing	Pipes & Fittings	UPVC Bend 1-1/2in 90deg	1	PCS	3	3	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1
+968	Plumbing	Pipes & Fittings	UPVC Bend 3" (U3B)	1	PCS	9	9	2023-03-15	E SHENG HARDWARE (JH) SDN BHD	
+969	Plumbing	Pipes & Fittings	UPVC Elbow 90deg 40mm (1 1/2")	22.5	PCS	8	180	2025-07-31	NILAI AGRICULTURE ENTERPRISE	Source line also had UPVC Socket 40mm (1 1/2"); Qty/Total mismatch in source
+970	Plumbing	Pipes & Fittings	UPVC Equal Tee 1-1/2in	3	PCS	2	6	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1
+971	Plumbing	Pipes & Fittings	UPVC Fitting 135 Degree Sweep Bend 1-1/2" (40mm)	1	PCS	1.8	1.8	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+972	Plumbing	Pipes & Fittings	UPVC Fitting 135 Degree Sweep Bend 1-1/4" (32mm)	1	PCS	1.38	1.38	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+973	Plumbing	Pipes & Fittings	UPVC Fitting 135 Degree Sweep Bend 2" (50mm)	1	PCS	2.52	2.52	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+974	Plumbing	Pipes & Fittings	UPVC Fitting 135 Degree Sweep Bend 3" (82mm)	1	PCS	5.5	5.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+975	Plumbing	Pipes & Fittings	UPVC Fitting 135 Degree Sweep Bend 4" (110mm)	1	PCS	5.75	5.75	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+976	Plumbing	Pipes & Fittings	UPVC Fitting 135 Degree Sweep Bend Elbow (6")	1	PCS	22.5	22.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+977	Plumbing	Pipes & Fittings	UPVC Fitting 135 Degree Sweep Bend Elbow (8")	1	PCS	60	60	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+978	Plumbing	Pipes & Fittings	UPVC Fitting Boss Connector (6")	1	PCS	15.50	15.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+979	Plumbing	Pipes & Fittings	UPVC Fitting Boss Connector 3" x 2"	1	PCS	3.5	3.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+980	Plumbing	Pipes & Fittings	UPVC Fitting Boss Connector 4" x 2"	1	PCS	4.50	4.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+981	Plumbing	Pipes & Fittings	UPVC Fitting Boss Connector 4" x 3"	1	PCS	5	5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+982	Plumbing	Pipes & Fittings	UPVC Fitting Brush Connector (6")	1	PCS	12.48	12.48	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+983	Plumbing	Pipes & Fittings	UPVC Fitting Brush Connector 1-1/2" (40mm) x 1-1/4" (32mm)	1	PCS	1.38	1.38	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+984	Plumbing	Pipes & Fittings	UPVC Fitting Brush Connector 2" (50mm) x 1-1/2" (40mm)	1	PCS	2.94	2.94	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+985	Plumbing	Pipes & Fittings	UPVC Fitting Brush Connector 2" (50mm) x 1-1/4" (32mm)	1	PCS	2.94	2.94	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+986	Plumbing	Pipes & Fittings	UPVC Fitting Brush Connector 3" (82mm) x 2" (50mm)	1	PCS	5.1	5.1	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+987	Plumbing	Pipes & Fittings	UPVC Fitting Brush Connector 4" (110mm) x 2" (50mm)	1	PCS	6.24	6.24	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+988	Plumbing	Pipes & Fittings	UPVC Fitting Brush Connector 4" (110mm) x 3" (82mm)	1	PCS	6.24	6.24	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+989	Plumbing	Pipes & Fittings	UPVC Fitting Concentric Reducer (6")	1	PCS	21.84	21.84	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+990	Plumbing	Pipes & Fittings	UPVC Fitting Concentric Reducer 3" x 2"	1	PCS	9.6	9.6	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+991	Plumbing	Pipes & Fittings	UPVC Fitting Concentric Reducer 4" x 2"	1	PCS	11.7	11.7	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+992	Plumbing	Pipes & Fittings	UPVC Fitting Concentric Reducer 4" x 3"	1	PCS	11.7	11.7	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+993	Plumbing	Pipes & Fittings	UPVC Fitting End Cap (2")	1	PCS	2.1	2.1	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+994	Plumbing	Pipes & Fittings	UPVC Fitting End Cap 3" (82mm)	1	PCS	4.44	4.44	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+995	Plumbing	Pipes & Fittings	UPVC Fitting End Cap 4" (110mm)	1	PCS	5.04	5.04	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+996	Plumbing	Pipes & Fittings	UPVC Fitting Equal Single Branch (6")	1	PCS	50	50	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+997	Plumbing	Pipes & Fittings	UPVC Fitting Equal Single Branch (8")	1	PCS	122.5	122.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+998	Plumbing	Pipes & Fittings	UPVC Fitting Equal Single Branch 1-1/2" (43mm/40mm)	1	PCS	2.69	2.69	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+999	Plumbing	Pipes & Fittings	UPVC Fitting Equal Single Branch 1-1/4" (36mm/32mm)	1	PCS	2.1	2.1	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1000	Plumbing	Pipes & Fittings	UPVC Fitting Equal Single Branch 2" (56mm/50mm)	1	PCS	4.07	4.07	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1001	Plumbing	Pipes & Fittings	UPVC Fitting Equal Single Branch 3" (82mm/80mm)	1	PCS	11.25	11.25	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1002	Plumbing	Pipes & Fittings	UPVC Fitting Equal Single Branch 4" (110mm/100mm)	1	PCS	14.5	14.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1003	Plumbing	Pipes & Fittings	UPVC Fitting Faucet (P/T) Elbow 1-1/2" (43mm/40mm)	1	PCS	3.5	3.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1004	Plumbing	Pipes & Fittings	UPVC Fitting Faucet (P/T) Elbow 1-1/4" (36mm/32mm)	1	PCS	2.9	2.9	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1005	Plumbing	Pipes & Fittings	UPVC Fitting Faucet (P/T) Socket 1-1/2" (43mm/40mm)	1	PCS	2.4	2.4	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1006	Plumbing	Pipes & Fittings	UPVC Fitting Faucet (P/T) Socket 1-1/4" (36mm/32mm)	1	PCS	1.8	1.8	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1007	Plumbing	Pipes & Fittings	UPVC Fitting Floor Gully Trap With I/O	1	PCS	18	18	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1008	Plumbing	Pipes & Fittings	UPVC Fitting Pipe Sleeve (2")	1	PCS	3.25	3.25	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1009	Plumbing	Pipes & Fittings	UPVC Fitting Pipe Sleeve (6")	1	PCS	14.75	14.75	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1010	Plumbing	Pipes & Fittings	UPVC Fitting Pipe Sleeve (8")	1	PCS	40	40	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1011	Plumbing	Pipes & Fittings	UPVC Fitting Pipe Sleeve 3" (82mm)	1	PCS	4.25	4.25	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1012	Plumbing	Pipes & Fittings	UPVC Fitting Pipe Sleeve 4" (100mm)	1	PCS	4.50	4.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1013	Plumbing	Pipes & Fittings	UPVC Fitting P-Trap I/O (110mm)	1	PCS	34.4	34.4	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1014	Plumbing	Pipes & Fittings	UPVC Fitting P-Trap I/O (56mm)	1	PCS	10.7	10.7	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1015	Plumbing	Pipes & Fittings	UPVC Fitting Straight Coupling (6")	1	PCS	15.3	15.3	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1016	Plumbing	Pipes & Fittings	UPVC Fitting Straight Coupling (8")	1	PCS	33	33	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1017	Plumbing	Pipes & Fittings	UPVC Fitting Straight Coupling 1-1/2" (40mm)	1	PCS	1.2	1.2	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1018	Plumbing	Pipes & Fittings	UPVC Fitting Straight Coupling 1-1/4" (32mm)	1	PCS	0.90	0.9	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1019	Plumbing	Pipes & Fittings	UPVC Fitting Straight Coupling 2" (50mm)	1	PCS	1.8	1.8	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1020	Plumbing	Pipes & Fittings	UPVC Fitting Straight Coupling 3" (82mm)	1	PCS	4.2	4.2	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1021	Plumbing	Pipes & Fittings	UPVC Fitting Straight Coupling 4" (110mm)	1	PCS	4.8	4.8	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1022	Plumbing	Pipes & Fittings	UPVC Fitting S-Trap I/O	1	PCS	69	69	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1023	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow (6")	1	PCS	32	32	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1024	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow (8")	1	PCS	70	70	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1025	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow 1-1/2" (43mm/40mm)	1	PCS	1.4	1.4	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1026	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow 1-1/4" (36mm/32mm)	1	PCS	1.1	1.1	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1027	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow 2" (56mm/50mm)	1	PCS	2.10	2.1	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1028	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow 3" (82mm/80mm)	1	PCS	5.5	5.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1029	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow 4" (110mm/100mm)	1	PCS	7	7	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1030	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow I/O (2")	1	PCS	3.8	3.8	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1031	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow I/O (6")	1	PCS	39.5	39.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1032	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow I/O (8")	1	PCS	140	140	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1033	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow I/O 3" (82mm)	1	PCS	11	11	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1034	Plumbing	Pipes & Fittings	UPVC Fitting Sweep Bend Elbow I/O 4" (110mm)	1	PCS	15	15	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size
+1035	Plumbing	Pipes & Fittings	UPVC Fitting Vent Cowl (2")	1	PCS	1.8	1.8	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1036	Plumbing	Pipes & Fittings	UPVC Fitting Vent Cowl (6")	1	PCS	15	15	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1037	Plumbing	Pipes & Fittings	UPVC Fitting Vent Cowl 3" (82mm)	1	PCS	2.82	2.82	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size;wrong_category_fixed=1
+1038	Plumbing	Pipes & Fittings	UPVC Fitting Vent Cowl 4" (110mm)	1	PCS	3.2	3.2	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;variant=selected_size;wrong_category_fixed=1
+1039	Plumbing	Pipes & Fittings	UPVC Pipe 100mm (4") x 5.8m	1	PCS	46	46	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1040	Plumbing	Pipes & Fittings	UPVC Pipe 1-1/2in (per ft)	10	FT	3	30	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1
+1041	Plumbing	Pipes & Fittings	UPVC Pipe 110.00mm (4") x 5.80m	1	PCS	90.00	90	2025-07-31	NILAI AGRICULTURE ENTERPRISE	descPrefixRemoved=ROLL 4.; Mixed line also mentioned: UPVC Pipe 40mm (1 1/2") x 5.80m; Verify qty/price/total (data shifted);wrong_category_fixed=1
+1042	Plumbing	Pipes & Fittings	UPVC Pipe 110.00mm (4") x 5.80m/Length		LTH	59				
+1043	Plumbing	Pipes & Fittings	UPVC Pipe 160mm (6") SIRIM x 5.8m	1	PCS	134	134	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;verify_needed=1;note=duplicate_size_diff_price;wrong_category_fixed=1
+1044	Plumbing	Pipes & Fittings	UPVC Pipe 160mm (6") x 5.8m	1	PCS	72	72	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1045	Plumbing	Pipes & Fittings	UPVC Pipe 200mm (8") SIRIM x 5.8m	1	PCS	257	257	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1046	Plumbing	Pipes & Fittings	UPVC Pipe 250mm (10") SIRIM x 5.8m	1	PCS	443	443	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1047	Plumbing	Pipes & Fittings	UPVC Pipe 3" x 5.8m	1	LTH	30	30	2023-03-15	E SHENG HARDWARE (JH) SDN BHD	
+1048	Plumbing	Pipes & Fittings	UPVC Pipe 315mm (12") SIRIM x 5.8m	1	PCS	699	699	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1049	Plumbing	Pipes & Fittings	UPVC Pipe 32mm (1-1/4") x 5.8m	1	PCS	12	12	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1050	Plumbing	Pipes & Fittings	UPVC Pipe 40mm (1-1/2") x 5.8m	1	PCS	14	14	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1051	Plumbing	Pipes & Fittings	UPVC Pipe 50mm (2") x 5.8m	1	PCS	18	18	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1052	Plumbing	Pipes & Fittings	UPVC Pipe 80mm (3") x 5.8m	1	PCS	36	36	2026-01-31	Buildmate Home Living Sdn Bhd	src=buildmatehardware.com.my;normalized_case=1;wrong_category_fixed=1
+1053	Plumbing	Pipes & Fittings	UPVC Pipe With SIRIM (1-1/2") x 5.8m	1	PCS	39	39	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1054	Plumbing	Pipes & Fittings	UPVC Pipe With SIRIM (1-1/4") x 5.8m	1	PCS	34	34	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1055	Plumbing	Pipes & Fittings	UPVC Pipe With SIRIM (2") x 5.8m	1	PCS	49	49	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1056	Plumbing	Pipes & Fittings	UPVC Pipe With SIRIM (3") x 5.8m	1	PCS	68.60	68.6	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1057	Plumbing	Pipes & Fittings	UPVC Pipe With SIRIM (4") x 5.8m	1	PCS	91	91	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1058	Plumbing	Pipes & Fittings	UPVC Pipe With SIRIM (6") x 5.8m	1	PCS	140.8	140.8	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1059	Plumbing	Pipes & Fittings	UPVC Pipe With SIRIM (8") x 5.8m	1	PCS	269.30	269.3	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1060	Plumbing	Pipes & Fittings	UPVC Pipe Without SIRIM (1-1/2") x 5.8m	1	PCS	22.5	22.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1061	Plumbing	Pipes & Fittings	UPVC Pipe Without SIRIM (1-1/4") x 5.8m	1	PCS	16.5	16.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1062	Plumbing	Pipes & Fittings	UPVC Pipe Without SIRIM (2") x 5.8m	1	PCS	28.50	28.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1063	Plumbing	Pipes & Fittings	UPVC Pipe Without SIRIM (3") x 5.8m	1	PCS	58.5	58.5	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1064	Plumbing	Pipes & Fittings	UPVC Pipe Without SIRIM (4") x 5.8m	1	PCS	65.65	65.65	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1065	Plumbing	Pipes & Fittings	UPVC Pipe Without SIRIM (6") x 5.8m	1	PCS	112	112	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1066	Plumbing	Pipes & Fittings	UPVC Pipe Without SIRIM (8") x 5.8m	1	PCS	214.2	214.2	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my;wrong_category_fixed=1
+1067	Plumbing	Pipes & Fittings	UPVC PT Socket 1-1/2in	1	PCS	3.00	3.00	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1
+1068	Plumbing	Pipes & Fittings	UPVC Socket 80.00mm (3")	29	PCS	3	87	2025-07-31	NILAI AGRICULTURE ENTERPRISE	descPrefixRemoved=PCS 10.;wrong_category_fixed=1
+1069	Plumbing	Plumbing & Drainage	Avio CJ64#201#SS Hemisphere Door	1	PKT	8.8	8.8	2022-04-12	YIT LOONG BUILDING MATERIALS SDN BHD	
+1070	Plumbing	Plumbing & Drainage	Bowl Rubber 2"	1	PKT	6.3	6.3	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+1071	Plumbing	Plumbing & Drainage	Champion White Hopper Gasket 4"	1	PKT	5.90	5.9	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+1072	Plumbing	Plumbing & Drainage	EPDM Rubber Gasket Black 4"	1	PKT	5.4	5.4	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+1073	Plumbing	Plumbing & Drainage	Stainless Steel Floor Trap 4"	1	PCS	20	20	2026-01-31		
+1074	Plumbing	Plumbing & Sanitary	Ball Valve Bib Tap Brass Chrome T108	1	PCS	12	12	2023-05-11		
+1075	Plumbing	Plumbing & Sanitary	Basin Waste 11/4"	1	PCS	4	4	2023-05-11		
+1076	Plumbing	Plumbing & Sanitary	Bottle Trap PVC 11/4" 32mm Blue/green	1	PCS	8	8	2023-05-11		
+1077	Plumbing	Plumbing & Sanitary	Brass Garden Bib Tap 1/2"	1	PCS	8	8	2023-05-11		
+1078	Plumbing	Plumbing & Sanitary	Brass Gate Valve 1"	1	PCS	18	18	2023-05-11		
+1079	Plumbing	Plumbing & Sanitary	Brass Stop Cock 1/2"	1	PCS	13	13	2023-05-11		
+1080	Plumbing	Plumbing & Sanitary	City Brass Bib Tap L/D 1/2in	6	PCS	1.5	9	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1
+1081	Plumbing	Plumbing & Sanitary	CITY Stopcock L/D Brass 1/2"	1	PCS	15	15	2025-08-13		
+1082	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 1200L	1	PCS	650	650	2026-01-31		
+1083	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 1500L	1	PCS	750	750	2026-01-31		
+1084	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 1500v	1	PCS	750	750	2026-01-31		
+1085	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 1800v	1	PCS	850	850	2026-01-31		
+1086	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 2200L	1	PCS	950	950	2026-01-31		
+1087	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 2700L	1	PCS	1,100.00	1100	2026-01-31		
+1088	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 3200L	1	PCS	1,300.00	1300	2026-01-31		
+1089	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 3700L	1	BA	1,450.00	1450	2026-01-31		
+1090	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 4900L	1	PCS	1,800.00	1800	2026-01-31		
+1091	Plumbing	Plumbing & Sanitary	Deluxe PE Septic Tank 5500L	1	PCS	2,000.00	2000	2026-01-31		
+1092	Plumbing	Plumbing & Sanitary	DOCASA Combo, c/w One-piece rimless toilet bowl + modern bathroom sink cabinet with basin, mirror & shelf , Soft-close seat and cover, Cistern fittings, Cistern cover with flush button, Straight connector 	1	PCS	650	650	2026-01-04	Bath2u.com	AL121-V1, 13th Miles, Jalan Subang, Kampung Baru Sungai Buloh, 47000 Sungai Buloh, Selangor
+1093	Plumbing	Plumbing & Sanitary	Docasa Toilet Bowl WC Suite 1-Piece One-Piece S-Trap 250mm	1	PCS	370	370	2026-01-04	E SHENG HARDWARE (JH) SDN BHD	
+1094	Plumbing	Plumbing & Sanitary	Docasa Toilet Bowl WC Suite 2-Piece Close-Coupled S-Trap 250mm	1	PCS	250	250	2026-01-04	E SHENG HARDWARE (JH) SDN BHD	
+1095	Plumbing	Plumbing & Sanitary	Flexible Hose Latina 10"	2	PCS	6	12	2025-08-13		
+1096	Plumbing	Plumbing & Sanitary	Floor Grating SS 4 x 4"	2	UNIT	6	12	2025-08-13		
+1097	Plumbing	Plumbing & Sanitary	IBORN Toilet Bowl One Piece IBWC8315-S10	1	PCS	389	389	2025-08-13		
+1098	Plumbing	Plumbing & Sanitary	LEON SS Hand Bidet Set L3304	1	SET	55	55	2025-02-12		
+1099	Plumbing	Plumbing & Sanitary	Offset 4"	2	UNIT	10	20	2025-08-13		
+1100	Plumbing	Plumbing & Sanitary	PPR Pipe 20mm PN20	10	LTH	9.5	95	2025-04-09		
+1101	Plumbing	Plumbing & Sanitary	PTFE Thread Seal Tape Isano Blue 15m	2	ROLL	5	10	2025-08-13		
+1102	Plumbing	Plumbing & Sanitary	PVC Elbow 1"	50	PCS	0.7	35	2023-05-11		
+1103	Plumbing	Plumbing & Sanitary	Two Way Tap + Hand Bidet SUS304 M90SS (Mocha)	1	SET	95	95	2025-08-13		
+1104	Roofing	ACP / Polycarbonate / Roof Sheets	Polycarbonate Sheet 3.00mm Embossed (Roof/Awning)		SQFT	5.7	0			
+1105	Roofing	ACP / Polycarbonate / Roof Sheets	Polycarbonate Sheet 3.00mm Plain (Roof/Awning)		SQFT	5.9	0			
+1106	Roofing	ACP / Polycarbonate / Roof Sheets	Polycarbonate Sheet 4.00mm Plain (Roof/Awning)		SQFT	7.5	0			
+1107	Roofing	ACP / Polycarbonate / Roof Sheets	Polycarbonate Sheet 5.00mm Embossed (Roof/Awning)		SQFT	9.5	0			
+1108	Roofing	ACP / Polycarbonate / Roof Sheets	Polycarbonate Sheet 5.00mm Plain (Roof/Awning)		SQFT	9.00	0			
+1109	Roofing	ACP / Polycarbonate / Roof Sheets	PU Metaldeck 0.47mm G24/FR (610.00mm)	624	FT-RUN	15	9360			
+1110	Roofing	ACP / Polycarbonate / Roof Sheets	TH Deck 762 PU Metal Roofing 0.35mm G28 TCT	1	FT-RUN	12.5	12.5			
+1111	Roofing	ACP / Polycarbonate / Roof Sheets	TH Deck 762 PU Metal Roofing 0.40mm G27 TCT	1	FT-RUN	13.3	13.3			
+1112	Roofing	ACP / Polycarbonate / Roof Sheets	TH Deck 762 PU Metal Roofing 0.47mm G26 TCT	1	FT-RUN	14.5	14.5			
+1113	Roofing	ACP / Polycarbonate / Roof Sheets	Unibond ACP 4.00mm (Normal Colour)		SQFT	3.1	0			
+1114	Roofing	ACP / Polycarbonate / Roof Sheets	Unibond ACP 4.00mm (Special Colour)		SQFT	3.5	0			
+1115	Roofing	ACP / Polycarbonate / Roof Sheets	Unibond ACP 4mm Normal Colour	1	SQFT	3.1	3.1	2026-01-31	MY STEEL HARDWARE SDN BHD	Colors: Silver/white Gold/white Brown/white Grey/silver Grey/white
+1116	Roofing	ACP / Polycarbonate / Roof Sheets	Unibond ACP 4mm Special Colour	1	SQFT	3.5	3.5	2026-01-31	MY STEEL HARDWARE SDN BHD	Colors: Black/white Silver/silver
+1117	Roofing	ACP / Polycarbonate / Roof Sheets	Verma Polycarbonate Sheet 3.00mm Embossed (For Door/Window)		SQFT	5.7	0			
+1118	Roofing	ACP / Polycarbonate / Roof Sheets	Verma Polycarbonate Sheet 3.00mm Plain (For Door/Window)		SQFT	5.9	0			
+1119	Roofing	ACP / Polycarbonate / Roof Sheets	Verma Polycarbonate Sheet 4.00mm Plain (For Door/Window)		SQFT	7.5	0			
+1120	Roofing	ACP / Polycarbonate / Roof Sheets	Verma Polycarbonate Sheet 5.00mm Embossed Clear (For Door/Window)		SQFT	9.5	0			
+1121	Roofing	ACP / Polycarbonate / Roof Sheets	Verma Polycarbonate Sheet 5.00mm Plain Clear (For Door/Window)		SQFT	9	0			
+1122	Roofing	ACP / Polycarbonate / Roof Sheets	Wall Angle (Zinc Bar 12)	1	PCS	15	15			
+1123	Roofing	Awning / Skylight Accessories & Consumables	Awning Post Cover	1	PCS	7.5	7.5	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1124	Roofing	Awning / Skylight Accessories & Consumables	Labour Charge For Roofing (Railing Repair)	1	PCS	60	60	2022-08-07	YIT LOONG BUILDING MATERIALS SDN BHD	flag_nonmaterial=1
+1125	Roofing	Awning / Skylight Accessories & Consumables	Skylight Angle 1" x 1"	1	PCS	20	20	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1126	Roofing	Awning / Skylight Accessories & Consumables	Skylight Angle 1" x 1"	2	LTH	35.00	70			
+1127	Roofing	Awning / Skylight Accessories & Consumables	Skylight Angle 1-1/2" x 1-1/2"	1	PCS	25	25	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1128	Roofing	Awning / Skylight Accessories & Consumables	Skylight Angle 1-1/2" x 1-1/2"	2	LTH	45	90			
+1129	Roofing	Awning / Skylight Accessories & Consumables	Skylight Capping	1	PCS	23.00	23	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1130	Roofing	Awning / Skylight Accessories & Consumables	Skylight Capping	2	LTH	28	56			
+1131	Roofing	Awning / Skylight Accessories & Consumables	Skylight Rubber (153m / roll)	1	ROLL	78	78	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1132	Roofing	Awning / Skylight Accessories & Consumables	Skylight U Channel	1	PCS	20	20	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1133	Roofing	Awning / Skylight Accessories & Consumables	Skylight U Channel	2	LTH	25	50			
+1134	Roofing	Awning / Skylight Accessories & Consumables	Suntuf Canvas Blue/White BW-6100 6.00ft x 100.00yd	1	ROLL	420	420			
+1135	Roofing	Awning / Skylight Accessories & Consumables	Suntuf Canvas BW-6100 6ft x 100yd (Blue/White)	1	ROLL	135	135	2025-09-30	NILAI AGRICULTURE ENTERPRISE	
+1136	Roofing	Flashing & Trims	Flashing #30 (0.25mm) 12" x 8.00ft Red	4	PCS	18	72	2025-09-02		
+1137	Roofing	Flashing & Trims	Flashing #30 12" x 8.00ft	4	PCS	28	112			
+1138	Roofing	Flashing & Trims	Flashing 12" x 8.00ft x No.30 (0.25mm) Red	8	PCS	18	144	2026-01-13	NILAI AGRICULTURE ENTERPRISE	
+1139	Roofing	Flashing & Trims	Flashing V-Shape 18" x 8' x #28 Red	1	PCS	160	160	2026-01-13	NILAI AGRICULTURE ENTERPRISE	Source line mentioned transport; price may include delivery
+1140	Roofing	Flashing & Trims	Flashing V-Shape 18" x 8.00ft x No.28 Red	30	PCS	25	750	2025-12-06	NILAI AGRICULTURE ENTERPRISE	
+1141	Safety	Safety & PPE	Disposable Ear Plug	50	PAIR	0.6	30	2025-01-15		
+1142	Safety	Safety & PPE	Nitrile Glove Heavy Duty	20	PAIR	3.2	64	2025-02-12		
+1143	Safety	Safety & PPE	Reflective Safety Vest	10	PCS	12	120	2023-12-28		
+1144	Safety	Safety & PPE	Safety Goggle ADX-9181-5	1	PCS	5	5	2023-03-15		
+1145	Safety	Safety & PPE	Safety Goggle Clear	10	PCS	6	60	2024-03-18		
+1146	Safety	Safety & PPE	Safety Helmet Yellow	5	PCS	18	90	2024-01-19		
+1147	Safety	Safety Equipment	Hand Glass Glove (Orange)	1	PAIR	5.00	5	2024-07-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+1148	Safety	Safety Equipment	Hand Glove	1	PAIR	5	5	2024-01-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+1149	Sealants	Waterproofing & Sealant	Butyl Flashing Tape 50.00mm x 5.00m	4	ROLL	15	60			
+1150	Sealants	Waterproofing & Sealant	DPM PE 0.20mm	2	ROLL	180	360			
+1151	Sealants	Waterproofing & Sealant	Greenseal Injection Grout	1	PCS	100	100	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1152	Sealants	Waterproofing & Sealant	HARDEX RS900C Neutral Silicone Clear	1	CTN	264	264	2022-03-01	YIT LOONG BUILDING MATERIALS SDN BHD	
+1153	Sealants	Waterproofing & Sealant	HARDEX RS995 Silicone Structural Glazing	1	CTN	252	252	2022-05-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+1154	Sealants	Waterproofing & Sealant	OCI Silicone Sealant (Awning)	1	BOTTLE	8	8			
+1155	Sealants	Waterproofing & Sealant	Pentens High-Pressure PU Foam Injection Grouting Aluminium Packer (200pcs) 8cm x 10mm Dia	1	SET	400	400	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1156	Sealants	Waterproofing & Sealant	Pentens PU-300 One Part Polyurethane Grouting PU Injection Hydrophobic PU Grout Plugging Leakage Waterproof Coating 20kg	1	PCS	625	625	2026-01-31	CHENG HUAT HARDWARE SDN BHD	src=chenghuatgroup.com.my
+1157	Sealants	Waterproofing & Sealant	Pentens T-200H 20.00kg Grey	1	BAG	255	255	2025-12-15	NILAI AGRICULTURE	
+1158	Sealants	Waterproofing & Sealant	Poly Sealant 280ml	6	PCS	5.5	33	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+1159	Sealants	Waterproofing & Sealant	SIKA Curing Compound Antisol E 20.00L	2	PAIL	130	260			
+1160	Sealants	Waterproofing & Sealant	SIKA Waterproof Compound Top Seal 107 (A+B) 25.00kg	1	SET	105	105			
+1161	Sealants	Waterproofing & Sealant	Sikagard-703 GroutSeal	1	L	34.9	34.9	2026-02-13		src=image;verify_supplier=1
+1162	Sealants	Waterproofing & Sealant	Silicone OCI Awning Bottle	1	PCS	8.00	8	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1163	Sealants	Waterproofing & Sealant	Silicone Sealant	16	TUBE	8	128			
+1164	Sealants	Waterproofing & Sealant	Silicone Sealant PS600 Pro-Spec Neutral	6	TUBE	10	60	2025-08-13		
+1165	Sealants	Waterproofing & Sealant	Silicone Sealant White Pro-Spec PS200 280g	16	TUBE	7.5	120	2025-09-02		
+1166	Sealants	Waterproofing & Sealant	Vitally VT211 Silicone Matt Black	1	PCS	10	10	2025-02-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+1167	Sealants	Waterproofing & Sealant	Vitally VT230 X-BOND	1	PCS	12	12	2025-02-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+1168	Sealants	Waterproofing & Sealant	Vitally VT230 X-BOND - Beige 300ml	1	PCS	13.5	13.5	2025-02-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+1169	Sealants	Waterproofing & Sealant	VT202 Silicone Sealant Black	1	CTN	156	156	2024-03-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+1170	Sealants	Waterproofing & Sealant	VT202 Silicone Sealant Clear	1	CTN	144	144	2023-05-05	YIT LOONG BUILDING MATERIALS SDN BHD	
+1171	Sealants	Waterproofing & Sealant	VT210 Neutral Sealant	1	CTN	182.4	182.4	2024-06-29	YIT LOONG BUILDING MATERIALS SDN BHD	
+1172	Sealants	Waterproofing & Sealant	VT220 Gap Sealant White	1	CTN	103.2	103.2	2024-03-07	YIT LOONG BUILDING MATERIALS SDN BHD	
+1173	Sealants	Waterproofing & Sealant	VT222 Gap Sealant White	1	CTN	88.8	88.8	2024-08-15	YIT LOONG BUILDING MATERIALS SDN BHD	
+1174	Sealants	Waterproofing & Sealant	Waterproof Soft Tape 2" x 5.00m	4	ROLL	22	88	2025-09-02		
+1175	Sealants	Waterproofing & Sealant	Waterproof Soft Tape 2" x 5.00m (Std)	1	ROLL	35.8	35.8	2025-08-13		
+1176	Sealants	Waterproofing & Sealant	XTRASEAL	1	PCS	3	3	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1;desc_unclear=1
+1177	Sealants	Waterproofing & Sealant	Xtraseal MC800 Acrylic Sealant White	1	CTN	120	120	2025-03-05	KENCANA INDAH SDN BHD	
+1178	Sealants	Waterproofing & Sealant	Xtraseal SN501 Neutral Sealant	1	CTN	228	228	2021-10-27	YIT LOONG BUILDING MATERIALS SDN BHD	
+1179	Site Consumables	Misc	PL Opening	1	PCS	20	20	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103;desc_unclear=1
+1180	Site Consumables	Misc	Polyester Binding	1	PCS	2.50	2.5	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+1181	Site Consumables	Packaging	Guni Sack	4	PCS	1.5	6	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+1182	Steel	Hollow & Pipe	C Purlin 10" x 3" 2.5mm @ RM 38.4 / mtr @ RM 11.7043 / ft	1	FT	11.7	11.7	2026-01-31	THUNG HING METAL INDUSTRY SDN BHD	
+1183	Steel	Hollow & Pipe	C Purlin 12" x 4" 1.6mm @ RM 30.55 / mtr @ RM 9.31164 / ft	1	FT	9.31	9.31	2026-01-31	THUNG HING METAL INDUSTRY SDN BHD	
+1184	Steel	Hollow & Pipe	C Purlin 12" x 4" 2.0mm @ RM 38.4 / mtr @ RM 11.70432 / ft	1	FT	11.7	11.7	2026-01-31	THUNG HING METAL INDUSTRY SDN BHD	
+1185	Steel	Hollow & Pipe	C Purlin 12" x 4" 2.3mm @ RM 43.06 / mtr @ RM 13.124688 / ft	1	FT	13.12	13.12	2026-01-31	THUNG HING METAL INDUSTRY SDN BHD	
+1186	Steel	Hollow & Pipe	C Purlin 12" x 4" 2.5mm @ RM 47.2 / mtr @ RM 14.38656 / ft	1	FT	14.39	14.39	2026-01-31	THUNG HING METAL INDUSTRY SDN BHD	
+1187	Steel	Hollow & Pipe	C Purlin THC25018 250mm x 75mm x 1.6mm S025	293.4268	KG	2.8	821.6	2025-03-06	THUNG HING METAL INDUSTRY SDN BHD	src=2025-03-16 SO 357293 THUNG HUNG METAL INDUSTRY SDN BHD.pdf;verify_needed=1;new_supplier_pending_standard=1;total_calc_from_qty_price=1
+1188	Steel	Hollow & Pipe	C Purlin THO25016 250mm x 75mm x 1.8mm	125.5272	KG	3.3	414.24	2025-04-08	THUNG HING METAL INDUSTRY SDN BHD	src=2025-04-09 SO 360482 THUNG HUNG METAL INDUSTRY SDN BHD.pdf;verify_needed=1;new_supplier_pending_standard=1
+1189	Steel	Hollow & Pipe	C-Purlin THC25016 250mm x 75mm x 1.6mm	293.4388	KG	3.8	1115.07	2025-03-05	THUNG HUNG METAL INDUSTRY SDN BHD	src=2025-03-16 SO 357293 THUNG HUNG METAL INDUSTRY SDN BHD.pdf;verify_needed=1;new_supplier_pending_standard=1;charge_not_material=1;excluded_charge=Transport RM80.00
+1190	Steel	Hollow & Pipe	GI Channel 35mm x 75mm x 0.72mm x 6.00m	82	PCS	22	1804			
+1191	Steel	Hollow & Pipe	GI CHS Pipe 2" x 6m	1	LTH	95	95	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1192	Steel	Hollow & Pipe	Metal Bracket 4" Mirror	1	PCS	65	65	2024-06-09	MY STEEL HARDWARE SDN BHD	
+1193	Steel	Hollow & Pipe	Metal Bracket 5" Mirror	1	PCS	75	75	2024-06-09	MY STEEL HARDWARE SDN BHD	
+1194	Steel	Hollow & Pipe	Metal Bracket 6" Mirror	1	PCS	85	85	2024-06-09	MY STEEL HARDWARE SDN BHD	
+1195	Steel	Hollow & Pipe	MS Angle Bar 1" x 2" x 6.00mm x 6.00m	1	PCS	58	58	2025-08-31	MY STEEL HARDWARE SDN BHD	
+1196	Steel	Hollow & Pipe	MS Angle Bar 1" x 6.00mm x 6.00m	1	PCS	32	32	2024-06-09	MY STEEL HARDWARE SDN BHD	
+1197	Steel	Hollow & Pipe	MS Angle Bar 1-1/2" x 3.00mm x 6.00m	1	PCS	28	28	2024-06-09	MY STEEL HARDWARE SDN BHD	
+1198	Steel	Hollow & Pipe	MS Angle Bar 1-1/2" x 6.00mm x 6.00m	1	PCS	46	46	2024-06-09	MY STEEL HARDWARE SDN BHD	
+1199	Steel	Hollow & Pipe	MS Angle Bar 3" x 6.00mm x 6.00m	1	PCS	100	100	2024-06-09	MY STEEL HARDWARE SDN BHD	
+1200	Steel	Hollow & Pipe	MS Angle Bar 3.0mm 1-1/2" x 6m	1	LTH	36.00	36	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	
+1201	Steel	Hollow & Pipe	MS Angle Bar 3.0mm 6/8" x 6m	1	LTH	15.5	15.5	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	
+1202	Steel	Hollow & Pipe	MS Angle Bar 4" x 6.00mm x 6.00m	1	PCS	115	115	2024-06-09	MY STEEL HARDWARE SDN BHD	
+1203	Steel	Hollow & Pipe	MS Angle Bar 6.0mm 1" x 2" x 6m	1	LTH	69	69	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	
+1204	Steel	Hollow & Pipe	MS Angle Bar 6.0mm 1" x 6m	1	LTH	46.00	46	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	
+1205	Steel	Hollow & Pipe	MS Angle Bar 6.0mm 1-1/2" x 6m	1	LTH	69	69	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	
+1206	Steel	Hollow & Pipe	MS Angle Bar 6/8" x 3.00mm x 6.00m	1	PCS	16.00	16	2024-11-08	MY STEEL HARDWARE SDN BHD	
+1207	Steel	Hollow & Pipe	MS CHS Black Pipe 2" (AAA) x 6m	1	LTH	60	60	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1208	Steel	Hollow & Pipe	MS Flat Bar 1" x 3.00mm x 6.00m	1	PCS	25	25			
+1209	Steel	Hollow & Pipe	MS Flat Bar 2" x 3.00mm x 6.00m (T-Bar Skylight Glass Bottom)	1	PCS	35	35			
+1210	Steel	Hollow & Pipe	MS Flat Bar 2" x 6.00mm x 6.00m	1	PCS	50	50			
+1211	Steel	Hollow & Pipe	MS Flat Bar 3mm x 1" x 6m	1	LTH	15	15	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1212	Steel	Hollow & Pipe	MS Flat Bar 3mm x 2" x 6m	1	LTH	30	30	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1213	Steel	Hollow & Pipe	MS Flat Bar 3mm x 4" x 6m	1	LTH	55	55	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1214	Steel	Hollow & Pipe	MS Flat Bar 3mm x 6/8" x 6m	1	LTH	13	13	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1215	Steel	Hollow & Pipe	MS Flat Bar 4" x 3.00mm x 6.00m (T-Bar Skylight Structure)	1	PCS	55	55			
+1216	Steel	Hollow & Pipe	MS Flat Bar 6/8" x 3.00mm x 6.00m	1	PCS	20	20			
+1217	Steel	Hollow & Pipe	MS Flat Bar 6mm x 2" x 6m	1	LTH	55	55	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1218	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1" x 2" x 1.00mm x 6.00m	1	PCS	17	17			
+1219	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1" x 2" x 1.20mm x 6.00m	1	PCS	19	19			
+1220	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1" x 2" x 1.60mm x 6.00m	1	PCS	24	24			
+1221	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1" x 2" x 1.90mm x 6.00m	1	PCS	27	27			
+1222	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1" x 2" x 2.30mm x 6.00m	1	PCS	31	31			
+1223	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1" x 3" x 1.20mm x 6.00m	1	PCS	23	23			
+1224	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1" x 3" x 1.60mm x 6.00m	1	PCS	29	29			
+1225	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1/2" x 1" 1.2mm x 6m	1	LTH	17.50	17.5	2026-01-13	CHOP TAT HUAT HARDWARE SDN BHD	
+1226	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1-1/2" x 2-1/2" 1.9mm x 6m	1	LTH	65	65	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1227	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1-1/2" x 2-1/2" x 6m x 1.9mm	1	PCS	50	50			
+1228	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1-1/2" x 3" 1.2mm x 6m	1	LTH	43	43	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1229	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1-1/2" x 3" 1.6mm x 6m	1	LTH	52	52	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1230	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1-1/2" x 3" 1.9mm x 6m	1	LTH	57	57	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1231	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1-1/2" x 3" x 6m x 1.2mm	1	PCS	44	44			
+1232	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1-1/2" x 3" x 6m x 1.6mm	1	PCS	47	47			
+1233	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 1-1/2" x 3" x 6m x 1.9mm	1	PCS	57	57			
+1234	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 3" x 6m x 1.2mm	1	PCS	42	42			
+1235	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 3" x 6m x 1.6mm	1	PCS	53	53			
+1236	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 3" x 6m x 2.3mm	1	PCS	69	69			
+1237	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 3" x 6m x 3.0mm	1	PCS	119	119			
+1238	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 4" x 6m x 1.2mm	1	PCS	69	69			
+1239	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 4" x 6m x 1.6mm	1	PCS	75	75			
+1240	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 4" x 6m x 1.9mm	1	PCS	83	83			
+1241	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 4" x 6m x 2.3mm	1	PCS	107	107			
+1242	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 4" x 6m x 3.0mm	1	PCS	155	155			
+1243	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2" x 4" x 6m x 3.2mm	1	PCS	165	165			
+1244	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 3" x 6m x 1.2mm	1	PCS	69	69			
+1245	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 3" x 6m x 1.6mm	1	PCS	75	75			
+1246	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 3" x 6m x 1.9mm	1	PCS	83.00	83			
+1247	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 3" x 6m x 2.3mm	1	PCS	107	107			
+1248	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 3" x 6m x 3.0mm	1	PCS	155	155			
+1249	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 4" x 6m x 1.2mm	1	PCS	79	79			
+1250	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 4" x 6m x 1.6mm	1	PCS	85.00	85			
+1251	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 4" x 6m x 1.9mm	1	PCS	99	99			
+1252	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 4" x 6m x 2.3mm	1	PCS	119	119			
+1253	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 2-1/2" x 4" x 6m x 3.0mm	1	PCS	173	173			
+1254	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 3" x 4" x 6m x 1.2mm	1	PCS	89	89			
+1255	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 3" x 4" x 6m x 1.6mm	1	PCS	99	99			
+1256	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 3" x 4" x 6m x 1.9mm	1	PCS	114	114			
+1257	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 3" x 4" x 6m x 2.3mm	1	PCS	139	139			
+1258	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 3" x 4" x 6m x 3.0mm	1	PCS	199	199			
+1259	Steel	Hollow & Pipe	MS RHS Rectangular Hollow 3" x 5" x 3.00mm x 6.00m	1	PCS	163.00	163			use=awning_over_20.00ft
+1260	Steel	Hollow & Pipe	MS SHS Square Hollow 1" 1.0mm x 6m	1	LTH	13	13	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1261	Steel	Hollow & Pipe	MS SHS Square Hollow 1" 1.2mm x 6m	1	LTH	15	15	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1262	Steel	Hollow & Pipe	MS SHS Square Hollow 1" 1.6mm x 6m	1	LTH	22	22	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1263	Steel	Hollow & Pipe	MS SHS Square Hollow 1" 1.9mm x 6m	1	LTH	25	25	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1264	Steel	Hollow & Pipe	MS SHS Square Hollow 1" x 1.00mm x 6.00m	1	PCS	17	17			
+1265	Steel	Hollow & Pipe	MS SHS Square Hollow 1" x 1.20mm x 6.00m	1	PCS	20	20			
+1266	Steel	Hollow & Pipe	MS SHS Square Hollow 1" x 1.60mm x 6.00m	1	PCS	23	23			
+1267	Steel	Hollow & Pipe	MS SHS Square Hollow 1" x 1.90mm x 6.00m	1	PCS	25	25			
+1268	Steel	Hollow & Pipe	MS SHS Square Hollow 1-1/2" 1.2mm x 6m	1	LTH	33.00	33	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1269	Steel	Hollow & Pipe	MS SHS Square Hollow 1-1/2" 1.6mm x 6m	1	LTH	43	43	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1270	Steel	Hollow & Pipe	MS SHS Square Hollow 1-1/2" 1.9mm x 6m	1	LTH	49	49	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1271	Steel	Hollow & Pipe	MS SHS Square Hollow 1-1/2" x 6m x 1.2mm	1	PCS	30	30			
+1272	Steel	Hollow & Pipe	MS SHS Square Hollow 1-1/2" x 6m x 1.6mm	1	PCS	32.50	32.5			
+1273	Steel	Hollow & Pipe	MS SHS Square Hollow 1-1/2" x 6m x 1.9mm	1	PCS	38	38			
+1274	Steel	Hollow & Pipe	MS SHS Square Hollow 2" 1.2mm x 6m	1	LTH	42	42	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1275	Steel	Hollow & Pipe	MS SHS Square Hollow 2" 1.6mm x 6m	1	LTH	55	55	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1276	Steel	Hollow & Pipe	MS SHS Square Hollow 2" 2.3mm x 6m	1	LTH	76	76	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1277	Steel	Hollow & Pipe	MS SHS Square Hollow 2" x 6m x 1.2mm	1	PCS	39	39			
+1278	Steel	Hollow & Pipe	MS SHS Square Hollow 2" x 6m x 1.6mm	1	PCS	45	45			
+1279	Steel	Hollow & Pipe	MS SHS Square Hollow 2" x 6m x 1.9mm	1	PCS	55	55			
+1280	Steel	Hollow & Pipe	MS SHS Square Hollow 2" x 6m x 2.3mm	1	PCS	73	73			
+1281	Steel	Hollow & Pipe	MS SHS Square Hollow 2" x 6m x 3.0mm	1	PCS	104	104			
+1282	Steel	Hollow & Pipe	MS SHS Square Hollow 2" x 6m x 3.2mm	1	PCS	119	119			
+1283	Steel	Hollow & Pipe	MS SHS Square Hollow 2-1/2" x 6m x 1.2mm	1	PCS	52	52			
+1284	Steel	Hollow & Pipe	MS SHS Square Hollow 2-1/2" x 6m x 1.6mm	1	PCS	58	58			
+1285	Steel	Hollow & Pipe	MS SHS Square Hollow 2-1/2" x 6m x 1.9mm	1	PCS	69.00	69			
+1286	Steel	Hollow & Pipe	MS SHS Square Hollow 2-1/2" x 6m x 2.3mm	1	PCS	88	88			
+1287	Steel	Hollow & Pipe	MS SHS Square Hollow 2-1/2" x 6m x 3.0mm	1	PCS	129.00	129			
+1288	Steel	Hollow & Pipe	MS SHS Square Hollow 3" x 6m x 1.2mm	1	PCS	66.00	66			
+1289	Steel	Hollow & Pipe	MS SHS Square Hollow 3" x 6m x 1.6mm	1	PCS	76	76			
+1290	Steel	Hollow & Pipe	MS SHS Square Hollow 3" x 6m x 1.9mm	1	PCS	89	89			
+1291	Steel	Hollow & Pipe	MS SHS Square Hollow 3" x 6m x 2.3mm	1	PCS	109.00	109			
+1292	Steel	Hollow & Pipe	MS SHS Square Hollow 3" x 6m x 3.0mm	1	PCS	159	159			
+1293	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 4" 1.9mm x 6m	1	LTH	150	150	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1294	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 4" x 6m x 1.2mm	1	PCS	109	109			
+1295	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 4" x 6m x 1.6mm	1	PCS	125	125			
+1296	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 4" x 6m x 1.9mm	1	PCS	145.00	145			
+1297	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 4" x 6m x 2.3mm	1	PCS	173.00	173			
+1298	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 4" x 6m x 3.0mm	1	PCS	249	249			
+1299	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 4" x 6m x 3.2mm	1	PCS	269.00	269			
+1300	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 6m x 1.2mm	1	PCS	89	89			
+1301	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 6m x 1.6mm	1	PCS	99	99			
+1302	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 6m x 1.9mm	1	PCS	119	119			
+1303	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 6m x 2.3mm	1	PCS	145	145			
+1304	Steel	Hollow & Pipe	MS SHS Square Hollow 4" x 6m x 3.0mm	1	PCS	205	205			
+1305	Steel	Hollow & Pipe	MS SHS Square Hollow 5" x 5" x 6m x 1.9mm	1	PCS	179	179			
+1306	Steel	Hollow & Pipe	MS SHS Square Hollow 5" x 5" x 6m x 2.3mm	1	PCS	209	209			
+1307	Steel	Hollow & Pipe	MS SHS Square Hollow 5" x 5" x 6m x 3.0mm	1	PCS	319	319			
+1308	Steel	Hollow & Pipe	MS SHS Square Hollow 6/8" 1.0mm x 6m	1	LTH	11	11	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1309	Steel	Hollow & Pipe	MS SHS Square Hollow 6/8" 1.2mm x 6m	1	LTH	13	13	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1310	Steel	Hollow & Pipe	MS SHS Square Hollow 6/8" 1.6mm x 6m	1	LTH	31.00	31	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1311	Steel	Hollow & Pipe	MS SHS Square Hollow 6/8" 1.9mm x 6m	1	LTH	37.00	37	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1312	Steel	Hollow & Pipe	Pre-Zinc CHS Pipe 2" 1.3mm x 6m	1	LTH	168	168	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1313	Steel	Rebar & Mesh	1520 Expanded Metal MS Mesh 16mm x 38mm x 1.5mm	1	SHEET	140	140	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1314	Steel	Rebar & Mesh	2015 Expanded Metal MS Mesh 9mm x 29mm x 2.0mm	1	SHEET	140	140	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1315	Steel	Rebar & Mesh	7503 Expanded Metal MS Mesh 22mm x 57mm x 3.0mm	1	SHEET	140	140	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1316	Steel	Rebar & Mesh	A7 BRC (Bs) 2.2m x 6m		SHEET	130	0			
+1317	Steel	Rebar & Mesh	Bhl 1/2 x 18g Expanded Metal MS Mesh 13mm x 30mm x 1.2mm	1	SHEET	130	130	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1318	Steel	Rebar & Mesh	BRC A7 (6.0m x 2.2m, 13.2 M2/pc)	12	SHEET	148	1776			
+1319	Steel	Rebar & Mesh	BRC A7 BRC (Bs) 2.2m x 6m	1	SHEET	75	75	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1320	Steel	Rebar & Mesh	BRC Mesh A7 2.20m x 6.00m (8" x 8") (BS)	18	PCS	120	2160	2025-10-27	MY STEEL HARDWARE SDN BHD	orig=8" X 8" X 2.2M X 6M X A7 Brc Fencing(bs)
+1321	Steel	Rebar & Mesh	MS Deformed Bar Y10 12.00m (Main Bars)	55	BAR	22	1210	2025-06-17	KENCANA INDAH SDN BHD	orig=Rebar Y10 (12m/bar) - Main Bars
+1322	Steel	Rebar & Mesh	MS Deformed Bar Y12 (CQ)	1	LTH	24	24	2024-08-31	MY STEEL HARDWARE SDN BHD	orig=Y12 Besi (cq)
+1323	Steel	Rebar & Mesh	MS Expanded Metal 1520 4.00ft x 8.00ft x 1.50mm (16mm x 30mm Mesh)		SHEET	70	0			
+1324	Steel	Rebar & Mesh	MS Expanded Metal 2015 4.00ft x 8.00ft x 2.00mm (9mm x 30mm Mesh)		SHEET	80	0			
+1325	Steel	Rebar & Mesh	MS Expanded Metal 7503 4.00ft x 8.00ft x 3.00mm (22mm x 57mm Mesh)		SHEET	90	0			
+1326	Steel	Rebar & Mesh	MS Expanded Metal BHL 1/2" x 18G 4.00ft x 8.00ft x 1.20mm (13mm x 30mm Mesh)		SHEET	75	0			
+1327	Steel	Rebar & Mesh	Square Wire Mesh Panel 1.8m x 3m (2" x 2") x 2.5mm	1	PCS	65	65	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1328	Steel	Rebar & Steel Bar	MS Deformed Bar Y12 12.00m	50	BAR	28	1400	2025-06-17	KENCANA INDAH SDN BHD	orig=Rebar Y12 (12m/bar)
+1329	Steel	Rebar & Steel Bar	MS Deformed Bar Y12 12.00m (BS)	50	LTH	24	1200	2022-09-15	MY STEEL HARDWARE SDN BHD	orig=Y12MM X 12M M/s Y/bar (bs)
+1330	Steel	Rebar & Steel Bar	MS Deformed Bar Y16 (BS)	1	LTH	40	40	2025-08-31	MY STEEL HARDWARE SDN BHD	orig=Y16 Besi (bs)
+1331	Steel	Rebar & Steel Bar	MS R-bar (Round) Dia8mm x 12m		LTH	15	0	2025-09-30		
+1332	Steel	Rebar & Steel Bar	MS Round Bar 3/8in A1	3	PCS	35	105	2026-02-12	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005929
+1333	Steel	Rebar & Steel Bar	MS Round Bar R6 10.00m (CQ)	1	BAR	12	12	2022-01-29	JIN KANG HARDWARE SDN BHD	orig=R6 X 10M Besi (cq) 5.0
+1334	Steel	Rebar & Steel Bar	MS Round Bar R6 12.00m	1	BAR	15	15	2025-01-12	MY STEEL HARDWARE SDN BHD	orig=R6 12m Round Bar
+1335	Steel	Rebar & Steel Bar	MS Round Bar R6 12.00m (BS)	1	BAR	16	16	2024-02-08	JIN KANG HARDWARE SDN BHD	orig=R6 X 12M Round Bar (bs)
+1336	Steel	Rebar & Steel Bar	MS Round Bar R6 12.00m (DIA6mm)	10	LTH	12	120	2025-10-01		orig=Round Bar R6 (Dia6mm X 12m)
+1337	Steel	Rebar & Steel Bar	MS Round Bar R8 (CQ)	1	BAR	16.5	16.5	2024-03-12	KENCANA INDAH SDN BHD	orig=R8 Round Bar Besi-cq (7.0)
+1338	Steel	Rebar & Steel Bar	MS Round Bar R8 12.00m (BS)	1	BAR	21	21	2024-08-22	KENCANA INDAH SDN BHD	orig=R8MM X 12M M/s R/bar (bs)
+1339	Steel	Rebar & Steel Bar	Rebar 12mm x 12m	1	LTH	18	18	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1340	Steel	Stainless Steel Hollow (SHS / RHS)	SS Rectangular Hollow 1" x 2" x 6m x 1.2mm		PCS	63	0			
+1341	Steel	Stainless Steel Hollow (SHS / RHS)	SS Rectangular Hollow 1-1/2" x 1-1/2" x 6m x 1.2mm		PCS	68	0			
+1342	Steel	Stainless Steel Hollow (SHS / RHS)	SS Square Hollow 1-1/2" x 6m x 1.2mm		PCS	68	0			
+1343	Steel	Stainless Steel Hollow (SHS / RHS)	SS Square Hollow 2" x 6m x 1.2mm		PCS	193	0			
+1344	Steel	Stainless Steel Hollow (SHS / RHS)	Stainless Steel Square Hollow 1 6/8" x 3" x 6m	1	LTH	340	340	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1345	Steel	Stainless Steel Hollow (SHS / RHS)	Stainless Steel Square Hollow 1" x 2" x 6m	1	LTH	110	110	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1346	Steel	Stainless Steel Hollow (SHS / RHS)	Stainless Steel Square Hollow 1/2" x 6m	1	LTH	30	30	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1347	Steel	Stainless Steel Hollow (SHS / RHS)	Stainless Steel Square Hollow 2" x 4" x 6m	1	LTH	420	420	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1348	Steel	Stainless Steel Hollow (SHS / RHS)	Stainless Steel Square Hollow 2" x 6m	1	LTH	193	193	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1349	Steel	Stainless Steel Tube (Round)	Stainless Steel Round Tube 1 1/2" x 6m	1	LTH	120	120	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1350	Steel	Stainless Steel Tube (Round)	Stainless Steel Round Tube 1" x 6m	1	LTH	80	80	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1351	Steel	Stainless Steel Tube (Round)	Stainless Steel Round Tube 2" x 6m	1	LTH	190	190	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1352	Steel	Stainless Steel Tube (Round)	Stainless Steel Round Tube 6/8" x 6m	1	LTH	60	60	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1353	Steel	Steel Accessories	20# GI Wire 1.5	1	KG	8.7	8.7	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	detail_missing=1
+1354	Steel	Steel Accessories	20# S.L. GI Wire	1	ROLL	14	14	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	
+1355	Steel	Steel Accessories	20# S.L. GI Wire (Roll For Loose)	1	ROLL	15	15	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	
+1356	Steel	Steel Accessories	20# S.L. GI Wire (Roll)	1	ROLL	14	14	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	
+1357	Steel	Steel Accessories	Cover Block (Beam + Rebar Cage)	192	PCS	0.4	76.8			
+1358	Steel	Steel Accessories	Cut & Bend Service (Stair)	1	PCS	13	13	2026-01-31	MY STEEL HARDWARE SDN BHD	Malay: Potong=Cut; Bend=Bend; Tangga=Stair
+1359	Steel	Steel Accessories	GI Binding Wire SWG 20	8	ROLL	10	80			
+1360	Steel	Steel Accessories	GI Binding Wire SWG 20 1.50kg (Bundle/10 Rolls)	5	PCS	9	45	2025-09-30	NILAI AGRICULTURE ENTERPRISE	Malay: IKAT/10RLLS
+1361	Steel	Steel Accessories	GI Wire SWG 20 1.5kg (10 Rolls/Bundle)	8	BUNDLE	90	720	2025-09-02		orig=GI Wire SWG 20# 1.5kg (IKAT/10 Rolls)
+1362	Steel	Steel Accessories	Spacer/Chair Plastic (+/-800 Pcs/Bag)	1	BAG	108.8	108.8			
+1363	Steel	Steel Plate & Sheet	1520 Expanded Metal MS Mesh 16mm x 38mm x 1.5mm	1	SHEET	140	140	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1364	Steel	Steel Plate & Sheet	2015 Expanded Metal MS Mesh 9mm x 29mm x 2.0mm	1	SHEET	140	140	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1365	Steel	Steel Plate & Sheet	CR Sheet 0.90mm 4.00ft x 8.00ft		SHEET	80	0			
+1366	Steel	Steel Plate & Sheet	CR Sheet 1.00mm 4.00ft x 8.00ft		SHEET	87	0			
+1367	Steel	Steel Plate & Sheet	CR Sheet 1.20mm 4.00ft x 8.00ft		SHEET	120.00	0			
+1368	Steel	Steel Plate & Sheet	MS Checker Plate 3.00mm 4.00ft x 8.00ft		SHEET	330	0			
+1369	Steel	Steel Plate & Sheet	MS Checker Plate 3.00mm Cut To Size 10" x 36L (Top & Bottom Bend 1")		LOT	845	0			orig=Checker Plate 3mm Siap Potong 10" Pijak x 36L (atas & Bawah Bengkok 1")
+1370	Steel	Steel Plate & Sheet	MS Checker Plate 3mm (Cut & Bend) 10" x 36"	1	LOT	845.00	845	2026-01-31	MY STEEL HARDWARE SDN BHD	Malay: Siap Potong=Cut; Bengkok=Bend; Pijak=Tread; Bend: 1" up & down
+1371	Steel	Steel Plate & Sheet	MS Checker Plate 3mm 4 x 8 Sheet	1	SHEET	330	330	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1372	Steel	Steel Plate & Sheet	MS Checker Plate 3mm 4" x 8" Sheet	1	SHEET	330.00	330	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1373	Steel	Steel Plate & Sheet	MS Plate 3.00mm 4.00ft x 8.00ft		SHEET	265	0			
+1374	Steel	Steel Track & Channel	GI Batten 1" x 2" x 0.48mm	4	PCS	18.00	72	2025-09-02		
+1375	Steel	Steel Track & Channel	GI Batten 32.00mm x 40.00mm x 0.42mm x 6.00m	66	PCS	13	858			
+1376	Steel	Steel Track & Channel	MS Sliding Door Track 2" x 2" 2mm x 6m	1	LTH	60	60	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1377	Steel	Steel Track & Channel	MS Steel CSC 2" (AAA) x 6m	1	LTH	60.00	60	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1378	Steel	Steel Track & Channel	MS Steel CSC 3" 3.2mm Grade A x 6m	1	LTH	109	109	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1379	Steel	Steel Track & Channel	MS Steel CSC 3" 4.0mm Grade B x 6m	1	LTH	131	131	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1380	Steel	Steel Track & Channel	MS Steel CSC 3" 4.0mm Grade C x 6m	1	LTH	140	140	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1381	Steel	Steel Track & Channel	MS Steel CSC 4" 3.0mm Grade A x 6m	1	LTH	145	145	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1382	Steel	Steel Track & Channel	MS Steel CSC 6" 3mm x 6m	1	LTH	260	260	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1383	Steel	Steel Track & Channel	MS Steel CSC 8" 4.5mm x 6m	1	LTH	465	465	2026-01-31	MY STEEL HARDWARE SDN BHD	
+1384	Steel	Threaded Rod	Threaded Rod 5/16" x 6.00ft	8	PCS	6.5	52	2025-08-13		
+1385	Tarpaulin & Protection	Tarpaulin	Tarpaulin Blue/White 6ft x 100yd (BW-6100)	1	PCS	135	135	2025-09-30	NILAI AGRICULTURE ENTERPRISE	Source line was mixed; review original receipt for split items
+1386	Timber	Timber	Tiang Kayu	2	PCS	5	10	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090103
+1387	Tools	Drill Bit	IRWIN SPDH Plus Drill Bit 5.5mm x 160/100mm	1	PCS	11.1	11.1	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	Malay: Joran dril
+1388	Tools	Formwork & Accessories	Formwork Release Oil 5L	1	TIN	35	35			
+1389	Tools	Hand Tools	33-444 Powerlock 8Mtr/26ft Stanley	1	PCS	35.00	35	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+1390	Tools	Hand Tools	ALS1828 Auto Lock Utility Knife	1	PCS	5	5	2024-03-25	YIT LOONG BUILDING MATERIALS SDN BHD	
+1391	Tools	Hand Tools	Shovel (Flat) Metal Handle STD	1	PCS	40.00	40	2025-12-15	NILAI AGRICULTURE ENTERPRISE	
+1392	Tools	Hand Tools	Shovel (Pointed) Metal Handle STD	1	PCS	40	40	2025-12-15	NILAI AGRICULTURE ENTERPRISE	
+1393	Tools	Hand Tools	Shovel Metal Handle Flat STD	1	PCS	15.00	15	2025-09-30	NILAI AGRICULTURE ENTERPRISE	
+1394	Tools	Hand Tools	Steel Wire Brush	1	PCS	4.8	4.8	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+1395	Tools	Hand Tools	Steel Wire Brush	1	PCS	4.8	4.8	2026-02-13	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=I-090102+I-090103
+1396	Tools	Hand Tools	Trowel (Terima)	1	PCS	4.5	4.5	2026-02-11	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	src=QT-005928
+1397	Tools	Painting Tools & Accessories	Masking Tape 24mm x 18yd	1	ROLL	2.6	2.6			
+1398	Tools	Painting Tools & Accessories	Masking Tape 36mm x 18yd	1	ROLL	3.2	3.2			
+1399	Tools	Painting Tools & Accessories	Masking Tape 48mm x 18yd	1	ROLL	3.6	3.6			
+1400	Tools	Tarpaulin & Protection	Plastic Sheet 0.25mm x 6ft x 50ft	5	ROLL	42.00	210	2025-10-25	E SHENG HARDWARE (JH) SDN BHD	
+1401	Tools	Tools & Accessories	1/8" Evacut HSS Twist Shank Jobber Drill Bit	1	PCS	6.5	6.5	2024-09-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+1402	Tools	Tools & Accessories	3/8" Evacut HSS Twist Shank Jobber Drill Bit	1	PCS	25.4	25.4	2024-07-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+1403	Tools	Tools & Accessories	5/32" Evacut HSS Twist Shank Jobber Drill Bit	1	PCS	5.8	5.8	2023-02-23	YIT LOONG BUILDING MATERIALS SDN BHD	
+1404	Tools	Tools & Accessories	6.0mm Evacut HSS Twist Shank Jobber Drill Bit	1	PCS	9	9	2021-05-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+1405	Tools	Tools & Accessories	6.0mm HSS Twist Shank Jobber Drill Bit	1	PCS	13.00	13	2024-10-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+1406	Tools	Tools & Accessories	Aluminium Ladder 6ft	1	UNIT	180.00	180	2025-01-15		
+1407	Tools	Tools & Accessories	Angle Grinder DCA001 4" 710W	1	UNIT	125.00	125	2023-02-22	YIT LOONG BUILDING MATERIALS SDN BHD	
+1408	Tools	Tools & Accessories	Caulking Gun 10-1/2" 1350 (Half Round)	1	PCS	16.00	16	2024-09-13	YIT LOONG BUILDING MATERIALS SDN BHD	
+1409	Tools	Tools & Accessories	HARDEX Caulking Gun VT10.5	1	PCS	20.00	20	2023-03-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+1410	Tools	Tools & Accessories	Hitz Chrome Plated Measuring Tape	1	PCS	13	13	2024-08-28	YIT LOONG BUILDING MATERIALS SDN BHD	
+1411	Tools	Tools & Accessories	Jetech T-Handle Hex Key C/W Plastic Handle	1	SET	16.00	16	2021-01-02	YIT LOONG BUILDING MATERIALS SDN BHD	
+1412	Tools	Tools & Accessories	K-706# Garden Pruning Shears (Straight)	1	PCS	6.5	6.5	2021-05-06	YIT LOONG BUILDING MATERIALS SDN BHD	
+1413	Tools	Tools & Accessories	KD T Cutter Head	1	PCS	25	25	2024-05-17	YIT LOONG BUILDING MATERIALS SDN BHD	
+1414	Tools	Tools & Accessories	Knight Magnetic Nut Setter 8 x 45mm	1	PCS	2.1	2.1	2021-05-06	YIT LOONG BUILDING MATERIALS SDN BHD	
+1415	Tools	Tools & Accessories	Knight Magnetic Nut Setter 8 x 65mm	1	PCS	2.6	2.6	2021-05-06	YIT LOONG BUILDING MATERIALS SDN BHD	
+1416	Tools	Tools & Accessories	LGP-5 Curved Jaw Locking Pliers	1	PCS	25	25	2021-02-08	YIT LOONG BUILDING MATERIALS SDN BHD	
+1417	Tools	Tools & Accessories	Nylon Wheelbarrow Wheel	2	PCS	15.00	30	2025-08-23		
+1418	Tools	Tools & Accessories	Plastic Tarpaulin Sheet 12 x 18ft	2	PCS	65	130	2025-05-21		
+1419	Tools	Tools & Accessories	Poly Rope 6mm Blue	3	ROLL	15	45	2025-07-19		
+1420	Tools	Tools & Accessories	Roller Refill 4in (Tiger Line)	9	PCS	15	135	2026-02-12	KOTA MAKMUR ELEKTRIKAL & PERABOT	src=Receipt;ocr=1
+1421	Tools	Tools & Accessories	Shovel Metal Handle Flat STD	1	PCS	15	15	2025-09-30		
+1422	Tools	Tools & Accessories	Shovel Metal Handle Sharp STD	1	PCS	15	15	2025-09-30		
+1423	Tools	Tools & Accessories	Sofia Roller Refill 4" (White)	10	PCS	1.4	14	2022-12-16		
+1424	Tools	Tools & Accessories	Stanley Cutter Knife Heavy Duty	1	PCS	10	10			
+1425	Tools	Tools & Accessories	Stanley Heat Gun STEL670 2000W	1	UNIT	119	119	2024-10-08	PROEAST INDUSTRIES HARDWARE & MACHINERY	src=2024-10-08 HEATGUN - PROEAST INDUSTRIES.pdf;verify_needed=1;new_supplier_pending_standard=1
+1426	Tools	Tools & Accessories	Stanley Measuring Tape 8.00m	1	PCS	18	18	2025-02-12		
+1427	Tools	Tools & Accessories	Stanley Snip Straight Cut 10" AV14-563	1	PCS	60	60	2021-11-26	YIT LOONG BUILDING MATERIALS SDN BHD	
+1428	Tools	Tools & Accessories	STL69-799 Stanley Riveter (Heavy)	1	PCS	25	25	2024-03-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+1429	Tools	Tools & Accessories	Stretch Film 4"	1	ROLL	10	10	2024-03-18	YIT LOONG BUILDING MATERIALS SDN BHD	
+1430	Tools	Tools & Accessories	Talc Chalk	1	PCS	4	4			
+1431	Tools	Tools & Accessories	WD-40 Spray 400ml	1	CAN	18	18			
+1432	Tools	Tools & Accessories	Wheelbarrow H/D Yellow Deep (C/W Plate)	1	PCS	120	120			
+1433	Tools	Tools & Accessories	Wheelbarrow H/D Yellow Deep C/W Plate	1	PCS	120	120	2025-08-23	NILAI AGRICULTURE ENTERPRISE	
+1434	Tools	Wheelbarrow	Wheelbarrow Heavy Duty Yellow Deep C/W Plate	2	PCS	85	170	2025-09-30	NILAI AGRICULTURE ENTERPRISE	
+1435	Wall Putty & Skim Coat	Skim Coat	SikaWall 191 (Coarse) White 25kg	1	BAG		0	2026-01-13	NILAI AGRICULTURE ENTERPRISE	Kasar; price was combined in source line
+1436	Wall Putty & Skim Coat	Skim Coat	SikaWall 191 (Coarse) White 25kg	190	PCS	19	3610	2025-12-15	NILAI AGRICULTURE ENTERPRISE	Malay: kasar; Verify qty/price/total (data shifted)
+1437	Wall Putty & Skim Coat	Skim Coat	SikaWall 192 (Fine) White 25kg	1	BAG	85	85	2026-01-13	NILAI AGRICULTURE ENTERPRISE	Halus
+1438	Wall Putty & Skim Coat	Skim Coat	SikaWall 192 (Fine) White 25kg	105	PCS	21	2205	2025-12-15	NILAI AGRICULTURE ENTERPRISE	Malay: halus; Verify qty/price/total (data shifted)
+1439	Wall Putty & Skim Coat	Skim Coat	SikaWall 192 Finish High Performance Cementitious Finish Skimcoat For Internal Wall 25kg/Bag	1	BAG	23	23	2026-02-04	PERNIAGAAN BAHAN-BAHAN BINAAN JAYA	AAC Block
+1440	Welding	Welding & Gas	CO2 Gas Cylinder Refill 20kg	1	PCS	60	60			
+1441	Welding	Welding & Gas	CO2 Gas Cylinder Refill 26kg	1	PCS	70	70			
+1442	Welding	Welding & Gas	Contact Tip 0.8mm x 25L M6 MB15	10	PCS	1.2	12	2023-03-15		
+1443	Welding	Welding & Gas	Kobelco Welding Electrode MS6013 2.6mm	1	BOX	47.50	47.5	2023-02-18		
+1444	Welding	Welding & Gas	Nozzle Gel	1	PCS	25	25	2023-03-15		
+1445	Welding	Welding & Gas	Orca MIG Welding Wire 0.8mm 5kg	3	ROLL	35	105	2023-01-17		
+1446	Welding	Welding & Gas	Parweld MIG Torch MB15 5m	1	PCS	180	180	2023-03-15		
+1447	Welding	Welding & Gas	Parweld Tip Adaptor	20	PCS	3.8	76	2023-03-15		
+1448	Welding	Welding & Gas	Small Nozzle 0.8mm	20	PCS	0.8	16	2023-03-15		
+1449	Welding	Welding & Gas	Tip Holder Brass MB15	2	PCS	4.50	9	2023-01-12		
+1450	Welding	Welding & Gas	Welding Electrode E7018 3.2mm	2	BOX	62	124	2025-05-21		
+1451	Wood	Plywood	Plywood 18mm (Vietnam) Commercial Grade		SHEET	143	0		note=Flooring use	
+1452	Wood	Plywood	Plywood 9mm 4ft x 8ft	25	SHEET	45	1125	2025-09-02		
+1453	Wood	Plywood	Plywood 9mm 4ft x 8ft	25	SHEET	48	1200			note=Formwork side + soffit + stair;orig=Plywood 9mm 4 x 8 (Formwork Tepi + Soffit + Tangga)
+1454	Wood	Plywood	Raw Plywood Door (Unfinished) - Up to 36"W x 84"H (Custom Size)	1	PCS	150	150			price per door; unfinished (no paint)
+1455	Wood	Plywood	Tego Plywood 12mm 4ft x 8ft 7-Ply	15	SHEET	55	825	2025-10-12	E SHENG HARDWARE (JH) SDN BHD	
+1456	Wood	Timber	Meranti Timber 1" x 2" x 10ft	100	LTH	10	1000	2025-09-02		orig=Kayu Meranti 1 x 2 x 10ft
+1457	Wood	Timber	Meranti Timber 1" x 2" x 10ft	4	PCS	10	40	2025-06-17	NILAI AGRICULTURE ENTERPRISE	note=Malay: Kayu meranti;orig=Meranti Timber 1" x 2" x 10.00ft
+1458	Wood	Timber	Mixed Timber 1" x 2" x 10ft (Grade A)	30	LTH	6.5	195	2025-11-17	E SHENG HARDWARE (JH) SDN BHD	
+1459	Wood	Timber	Mixed Timber 2" x 3" x 10ft (Grade A)	15	LTH	15	225	2025-11-17	E SHENG HARDWARE (JH) SDN BHD	
+1460	Wood	Timber	Timber 1" x 2" x 10ft	100	PCS	10	1000			note=Walers/studs/bracing

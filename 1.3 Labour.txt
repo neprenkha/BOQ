@@ -1,0 +1,63 @@
+No	Category	Subcategory	Description	Qty	UOM	Price/Unit (RM)	Total (RM)	Update Date	Supplier
+1	Labour	Electrical Works (Conceal)	Pendawaian 1.5mm Kipas		PCS	150.00			
+2	Labour	Electrical Works (Conceal)	Pendawaian 1.5mm Lampu / Exhaust Fan (Looping)		PCS	40.00			
+3	Labour	Electrical Works (Conceal)	Pendawaian 1.5mm Switch Lampu / Exhaust Fan (1st Switch)		PCS	110.00			
+4	Labour	Electrical Works (Conceal)	Pendawaian 1.5mm Switch Lampu / Exhaust Fan (Looping)		PCS	30.00			
+5	Labour	Electrical Works (Conceal)	Pendawaian 1.5mm Switch Lampu / Exhaust Fan (Looping) 1m > /mtr		PCS	30.00			
+6	Labour	Electrical Works (Conceal)	Pendawaian 2.5mm 3 Pin Plug Point		PCS	150.00			
+7	Labour	Electrical Works (Conceal)	Pendawaian 2.5mm 3 Pin Plug Point (Looping)		PCS	30.00			
+8	Labour	Electrical Works (Conceal)	Pendawaian 2.5mm 3 Pin Plug Point (Looping) 1m > /mtr		PCS	30.00			
+9	Labour	Electrical Works (Conceal)	Pendawaian 2.5mm Air Cond 1.03.0HP		PCS	250.00			
+10	Labour	Electrical Works (Conceal)	Pendawaian 2.5mm Water Heater		PCS	250.00			
+11	Labour	Electrical Works (Conceal)	Pendawaian Auto Gate >10m / Meter (1.5 9 Core)		PCS	60.00			
+12	Labour	Electrical Works (Conceal)	Pendawaian Auto Gate >10m / Meter (2.5 9 Core)		PCS	70			
+13	Labour	Electrical Works (Conceal)	Pendawaian Auto Gate Min 10m		PCS	800.00			
+14	Labour	Electrical Works (Conceal)	Pendawaian D/B 12Way		PCS	350			
+15	Labour	Electrical Works (Conceal)	Pendawaian D/B 16Way		PCS	350			
+16	Labour	Electrical Works (Conceal)	Pendawaian D/B 30Way		PCS	350.00			
+17	Labour	Electrical Works (Exposed)	Pendawaian 1.5mm Kipas		PCS	140.00			
+18	Labour	Electrical Works (Exposed)	Pendawaian 1.5mm Lampu / Exhaust Fan (Looping)		PCS	40			
+19	Labour	Electrical Works (Exposed)	Pendawaian 1.5mm Switch Lampu / Exhaust Fan (1st Switch)		PCS	90.00			
+20	Labour	Electrical Works (Exposed)	Pendawaian 1.5mm Switch Lampu / Exhaust Fan (Looping)		PCS	30.00			
+21	Labour	Electrical Works (Exposed)	Pendawaian 1.5mm Switch Lampu / Exhaust Fan (Looping) 1m > /mtr		PCS	30.00			
+22	Labour	Electrical Works (Exposed)	Pendawaian 2.5mm 3 Pin Plug Point		PCS	120.00			
+23	Labour	Electrical Works (Exposed)	Pendawaian 2.5mm 3 Pin Plug Point (Looping)		PCS	30.00			
+24	Labour	Electrical Works (Exposed)	Pendawaian 2.5mm 3 Pin Plug Point (Looping) 1m > /mtr		PCS	30.00			
+25	Labour	Electrical Works (Exposed)	Pendawaian 2.5mm Air Cond 1.03.0HP		PCS	180.00			
+26	Labour	Electrical Works (Exposed)	Pendawaian 2.5mm Water Heater		PCS	180.00			
+27	Labour	Installation Works	Caj Tambahan Pemasangan Air Cond Jenis Inverter		PCS	80.00			
+28	Labour	Installation Works	Membuka Semua Jenis Kipas		PCS	25.00			
+29	Labour	Installation Works	Menebuk Dinding Lubang Exhaust Fan		PCS	80.00			
+30	Labour	Installation Works	Pemasangan Air Cond 1.0HP Wall Type		PCS	300.00			
+31	Labour	Installation Works	Pemasangan Air Cond 1.5HP Cassette Type		PCS	450.00			
+32	Labour	Installation Works	Pemasangan Air Cond 1.5HP Ceiling Type		PCS	400			
+33	Labour	Installation Works	Pemasangan Air Cond 1.5HP Wall Type		PCS	350.00			
+34	Labour	Installation Works	Pemasangan Air Cond 2.0HP Cassette Type		PCS	550.00			
+35	Labour	Installation Works	Pemasangan Air Cond 2.0HP Ceiling Type		PCS	500.00			
+36	Labour	Installation Works	Pemasangan Air Cond 2.0HP Wall Type		PCS	450			
+37	Labour	Installation Works	Pemasangan Air Cond 2.5HP Cassette Type		PCS	550			
+38	Labour	Installation Works	Pemasangan Air Cond 2.5HP Ceiling Type		PCS	500.00			
+39	Labour	Installation Works	Pemasangan Air Cond 2.5HP Wall Type		PCS	450.00			
+40	Labour	Installation Works	Pemasangan Air Cond 3.0HP Cassette Type		PCS	650.00			
+41	Labour	Installation Works	Pemasangan Air Cond 3.0HP Ceiling Type		PCS	600.00			
+42	Labour	Installation Works	Pemasangan Air Cond 3.0HP Wall Type		PCS	550			
+43	Labour	Installation Works	Pemasangan Hook Kipas Baru		PCS	40			
+44	Labour	Installation Works	Pemasangan Kipas Biasa / Remote		PCS	45.00			
+45	Labour	Installation Works	Pemasangan Kipas Decoration / Berlampu		PCS	55.00			
+46	Labour	Installation Works	Pemasangan Kitchen Hood		PCS	300			
+47	Labour	Installation Works	Pemasangan Lampu Downlight / Tebuk		PCS	25			
+48	Labour	Installation Works	Pemasangan Lampu Kalimantang		PCS	18.00			
+49	Labour	Installation Works	Pemasangan Lampu T5 (1ft)		PCS	35.00			
+50	Labour	Installation Works	Pemasangan Lampu T5 (2ft)		PCS	40.00			
+51	Labour	Installation Works	Pemasangan Lampu T5 (3ft)		PCS	45.00			
+52	Labour	Installation Works	Pemasangan Lampu T5 (4ft)		PCS	50.00			
+53	Labour	Installation Works	Pemasangan Pembumian Elektrik		PCS	500.00			
+54	Labour	Installation Works	Pemasangan Water Heater		PCS	100			
+55	Rental	Equipment Rental	Cement Mixer Rental - Month 1 (Per Month)	1	MONTH	650.00	650.00	2026-01-30	KEJURUTERAAN HOO TENG
+56	Rental	Equipment Rental	Cement Mixer Rental - Month 2 Onwards (Per Month)	1	MONTH	450	450	2026-01-30	KEJURUTERAAN HOO TENG
+57	Rental	Plant & Machinery	Backhoe Hire - Standard (Per Day)	1	DAY	600.00	600.00	2026-01-30	XIN LONG TRACTOR ENGINEERING
+58	Rental	Plant & Machinery	Backhoe Hire - With Hydraulic Breaker (Per Day)	1	DAY	1,050.00	1,050.00	2026-01-30	XIN LONG TRACTOR ENGINEERING
+59	Rental	Scaffolding Rental	Scaffolding Bay Set (Used) 1.7m(H) x 0.9m(W) incl 1 Platform (Per Month). Deposit RM195/set refundable.	1	SET	45.00	45	2026-01-30	LABU SCAFFOLD (M) SDN BHD
+60	Rental	Scaffolding Rental	Scaffolding Jack + U-Head Set (Used) 600mm (2 Jack Base + 2 U-Head) (Per Month). Deposit RM40/set refundable.	1	SET	20.00	20	2026-01-30	LABU SCAFFOLD (M) SDN BHD
+61	Services	Transport & Disposal	RORO Bin - 2ft (Per Trip)	1	TRIP	200.00	200.00	2026-01-30	KMS RAJAH ENTERPRISE
+62	Services	Transport & Disposal	RORO Bin - 5ft (Per Trip)	1	TRIP	350.00	350.00	2026-01-30	KMS RAJAH ENTERPRISE
